@@ -1,0 +1,542 @@
+[
+  {
+    "question": "Which celebrity chef is known for his French cuisine and has been awarded multiple Michelin stars?",
+    "options": [
+      "Gordon Ramsay",
+      "Jamie Oliver",
+      "Emeril Lagasse",
+      "Alain Ducasse"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which celebrity chef is known for her Southern-style cooking and has written several cookbooks?",
+    "options": [
+      "Paula Deen",
+      "Rachel Ray",
+      "Nigella Lawson",
+      "Giada De Laurentiis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his Italian-American cuisine and has a popular restaurant in New York City?",
+    "options": [
+      "Bobby Flay",
+      "Mario Batali",
+      "Wolfgang Puck",
+      "Anthony Bourdain"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his fiery personality and has hosted several cooking shows, including 'Hell's Kitchen'?",
+    "options": [
+      "Gordon Ramsay",
+      "Jamie Oliver",
+      "Emeril Lagasse",
+      "Alain Ducasse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his vegetarian and vegan cuisine and has a popular restaurant in Los Angeles?",
+    "options": ["Wolfgang Puck", "Alice Waters", "Jamie Oliver", "Bobby Flay"],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his British cuisine and has hosted several cooking shows, including 'The Naked Chef'?",
+    "options": [
+      "Gordon Ramsay",
+      "Jamie Oliver",
+      "Emeril Lagasse",
+      "Alain Ducasse"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his fusion cuisine and has a popular restaurant in Las Vegas?",
+    "options": [
+      "Wolfgang Puck",
+      "Bobby Flay",
+      "Emeril Lagasse",
+      "Anthony Bourdain"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his Cajun and Creole cuisine and has a popular restaurant in New Orleans?",
+    "options": [
+      "Paula Deen",
+      "Emeril Lagasse",
+      "Rachel Ray",
+      "Giada De Laurentiis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his Mediterranean cuisine and has a popular restaurant in Beverly Hills?",
+    "options": [
+      "Wolfgang Puck",
+      "Mario Batali",
+      "Nobu Matsuhisa",
+      "Bobby Flay"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for his barbecue and has a popular restaurant in Texas?",
+    "options": ["Bobby Flay", "Guy Fieri", "Aaron Franklin", "Michael Symon"],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for her baking and has a popular bakery in New York City?",
+    "options": [
+      "Martha Stewart",
+      "Ina Garten",
+      "Duff Goldman",
+      "Buddy Valastro"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which celebrity chef is known for his molecular gastronomy and has a popular restaurant in Spain?",
+    "options": [
+      "Ferran Adria",
+      "Heston Blumenthal",
+      "Grant Achatz",
+      "Wylie Dufresne"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his comfort food and has a popular restaurant in Chicago?",
+    "options": [
+      "Rick Bayless",
+      "Graham Elliot",
+      "Paul Kahan",
+      "Stephanie Izard"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which celebrity chef is known for his seafood and has a popular restaurant in San Francisco?",
+    "options": [
+      "Thomas Keller",
+      "Michael Mina",
+      "Gary Danko",
+      "Tyler Florence"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his Spanish cuisine and has a popular restaurant in New York City?",
+    "options": ["Jose Andres", "Mario Batali", "Alex Stupak", "David Chang"],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his farm-to-table cuisine and has a popular restaurant in Berkeley, California?",
+    "options": ["Alice Waters", "Thomas Keller", "Michael Mina", "Gary Danko"],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his sushi and has a popular restaurant in New York City?",
+    "options": [
+      "Masa Takayama",
+      "Nobu Matsuhisa",
+      "Morimoto",
+      "Iron Chef Morimoto"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his Southern cuisine and has a popular restaurant in Charleston, South Carolina?",
+    "options": ["Sean Brock", "Donald Link", "John Besh", "Emeril Lagasse"],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern American cuisine and has a popular restaurant in New York City?",
+    "options": [
+      "David Chang",
+      "Daniel Boulud",
+      "Thomas Keller",
+      "Jean-Georges Vongerichten"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his French-inspired cuisine and has a popular restaurant in Los Angeles?",
+    "options": ["Wolfgang Puck", "Ludo Lefebvre", "Thomas Keller", "Guy Savoy"],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his Greek cuisine and has a popular restaurant in Los Angeles?",
+    "options": [
+      "Michael Psilakis",
+      "George Mendes",
+      "Michael Symon",
+      "David Myers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his Mexican cuisine and has a popular restaurant in Chicago?",
+    "options": [
+      "Rick Bayless",
+      "Jose Garces",
+      "Aaron Sanchez",
+      "Richard Sandoval"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his Indian cuisine and has a popular restaurant in London?",
+    "options": [
+      "Atul Kochhar",
+      "Vineet Bhatia",
+      "Floyd Cardoz",
+      "Hemant Mathur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his Chinese cuisine and has a popular restaurant in New York City?",
+    "options": ["David Chang", "Peter Serpico", "Eddie Huang", "Anita Lo"],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for his Italian cuisine and has a popular restaurant in New York City?",
+    "options": [
+      "Mario Batali",
+      "Michael White",
+      "Scott Conant",
+      "Lidia Bastianich"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his Korean-inspired cuisine and has a popular restaurant in Los Angeles?",
+    "options": ["Roy Choi", "David Chang", "Edward Lee", "David Myers"],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his British cuisine and has a popular restaurant in London?",
+    "options": [
+      "Gordon Ramsay",
+      "Heston Blumenthal",
+      "Jamie Oliver",
+      "Marcus Wareing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which celebrity chef is known for his Mediterranean cuisine and has a popular restaurant in Miami?",
+    "options": [
+      "Michael Schwartz",
+      "Scott Conant",
+      "Michelle Bernstein",
+      "Jose Andres"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his Spanish cuisine and has a popular restaurant in Washington D.C.?",
+    "options": [
+      "Jose Andres",
+      "Jose Garces",
+      "Fabio Trabocchi",
+      "Michael White"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his French cuisine and has a popular restaurant in Paris?",
+    "options": ["Alain Ducasse", "Guy Savoy", "Daniel Boulud", "Joel Robuchon"],
+    "answer": 3
+  },
+  {
+    "question": "Which celebrity chef is known for his seafood and has a popular restaurant in Boston?",
+    "options": ["Barbara Lynch", "Jasper White", "Ming Tsai", "Ken Oringer"],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his modern American cuisine and has a popular restaurant in Chicago?",
+    "options": [
+      "Grant Achatz",
+      "Paul Kahan",
+      "Stephanie Izard",
+      "Rick Bayless"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his African cuisine and has a popular restaurant in London?",
+    "options": [
+      "Zoe Adjonyoh",
+      "Pierre Thiam",
+      "Tsedaye Aragie",
+      "Selassie Atadika"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his Japanese cuisine and has a popular restaurant in New York City?",
+    "options": ["Masa Takayama", "Nobu Matsuhisa", "Morimoto", "David Bouley"],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his California cuisine and has a popular restaurant in Los Angeles?",
+    "options": [
+      "Wolfgang Puck",
+      "Nancy Silverton",
+      "Suzanne Goin",
+      "Thomas Keller"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his German cuisine and has a popular restaurant in New York City?",
+    "options": [
+      "Wolfgang Puck",
+      "Thomas Keller",
+      "Daniel Boulud",
+      "Kurt Gutenbrunner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which celebrity chef is known for his Scandinavian cuisine and has a popular restaurant in Copenhagen?",
+    "options": [
+      "Rene Redzepi",
+      "Magnus Nilsson",
+      "Andeas Caminada",
+      "Esben Holmboe Bang"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern European cuisine and has a popular restaurant in London?",
+    "options": [
+      "Gordon Ramsay",
+      "Heston Blumenthal",
+      "Jason Atherton",
+      "Clare Smyth"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for his Brazilian cuisine and has a popular restaurant in London?",
+    "options": [
+      "Alex Atala",
+      "Helena Rizzo",
+      "Rodrigo Oliveira",
+      "Ana Luiza Trajano"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his Australian cuisine and has a popular restaurant in Sydney?",
+    "options": [
+      "Neil Perry",
+      "Tetsuya Wakuda",
+      "Peter Gilmore",
+      "Shannon Bennett"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his Turkish cuisine and has a popular restaurant in London?",
+    "options": [
+      "Somer Sivrioglu",
+      "Selin Kiazim",
+      "Huseyin Ozer",
+      "Fatih Tutak"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Mexican cuisine and has a popular restaurant in Mexico City?",
+    "options": [
+      "Enrique Olvera",
+      "Jorge Vallejo",
+      "Eduardo Garcia",
+      "Alex Stupak"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Indian cuisine and has a popular restaurant in London?",
+    "options": [
+      "Vineet Bhatia",
+      "Atul Kochhar",
+      "Gaggan Anand",
+      "Sriram Aylur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Italian cuisine and has a popular restaurant in New York City?",
+    "options": [
+      "Mario Batali",
+      "Michael White",
+      "Massimo Bottura",
+      "Scott Conant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for his modern French cuisine and has a popular restaurant in Paris?",
+    "options": ["Alain Ducasse", "Guy Savoy", "Daniel Boulud", "Alain Passard"],
+    "answer": 3
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Spanish cuisine and has a popular restaurant in Barcelona?",
+    "options": ["Ferran Adria", "Albert Adria", "Joan Roca", "Carles Abellan"],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Chinese cuisine and has a popular restaurant in Hong Kong?",
+    "options": ["Alvin Leung", "David Chang", "Andrew Wong", "Danny Yip"],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Japanese cuisine and has a popular restaurant in Tokyo?",
+    "options": [
+      "Hideki Ishikawa",
+      "Seiji Yamamoto",
+      "Yoshihiro Narisawa",
+      "Yuki Onishi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Korean cuisine and has a popular restaurant in Seoul?",
+    "options": [
+      "Jungsik Yim",
+      "Mingoo Kang",
+      "Pim Techamuanvivit",
+      "Eo Yun-gwon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Peruvian cuisine and has a popular restaurant in Lima?",
+    "options": [
+      "Gaston Acurio",
+      "Virgilio Martinez",
+      "Mitsuharu Tsumura",
+      "Pedro Miguel Schiaffino"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Middle Eastern cuisine and has a popular restaurant in London?",
+    "options": [
+      "Yotam Ottolenghi",
+      "Sami Tamimi",
+      "Skye Gyngell",
+      "Anna Hansen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern African cuisine and has a popular restaurant in Johannesburg?",
+    "options": [
+      "Luke Dale-Roberts",
+      "David Higgs",
+      "Kobus van der Merwe",
+      "Marthinus Ferreira"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Southeast Asian cuisine and has a popular restaurant in Bangkok?",
+    "options": [
+      "Gaggan Anand",
+      "Bo Songvisava",
+      "Duangporn Songvisava",
+      "David Thompson"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Caribbean cuisine and has a popular restaurant in San Juan?",
+    "options": ["Jose Enrique", "Wilo Benet", "Mario Pagan", "Efrain Lopez"],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Eastern European cuisine and has a popular restaurant in Budapest?",
+    "options": ["Tamas Szell", "Szabina Szullo", "Andras Wolf", "Istvan Veres"],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Russian cuisine and has a popular restaurant in Moscow?",
+    "options": [
+      "Vladimir Mukhin",
+      "Anatoly Komm",
+      "Andrey Shmakov",
+      "Alexei Zimin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern South American cuisine and has a popular restaurant in Santiago?",
+    "options": [
+      "Rodolfo Guzman",
+      "Carolina Bazan",
+      "Sergio Barroso",
+      "Jose Luis Gonzalez"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Central American cuisine and has a popular restaurant in Guatemala City?",
+    "options": [
+      "Diego Oka",
+      "Camilo Bosso",
+      "Fernando Carrillo",
+      "Paco Mendez"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Canadian cuisine and has a popular restaurant in Vancouver?",
+    "options": [
+      "David Hawksworth",
+      "Vikram Vij",
+      "Hamid Salimian",
+      "Trevor Bird"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Australian cuisine and has a popular restaurant in Melbourne?",
+    "options": [
+      "Shannon Bennett",
+      "Andrew McConnell",
+      "Ben Shewry",
+      "Dan Hunter"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for his modern New Zealand cuisine and has a popular restaurant in Auckland?",
+    "options": ["Peter Gordon", "Josh Emett", "Al Brown", "Michael Meredith"],
+    "answer": 2
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Irish cuisine and has a popular restaurant in Dublin?",
+    "options": ["Clare Smyth", "Garrett Byrne", "Jp McMahon", "Enda McEvoy"],
+    "answer": 1
+  },
+  {
+    "question": "Which celebrity chef is known for his modern Scottish cuisine and has a popular restaurant in Edinburgh?",
+    "options": [
+      "Tom Kitchin",
+      "Martin Wishart",
+      "Andrew Fairlie",
+      "Paul Kitching"
+    ],
+    "answer": 0
+  }
+]

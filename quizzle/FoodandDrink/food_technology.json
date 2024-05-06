@@ -1,0 +1,617 @@
+[
+  {
+    "question": "Which of the following is a common type of food packaging material?",
+    "options": [
+      "Polyethylene terephthalate (PET)",
+      "Polyvinyl chloride (PVC)",
+      "Polypropylene (PP)",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common method of food preservation using technology?",
+    "options": ["Canning", "Freezing", "Dehydration", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology?",
+    "options": [
+      "Pasteurization",
+      "Homogenization",
+      "Extrusion",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food additive used in food technology?",
+    "options": ["Emulsifiers", "Preservatives", "Colors", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology?",
+    "options": [
+      "Modified atmosphere packaging (MAP)",
+      "Vacuum packaging",
+      "Aseptic packaging",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food irradiation technology?",
+    "options": [
+      "Gamma irradiation",
+      "Electron beam irradiation",
+      "X-ray irradiation",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food fermentation technology?",
+    "options": [
+      "Lactic acid fermentation",
+      "Alcoholic fermentation",
+      "Acetic acid fermentation",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food extrusion technology?",
+    "options": [
+      "Cold extrusion",
+      "Hot extrusion",
+      "Co-extrusion",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for microwaveable food?",
+    "options": [
+      "Polyethylene (PE)",
+      "Polyamide (PA)",
+      "Polyethylene terephthalate (PET)",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for juice and milk products?",
+    "options": [
+      "Ultra-high temperature (UHT) processing",
+      "High-pressure processing (HPP)",
+      "Pulsed electric field (PEF) processing",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for modified atmosphere packaging?",
+    "options": [
+      "Nitrogen (N2)",
+      "Carbon dioxide (CO2)",
+      "Oxygen (O2)",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for texture modification?",
+    "options": [
+      "Hydrocolloids",
+      "Emulsifiers",
+      "Thickeners",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for meat products?",
+    "options": ["Sous-vide", "Smoking", "Grinding", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for frozen food?",
+    "options": [
+      "Polyethylene (PE)",
+      "Polyvinyl chloride (PVC)",
+      "Polypropylene (PP)",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for flavor enhancement?",
+    "options": [
+      "Monosodium glutamate (MSG)",
+      "Salt",
+      "Sugar",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for bakery products?",
+    "options": ["Proofing", "Baking", "Frying", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for aseptic packaging?",
+    "options": [
+      "Sterilization",
+      "Pasteurization",
+      "Depyrogenation",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food irradiation technology used for spices and herbs?",
+    "options": [
+      "Electron beam irradiation",
+      "Gamma irradiation",
+      "X-ray irradiation",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for preservation?",
+    "options": [
+      "Sodium benzoate",
+      "Potassium sorbate",
+      "Calcium propionate",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for dairy products?",
+    "options": [
+      "Homogenization",
+      "Pasteurization",
+      "Ultra-high temperature (UHT) processing",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for vacuum packaging?",
+    "options": [
+      "Nitrogen (N2)",
+      "Carbon dioxide (CO2)",
+      "Oxygen (O2)",
+      "None of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for coloring?",
+    "options": [
+      "Titanium dioxide",
+      "Beta-carotene",
+      "Red 40",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for canning?",
+    "options": [
+      "Thermal processing",
+      "Pressure processing",
+      "Vacuum processing",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for retort pouches?",
+    "options": [
+      "Polyethylene terephthalate (PET)",
+      "Aluminum foil",
+      "Polypropylene (PP)",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for sweetening?",
+    "options": ["Sucrose", "Fructose", "Saccharin", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for high-pressure processing (HPP)?",
+    "options": [
+      "Cold processing",
+      "Hot processing",
+      "Room temperature processing",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for active packaging?",
+    "options": [
+      "Antimicrobial packaging",
+      "Oxygen scavenging packaging",
+      "Moisture absorbing packaging",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for extrusion?",
+    "options": [
+      "Cold extrusion",
+      "Hot extrusion",
+      "Co-extrusion",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for biodegradable packaging?",
+    "options": [
+      "Polylactic acid (PLA)",
+      "Polyhydroxyalkanoates (PHA)",
+      "Starch-based materials",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for frying?",
+    "options": [
+      "Hot oil processing",
+      "Cold oil processing",
+      "Room temperature oil processing",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for thickening?",
+    "options": ["Guar gum", "Xanthan gum", "Carrageenan", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for intelligent packaging?",
+    "options": [
+      "Time-temperature indicators",
+      "Gas indicators",
+      "Freshness indicators",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for dehydration?",
+    "options": [
+      "Freeze-drying",
+      "Hot-air drying",
+      "Vacuum drying",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for antioxidant properties?",
+    "options": ["Vitamin C", "Vitamin E", "BHA and BHT", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for aseptic cartons?",
+    "options": [
+      "Paperboard",
+      "Polyethylene (PE)",
+      "Aluminum foil",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for high-pressure homogenization (HPH)?",
+    "options": [
+      "Cold homogenization",
+      "Hot homogenization",
+      "Room temperature homogenization",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for nutritional fortification?",
+    "options": ["Vitamins", "Minerals", "Amino acids", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for microwavable packaging?",
+    "options": [
+      "Polyethylene terephthalate (PET)",
+      "Polypropylene (PP)",
+      "Polyethylene (PE)",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for sterilization?",
+    "options": [
+      "Heat sterilization",
+      "Radiation sterilization",
+      "Chemical sterilization",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for metal cans?",
+    "options": [
+      "Tinplate",
+      "Aluminum",
+      "Chromium-plated steel",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for freezing?",
+    "options": [
+      "Cold storage freezing",
+      "Contact freezing",
+      "Cryogenic freezing",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for acidity regulation?",
+    "options": [
+      "Citric acid",
+      "Acetic acid",
+      "Lactic acid",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for modified atmosphere packaging (MAP)?",
+    "options": [
+      "Nitrogen (N2)",
+      "Carbon dioxide (CO2)",
+      "Oxygen (O2)",
+      "Option 1 and option 2 both"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for irradiation?",
+    "options": [
+      "Gamma irradiation",
+      "Electron beam irradiation",
+      "X-ray irradiation",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for ohmic heating?",
+    "options": [
+      "Direct electrical heating",
+      "Indirect electrical heating",
+      "Microwave heating",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for antimicrobial properties?",
+    "options": ["Nisin", "Natamycin", "Sorbic acid", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for moisture control?",
+    "options": [
+      "Calcium chloride",
+      "Magnesium chloride",
+      "Sodium chloride",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for plastic containers?",
+    "options": [
+      "Polyethylene terephthalate (PET)",
+      "Polypropylene (PP)",
+      "Polyethylene (PE)",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for high-intensity ultrasound?",
+    "options": [
+      "Sonochemical processing",
+      "Sonoelectrochemical processing",
+      "Sonocrystallization",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for stabilization?",
+    "options": [
+      "Carboxymethyl cellulose (CMC)",
+      "Xanthan gum",
+      "Guar gum",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for vacuum skin packaging (VSP)?",
+    "options": [
+      "Heat sealing",
+      "Ultrasonic sealing",
+      "Vacuum sealing",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for anti-caking properties?",
+    "options": [
+      "Silicon dioxide",
+      "Calcium silicate",
+      "Magnesium carbonate",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for high-pressure thermal sterilization (HPTS)?",
+    "options": [
+      "High-pressure processing (HPP)",
+      "Thermal processing",
+      "Vacuum processing",
+      "Option 1 and option 2 both"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for shrink wrapping?",
+    "options": [
+      "Polyethylene (PE)",
+      "Polyvinyl chloride (PVC)",
+      "Polypropylene (PP)",
+      "Polyethylene terephthalate (PET)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for microwave susceptor packaging?",
+    "options": [
+      "Metalized polyester (PET)",
+      "Metalized polyethylene (PE)",
+      "Metalized polypropylene (PP)",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for foaming?",
+    "options": [
+      "Sodium bicarbonate",
+      "Calcium carbonate",
+      "Magnesium carbonate",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for paperboard containers?",
+    "options": [
+      "Sulfate paperboard",
+      "Sulfite paperboard",
+      "Mechanical paperboard",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for ultraviolet (UV) light treatment?",
+    "options": [
+      "UV-A treatment",
+      "UV-B treatment",
+      "UV-C treatment",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for oxygen scavenging?",
+    "options": [
+      "Iron powder",
+      "Ascorbic acid",
+      "Sodium ascorbate",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for metalized polyester (PET) pouches?",
+    "options": [
+      "Aluminum foil",
+      "Polyethylene (PE)",
+      "Polypropylene (PP)",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for ultrahigh temperature (UHT) processing?",
+    "options": [
+      "Direct heating",
+      "Indirect heating",
+      "Ohmic heating",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for color retention?",
+    "options": [
+      "Ascorbic acid",
+      "Citric acid",
+      "Sodium erythorbate",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food packaging material used for glass containers?",
+    "options": [
+      "Soda-lime glass",
+      "Borosilicate glass",
+      "Lead glass",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common type of food packaging technology used for induction sealing?",
+    "options": [
+      "Heat sealing",
+      "Ultrasonic sealing",
+      "Induction sealing",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a common type of food additive used for emulsification?",
+    "options": [
+      "Lecithin",
+      "Soybean oil",
+      "Mono- and diglycerides",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a common type of food processing technology used for extrusion cooking?",
+    "options": [
+      "Thermoplastic extrusion",
+      "Reactive extrusion",
+      "Co-extrusion",
+      "All of the above"
+    ],
+    "answer": 0
+  }
+]

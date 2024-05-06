@@ -1,0 +1,517 @@
+[
+  {
+    "question": "Who started the Self-Respect Movement in 1925?",
+    "options": [
+      "Thanthai Periyar",
+      "Sami Sahajananda",
+      "W.P.A. Soundra Pandian",
+      "Moovalur Ramamirtham Ammaiyar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the founder of the Andhra Mahila Sabha?",
+    "options": [
+      "Durgabhai Deshmukh",
+      "Sarojini Naidu",
+      "K.P. Kesava Menon",
+      "T.K. Madhavan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which fruit was named for Persia, where Europeans first encountered it?",
+    "options": ["Peaches", "Apples", "Grapes", "Pears"],
+    "answer": 0
+  },
+  {
+    "question": "Where would you find empanadas being made?",
+    "options": ["Spain", "Italy", "France", "Hispanic world"],
+    "answer": 3
+  },
+  {
+    "question": "The powerful stench of the durian fruit has caused it to be banned on public transport, in hotels, and in other common areas in several Asian countries. Who described the smell as \"French-kissing your dead grandmother\"?",
+    "options": [
+      "Anthony Bourdain",
+      "Gordon Ramsay",
+      "Jamie Oliver",
+      "Nigella Lawson"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A smorgasbord is a meal made up of many small dishes, often cold cuts, vegetables, eggs, and other ingredients. It is very popular in its homeland of ____________.",
+    "options": ["Germany", "Sweden", "Norway", "Denmark"],
+    "answer": 1
+  },
+  {
+    "question": "Haggis is traditionally made with, among other things, the liver, heart, and lungs of a ____________.",
+    "options": ["Cow", "Pig", "Sheep", "Goat"],
+    "answer": 2
+  },
+  {
+    "question": "The name *Wiener schnitzel* uses the German word for which nation’s capital city?",
+    "options": ["Berlin", "Munich", "Frankfurt", "Vienna"],
+    "answer": 3
+  },
+  {
+    "question": "Powered by charcoal fire, tandoor ovens were typically used to make flat breads. In 1947 chef Kundan Lal Gujral began using them to produce his new dish tandoori chicken, now a staple of Indian cuisine. What is the name of this dish?",
+    "options": ["Tandoori roti", "Naan", "Tandoori chicken", "Kebab"],
+    "answer": 2
+  },
+  {
+    "question": "To make ceviche, raw fish is steeped in citrus juice, the acid of which denatures the fish. This causes it to firm up as though it were cooked with heat and kills many of the fish’s germs. Which country is this dish popular in?",
+    "options": ["Mexico", "Peru", "Argentina", "Chile"],
+    "answer": 1
+  },
+  {
+    "question": "About one in five South Koreans has a separate refrigerator to store and ferment what food?",
+    "options": ["Kimchi", "Rice", "Noodles", "Soup"],
+    "answer": 0
+  },
+  {
+    "question": "After helping to end Siam’s absolute monarchy, Luang Phibunsongkhram became prime minister and began issuing a series of decrees to help unite his people in the late 1930s, among which were renaming the country Thailand and creating a national dish, ____________.",
+    "options": [
+      "Pad thai",
+      "Massaman curry",
+      "Tom yum soup",
+      "Green papaya salad"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT one of the four factors of production that produce economic activity?",
+    "options": ["Land", "Labor", "Capital", "Technology"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following figures was a key person in the history of economics?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the chairman of the Federal Reserve in 2000?",
+    "options": [
+      "Alan Greenspan",
+      "Ben Bernanke",
+      "Janet Yellen",
+      "Jerome Powell"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the importance of economics in our lives.",
+    "options": [
+      "Economics is the study of how individuals, businesses, and societies allocate scarce resources to meet their unlimited wants.",
+      "Economics is the study of how governments make decisions about taxes, spending, and regulation.",
+      "Economics is the study of how financial markets operate and how they affect the overall economy.",
+      "All of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Define what economics is.",
+    "options": [
+      "Economics is the study of how individuals, businesses, and societies allocate scarce resources to meet their unlimited wants.",
+      "Economics is the study of how governments make decisions about taxes, spending, and regulation.",
+      "Economics is the study of how financial markets operate and how they affect the overall economy.",
+      "None of the above."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Describe the four main ingredients of economic activity.",
+    "options": [
+      "Land, labor, capital, and entrepreneurship.",
+      "Land, labor, capital, and technology.",
+      "Land, labor, capital, and natural resources.",
+      "Land, labor, capital, and information."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Understand the difference between macroeconomics and microeconomics.",
+    "options": [
+      "Macroeconomics is the study of the economy as a whole, while microeconomics is the study of individual markets and industries.",
+      "Macroeconomics is the study of individual markets and industries, while microeconomics is the study of the economy as a whole.",
+      "Macroeconomics and microeconomics are the same thing.",
+      "None of the above."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key feature of the history of economics?",
+    "options": [
+      "The development of economic theories and ideas over time.",
+      "The role of government in the economy.",
+      "The impact of economic policies on society.",
+      "All of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of the economic system in the United States?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Private property rights"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The law of supply and demand",
+      "The role of competition in markets",
+      "The concept of opportunity cost",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in China?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Private property rights"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of incentives in economic decision-making",
+      "The impact of economic policies on income distribution",
+      "The concept of economic growth",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Sweden?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Social democracy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of trade in economic development",
+      "The impact of globalization on national economies",
+      "The concept of economic interdependence",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Cuba?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of technology in economic growth",
+      "The impact of economic policies on the environment",
+      "The concept of economic sustainability",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Russia?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of entrepreneurship in economic development",
+      "The impact of economic policies on poverty reduction",
+      "The concept of economic freedom",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Brazil?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of government in regulating markets",
+      "The impact of economic policies on income inequality",
+      "The concept of economic efficiency",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in India?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of international trade in economic development",
+      "The impact of global economic institutions on national economies",
+      "The concept of economic interdependence",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Japan?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of innovation in economic growth",
+      "The impact of economic policies on social welfare",
+      "The concept of economic justice",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Germany?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Social market economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of education in economic development",
+      "The impact of economic policies on human capital formation",
+      "The concept of economic mobility",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Canada?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of financial markets in economic growth",
+      "The impact of economic policies on financial stability",
+      "The concept of financial regulation",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Australia?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of monetary policy in macroeconomic management",
+      "The impact of economic policies on inflation",
+      "The concept of central banking",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in South Korea?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of fiscal policy in macroeconomic management",
+      "The impact of economic policies on employment",
+      "The concept of budget deficits and surpluses",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Mexico?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of globalization in economic development",
+      "The impact of economic policies on international trade",
+      "The concept of comparative advantage",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in France?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of property rights in economic development",
+      "The impact of economic policies on property ownership",
+      "The concept of economic freedom",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in the United Kingdom?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of competition in economic growth",
+      "The impact of economic policies on market structure",
+      "The concept of market failure",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Argentina?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of technology in economic growth",
+      "The impact of economic policies on innovation",
+      "The concept of economic efficiency",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Indonesia?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of international trade in economic development",
+      "The impact of economic policies on global economic institutions",
+      "The concept of economic interdependence",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the economic system in Turkey?",
+    "options": [
+      "Free market capitalism",
+      "Limited government intervention",
+      "Central planning",
+      "Mixed economy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in the history of economics?",
+    "options": [
+      "The role of government in macroeconomic management",
+      "The impact of economic policies on income distribution",
+      "The concept of economic stability",
+      "All of the above"
+    ],
+    "answer": 3
+  }
+]

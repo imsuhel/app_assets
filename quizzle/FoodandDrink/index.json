@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Famous Chefs",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 20,
+    "url": "/foodandDrink/famous_chefs.json",
+    "isDone": true
+  },
+  {
+    "id": 2,
+    "title": "Food Trivia",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 20,
+    "url": "/foodandDrink/food_trivia.json",
+    "isDone": true
+  },
+  {
+    "id": 3,
+    "title": "Cocktail Knowledge",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 20,
+    "url": "/foodandDrink/cocktail_knowledge.json",
+    "isDone": true
+  },
+  {
+    "id": 4,
+    "title": "Cuisine Identification",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 20,
+    "url": "/foodandDrink/cuisine_identification.json",
+    "isDone": true
+  },
+  {
+    "id": 5,
+    "title": "Food and Drink Pairings",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 20,
+    "url": "/foodandDrink/food_drink_pairings.json",
+    "isDone": true
+  },
+  {
+    "id": 6,
+    "title": "Food and Nutrition",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 20,
+    "url": "/foodandDrink/food_nutrition.json",
+    "isDone": true
+  },
+  {
+    "id": 7,
+    "title": "Food and Travel",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 20,
+    "url": "/foodandDrink/food_travel.json",
+    "isDone": true
+  },
+  {
+    "id": 8,
+    "title": "Food and Technology",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 20,
+    "url": "/foodandDrink/food_technology.json",
+    "isDone": true
+  },
+  {
+    "id": 9,
+    "title": "Food and Entertainment",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 20,
+    "url": "/foodandDrink/food_entertainment.json",
+    "isDone": true
+  }
+]

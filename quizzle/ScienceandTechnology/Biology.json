@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What is the most abundant chemical in living organisms?",
+    "options": ["Oxygen", "Carbon", "Water", "Nitrogen"],
+    "answer": 2
+  },
+  {
+    "question": "Dead plants and animals return nitrogen to the soil as which of the following?",
+    "options": ["Nitrites", "Nitrates", "Ammonium Compounds", "Nitrogen Gas"],
+    "answer": 2
+  },
+  {
+    "question": "Which among the following are very difficult to get rid of from the environment?",
+    "options": ["Consumers", "Producers", "Decomposers", "Herbivores"],
+    "answer": 1
+  },
+  {
+    "question": "What is the relationship between 'Heart' and 'Cardiologist' similar to?",
+    "options": [
+      "Ophthalmologist",
+      "Gynaecologist",
+      "Neurologist",
+      "Nephrologist"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following enzymes helps in digestion?",
+    "options": ["Amylase", "Lipase", "Pepsin", "Hydrochloric acid"],
+    "answer": 3
+  },
+  {
+    "question": "The formation of antibodies takes place in which part of the body?",
+    "options": ["Liver", "Spleen", "Bone Marrow", "Thymus"],
+    "answer": 2
+  },
+  {
+    "question": "Which among the following drugs is most widely tried against the AIDS virus?",
+    "options": [
+      "Tenofovirdisoproxil fumarate",
+      "Zidovudine",
+      "Efavirenz",
+      "Nevirapine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Milk fever in cows occurs due to the lack of which mineral?",
+    "options": ["Calcium", "Phosphorus", "Magnesium", "Potassium"],
+    "answer": 0
+  },
+  {
+    "question": "The crops of oil seeds are associated with which family of plants?",
+    "options": ["Solanaceae", "Cruciferae", "Fabaceae", "Lamiaceae"],
+    "answer": 1
+  },
+  {
+    "question": "Which among the following equipment is used to diagnose eye ailments?",
+    "options": [
+      "Ophthalmoscope",
+      "Stethoscope",
+      "Otoscope",
+      "Sphygmomanometer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What correctly defines the term ‘endemic species’?",
+    "options": [
+      "The endangered species given protection in a restricted zone",
+      "The rare and indigenous species found in a specific and defined geographical area",
+      "The species that migrate seasonally",
+      "The species that are extinct"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the correct formula for water?",
+    "options": ["H2O2", "HO2", "H2O", "OH2"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the formula for carbon dioxide?",
+    "options": ["CO", "CO2", "C2O", "O2C"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the formula for sulfuric acid?",
+    "options": ["H2SO4", "HSO4", "HSO3", "H2SO3"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for nitric acid?",
+    "options": ["HNO3", "HNO2", "NH4NO3", "NH4NO2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for hydrochloric acid?",
+    "options": ["HCl", "H2Cl", "ClH", "Cl2H"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for sodium hydroxide?",
+    "options": ["NaOH", "Na2O", "NaH", "Na2OH"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for potassium hydroxide?",
+    "options": ["KOH", "K2O", "KH", "K2OH"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for ammonium hydroxide?",
+    "options": ["NH4OH", "NH2OH", "NH3O", "NH4O"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for calcium hydroxide?",
+    "options": ["Ca(OH)2", "CaOH2", "Ca2OH", "CaO2H"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for magnesium hydroxide?",
+    "options": ["Mg(OH)2", "MgOH2", "Mg2OH", "MgO2H"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for acetic acid?",
+    "options": ["HCl", "H2SO4", "CH3COOH", "HNO3"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the formula for citric acid?",
+    "options": ["HCl", "H2SO4", "C6H8O7", "HNO3"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the formula for lactic acid?",
+    "options": ["HCl", "H2SO4", "C3H6O3", "HNO3"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the formula for ascorbic acid?",
+    "options": ["HCl", "H2SO4", "C6H8O6", "HNO3"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the formula for hydrofluoric acid?",
+    "options": ["HF", "H2F", "FH", "F2H"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for sulfuric acid?",
+    "options": ["H2SO4", "HSO4", "HSO3", "H2SO3"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for nitric acid?",
+    "options": ["HNO3", "HNO2", "NH4NO3", "NH4NO2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for hydrochloric acid?",
+    "options": ["HCl", "H2Cl", "ClH", "Cl2H"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for sodium hydroxide?",
+    "options": ["NaOH", "Na2O", "NaH", "Na2OH"],
+    "answer": 0
+  }
+]

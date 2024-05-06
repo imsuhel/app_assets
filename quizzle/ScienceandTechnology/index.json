@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Physics",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/ScienceandTechnology/Physics.json",
+    "isDone": true
+  },
+  {
+    "id": 2,
+    "title": "Chemistry",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/ScienceandTechnology/Chemistry.json",
+    "isDone": true
+  },
+  {
+    "id": 3,
+    "title": "Biology",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/ScienceandTechnology/Biology.json",
+    "isDone": true
+  },
+  {
+    "id": 4,
+    "title": "Astronomy",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/ScienceandTechnology/Astronomy.json",
+    "isDone": true
+  },
+  {
+    "id": 5,
+    "title": "Computer Science",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/ScienceandTechnology/ComputerScience.json",
+    "isDone": true
+  },
+  {
+    "id": 6,
+    "title": "Electrical Engineering",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/ScienceandTechnology/ElectricalEngineering.json",
+    "isDone": true
+  },
+  {
+    "id": 7,
+    "title": "Mechanical Engineering",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/ScienceandTechnology/MechanicalEngineering.json",
+    "isDone": true
+  },
+  {
+    "id": 8,
+    "title": "Environmental Science",
+    "totalQuestions": 0,
+    "time": "60 mins",
+    "passingMarks": 40,
+    "url": "/ScienceandTechnology/EnvironmentalScience.json",
+    "isDone": true
+  },
+  {
+    "id": 9,
+    "title": "Artificial Intelligence",
+    "totalQuestions": 0,
+    "time": "60 mins",
+    "passingMarks": 40,
+    "url": "/ScienceandTechnology/ArtificialIntelligence.json",
+    "isDone": true
+  },
+  {
+    "id": 10,
+    "title": "Network Security",
+    "totalQuestions": 0,
+    "time": "60 mins",
+    "passingMarks": 40,
+    "url": "/ScienceandTechnology/NetworkSecurity.json",
+    "isDone": true
+  }
+]

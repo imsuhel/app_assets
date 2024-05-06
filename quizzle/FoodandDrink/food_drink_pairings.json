@@ -1,0 +1,412 @@
+[
+  {
+    "question": "What is a traditional pairing with sushi?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 1
+  },
+  {
+    "question": "What type of cheese is traditionally paired with a full-bodied red wine?",
+    "options": ["Brie", "Cheddar", "Blue cheese", "Gouda"],
+    "answer": 2
+  },
+  {
+    "question": "What is a traditional pairing with grilled steak?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 0
+  },
+  {
+    "question": "What type of wine is traditionally paired with fish?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with spicy food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with pasta with tomato sauce?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with fried foods?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with chicken?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Indian food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with cheese?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Mexican food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with dessert?",
+    "options": ["Red wine", "White wine", "Rosé", "Sweet wine"],
+    "answer": 3
+  },
+  {
+    "question": "What is a traditional pairing with Thai food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with sushi?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Italian food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 0
+  },
+  {
+    "question": "What type of wine is traditionally paired with seafood?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Chinese food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with pork?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Spanish food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 0
+  },
+  {
+    "question": "What type of wine is traditionally paired with beef?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with German food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with vegetarian dishes?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with French food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 0
+  },
+  {
+    "question": "What type of wine is traditionally paired with lamb?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Japanese food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 1
+  },
+  {
+    "question": "What type of wine is traditionally paired with turkey?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Korean food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with duck?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Middle Eastern food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with veal?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with African food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with game meat?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Mediterranean food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 0
+  },
+  {
+    "question": "What type of wine is traditionally paired with venison?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Indian curry?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with rabbit?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Moroccan food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with shellfish?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Greek food?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 1
+  },
+  {
+    "question": "What type of wine is traditionally paired with poultry?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Spanish tapas?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 0
+  },
+  {
+    "question": "What type of wine is traditionally paired with pork tenderloin?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with German sausage?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with fish and chips?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Mexican tacos?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with veal chops?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Japanese sashimi?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 1
+  },
+  {
+    "question": "What type of wine is traditionally paired with beef stir-fry?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with roasted chicken?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What type of wine is traditionally paired with beef bourguignon?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Thai green curry?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with seared tuna?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Indian biryani?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with grilled salmon?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Japanese ramen?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with roasted lamb?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Moroccan tagine?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with coq au vin?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Chinese dumplings?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with paella?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with German schnitzel?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 1
+  },
+  {
+    "question": "What type of wine is traditionally paired with seafood risotto?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Japanese tempura?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with duck confit?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Mexican mole?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 0
+  },
+  {
+    "question": "What type of wine is traditionally paired with beef Wellington?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Indian samosas?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with fish tacos?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Japanese sushi rolls?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 1
+  },
+  {
+    "question": "What type of wine is traditionally paired with chicken cordon bleu?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with German sauerbraten?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 0
+  },
+  {
+    "question": "What type of wine is traditionally paired with seafood paella?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Japanese yakitori?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with beef stroganoff?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  },
+  {
+    "question": "What is a traditional pairing with Indian tandoori chicken?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with grilled shrimp?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Japanese udon noodles?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with roasted turkey?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with German bratwurst?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with seafood salad?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 1
+  },
+  {
+    "question": "What is a traditional pairing with Japanese tempura udon?",
+    "options": ["Red wine", "White wine", "Beer", "Soda"],
+    "answer": 2
+  },
+  {
+    "question": "What type of wine is traditionally paired with roasted game hen?",
+    "options": ["Red wine", "White wine", "Rosé", "Sparkling wine"],
+    "answer": 0
+  }
+]

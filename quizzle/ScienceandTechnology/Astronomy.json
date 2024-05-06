@@ -1,0 +1,317 @@
+[
+  {
+    "question": "Which galaxy is home to the Solar system?",
+    "options": ["Andromeda", "Milky Way", "Triangulum", "Whirlpool"],
+    "answer": 1
+  },
+  {
+    "question": "Which object lost its status as a planet in 2006?",
+    "options": ["Pluto", "Neptune", "Eris", "Ceres"],
+    "answer": 0
+  },
+  {
+    "question": "What is the Oort cloud?",
+    "options": [
+      "A hypothetical reservoir for comets",
+      "A region of space where asteroids are found",
+      "A group of stars that make up the constellation Orion",
+      "A type of galaxy that is spiral-shaped"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the third brightest astronomical object in the sky?",
+    "options": ["Venus", "Mars", "Jupiter", "Sirius"],
+    "answer": 0
+  },
+  {
+    "question": "How many moons does Mars have?",
+    "options": ["2", "4", "6", "8"],
+    "answer": 0
+  },
+  {
+    "question": "Who discovered the four main moons of Jupiter in 1610?",
+    "options": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Isaac Newton",
+      "Nicolaus Copernicus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the Solar Cycle?",
+    "options": [
+      "Polarity reverse of the Sun",
+      "A unit of measurement used to describe the expansion of the Universe",
+      "The period of time it takes for the Sun to complete one rotation on its axis",
+      "A measure of distance - 1 astronomical unit equals 93,000,000 miles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the Hubble constant?",
+    "options": [
+      "A unit of measurement used to describe the expansion of the Universe",
+      "A measure of distance - 1 astronomical unit equals 93,000,000 miles",
+      "The period of time it takes for the Sun to complete one rotation on its axis",
+      "Polarity reverse of the Sun"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Hydrogen and which other gas make up the majority of the Sun's composition?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Carbon"],
+    "answer": 2
+  },
+  {
+    "question": "Which star is closest to the Sun?",
+    "options": [
+      "Proxima Centauri",
+      "Alpha Centauri",
+      "Barnard's Star",
+      "Sirius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vesta is which type of heavenly body?",
+    "options": ["Asteroid", "Comet", "Planet", "Satellite"],
+    "answer": 0
+  },
+  {
+    "question": "The comet with the shortest orbital period of 3.3 years is named what?",
+    "options": ["Encke", "Halley", "Shoemaker-Levy", "Hale-Bopp"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet has the largest moon in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "What is a pulsar?",
+    "options": [
+      "A highly magnetised rotating neutron star",
+      "A type of galaxy that is spiral-shaped",
+      "A region of space where asteroids are found",
+      "A hypothetical reservoir for comets"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How many terrestrial planets are there in the Solar system?",
+    "options": ["4", "6", "8", "10"],
+    "answer": 0
+  },
+  {
+    "question": "How many named constellations are there?",
+    "options": ["88", "100", "120", "150"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the largest volcano in the Solar system?",
+    "options": [
+      "Olympus Mons (Mars)",
+      "Mauna Loa (Earth)",
+      "Tharsis Montes (Mars)",
+      "Erebus (Antarctica)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which three stars make the Summer Triangle?",
+    "options": [
+      "Vega, Deneb, Altair",
+      "Betelgeuse, Rigel, Bellatrix",
+      "Polaris, Altair, Procyon",
+      "Sirius, Orion, Canopus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the last man on the Moon?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Eugene Cernan",
+      "Alan Shepard"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a supernova?",
+    "options": [
+      "A powerful star explosion",
+      "The period of time it takes for the Sun to complete one rotation on its axis",
+      "A hypothetical reservoir for comets",
+      "A highly magnetised rotating neutron star"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is an astronomical unit?",
+    "options": [
+      "A measure of distance - 1 astronomical unit equals 93,000,000 miles",
+      "A unit of measurement used to describe the expansion of the Universe",
+      "The period of time it takes for the Sun to complete one rotation on its axis",
+      "Polarity reverse of the Sun"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a Coronal Mass Ejection?",
+    "options": [
+      "A massive release of plasma from the Sun",
+      "A hypothetical reservoir for comets",
+      "A highly magnetised rotating neutron star",
+      "A type of galaxy that is spiral-shaped"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How many Ice giants are in the Solar system?",
+    "options": ["2", "4", "6", "8"],
+    "answer": 0
+  },
+  {
+    "question": "What is the orbital period of Halley’s comet?",
+    "options": ["76 years", "114 years", "146 years", "171 years"],
+    "answer": 0
+  },
+  {
+    "question": "What is the escape velocity from the Solar system at the distance of Earth?",
+    "options": [
+      "42 kilometers per second (93,951 mph)",
+      "61 kilometers per second (137,500 mph)",
+      "80 kilometers per second (180,000 mph)",
+      "99 kilometers per second (220,000 mph)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which planet has the most moons in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet has the longest day in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Venus"],
+    "answer": 3
+  },
+  {
+    "question": "Which planet has the shortest day in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 3
+  },
+  {
+    "question": "Which planet is known as the \"Red Planet\"?",
+    "options": ["Jupiter", "Mars", "Mercury", "Venus"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is known as the \"Gas Giant\"?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is known as the \"Ice Giant\"?",
+    "options": ["Uranus", "Neptune", "Jupiter", "Saturn"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is known as the \"Ringed Planet\"?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is known as the \"Morning Star\" or \"Evening Star\"?",
+    "options": ["Mercury", "Venus", "Mars", "Saturn"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet has a retrograde rotation?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet has the most extreme seasons in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet has the strongest magnetic field in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet has the least dense atmosphere in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet has the most volcanoes in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Venus"],
+    "answer": 3
+  },
+  {
+    "question": "Which planet has the largest ocean in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 3
+  },
+  {
+    "question": "Which planet has the largest ring system in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet has the largest storm in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet has the coldest temperature in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 3
+  },
+  {
+    "question": "Which planet has the highest surface temperature in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Venus"],
+    "answer": 3
+  },
+  {
+    "question": "Which planet has the most moons in the Solar system that are larger than the planet itself?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet has the largest moon in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet has the most volcanoes in the Solar system that are active?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Io"],
+    "answer": 3
+  },
+  {
+    "question": "Which planet has the most extreme tilt in the Solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet has the most moons in the Solar system that are named?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet has the most moons in the Solar system that are irregularly shaped?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet has the most moons in the Solar system that are captured asteroids?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0
+  }
+]

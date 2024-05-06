@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Countries and Capitals",
+    "totalQuestions": 30,
+    "time": "20 mins",
+    "passingMarks": 25,
+    "url": "/Geography/CountriesAndCapitals.json",
+    "isDone": true
+  },
+  {
+    "id": 2,
+    "title": "Physical Geography",
+    "totalQuestions": 30,
+    "time": "25 mins",
+    "passingMarks": 25,
+    "url": "/Geography/PhysicalGeography.json",
+    "isDone": true
+  },
+  {
+    "id": 3,
+    "title": "Cultural Geography",
+    "totalQuestions": 30,
+    "time": "15 mins",
+    "passingMarks": 25,
+    "url": "/Geography/CulturalGeography.json",
+    "isDone": true
+  },
+  {
+    "id": 4,
+    "title": "Travel Destinations",
+    "totalQuestions": 30,
+    "time": "10 mins",
+    "passingMarks": 25,
+    "url": "/Geography/TravelDestinations.json",
+    "isDone": true
+  },
+  {
+    "id": 5,
+    "title": "Maps and Navigation",
+    "totalQuestions": 30,
+    "time": "15 mins",
+    "passingMarks": 25,
+    "url": "/Geography/MapsAndNavigation.json",
+    "isDone": true
+  },
+  {
+    "id": 6,
+    "title": "Geography Trivia",
+    "totalQuestions": 30,
+    "time": "20 mins",
+    "passingMarks": 25,
+    "url": "/Geography/GeographyTrivia.json",
+    "isDone": true
+  },
+  {
+    "id": 7,
+    "title": "Environmental Geography",
+    "totalQuestions": 30,
+    "time": "25 mins",
+    "passingMarks": 25,
+    "url": "/Geography/EnvironmentalGeography.json",
+    "isDone": true
+  },
+  {
+    "id": 8,
+    "title": "Political Geography",
+    "totalQuestions": 30,
+    "time": "15 mins",
+    "passingMarks": 25,
+    "url": "/Geography/PoliticalGeography.json",
+    "isDone": true
+  },
+  {
+    "id": 9,
+    "title": "Historical Geography",
+    "totalQuestions": 30,
+    "time": "20 mins",
+    "passingMarks": 25,
+    "url": "/Geography/HistoricalGeography.json",
+    "isDone": true
+  },
+  {
+    "id": 10,
+    "title": "Urban Geography",
+    "totalQuestions": 30,
+    "time": "15 mins",
+    "passingMarks": 25,
+    "url": "/Geography/UrbanGeography.json",
+    "isDone": true
+  }
+]

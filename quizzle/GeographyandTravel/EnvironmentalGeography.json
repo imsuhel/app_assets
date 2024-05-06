@@ -1,0 +1,887 @@
+[
+  {
+    "question": "What is the primary greenhouse gas responsible for global warming?",
+    "options": [
+      "Carbon Dioxide (CO2)",
+      "Methane (CH4)",
+      "Nitrous Oxide (N2O)",
+      "Water Vapor (H2O)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a major cause of deforestation?",
+    "options": [
+      "Urbanization",
+      "Mining",
+      "Agriculture",
+      "Renewable energy projects"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process by which water evaporates from plants into the atmosphere?",
+    "options": [
+      "Transpiration",
+      "Precipitation",
+      "Condensation",
+      "Infiltration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a non-renewable energy source?",
+    "options": ["Solar", "Wind", "Coal", "Hydroelectric"],
+    "answer": 2
+  },
+  {
+    "question": "What is the main cause of ocean acidification?",
+    "options": [
+      "Deforestation",
+      "Industrial pollution",
+      "Carbon emissions",
+      "Overfishing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a renewable energy source?",
+    "options": ["Natural Gas", "Nuclear", "Biomass", "Oil"],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the loss of soil fertility and productivity?",
+    "options": ["Desertification", "Erosion", "Salinization", "Deforestation"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a major contributor to air pollution in urban areas?",
+    "options": [
+      "Solar energy",
+      "Electric vehicles",
+      "Diesel vehicles",
+      "Wind power"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the process of converting waste materials into reusable materials called?",
+    "options": ["Recycling", "Incineration", "Landfilling", "Composting"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a greenhouse gas released from agricultural activities?",
+    "options": [
+      "Carbon Dioxide (CO2)",
+      "Methane (CH4)",
+      "Nitrous Oxide (N2O)",
+      "Sulfur Dioxide (SO2)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the gradual increase in the Earth's average temperature?",
+    "options": [
+      "Global Cooling",
+      "Climate Change",
+      "Global Warming",
+      "Ozone Depletion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of water pollution?",
+    "options": [
+      "Organic farming",
+      "Industrial runoff",
+      "Rainwater harvesting",
+      "Wetland conservation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of removing salt from seawater to make it suitable for drinking?",
+    "options": ["Desalination", "Filtration", "Distillation", "Purification"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key factor contributing to biodiversity loss?",
+    "options": [
+      "Habitat conservation",
+      "Climate change",
+      "Sustainable agriculture",
+      "Protected areas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of breaking down organic matter by microorganisms in the absence of oxygen?",
+    "options": [
+      "Composting",
+      "Anaerobic digestion",
+      "Incineration",
+      "Landfilling"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a renewable energy source derived from the heat of the Earth's interior?",
+    "options": ["Solar", "Wind", "Geothermal", "Biomass"],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of converting sunlight into electricity?",
+    "options": [
+      "Solarization",
+      "Photovoltaics",
+      "Solar thermal",
+      "Solar conversion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "Agroforestry",
+      "Cover cropping",
+      "Deforestation",
+      "Soil conservation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of capturing and storing carbon dioxide to prevent it from entering the atmosphere?",
+    "options": [
+      "Carbon offsetting",
+      "Carbon sequestration",
+      "Carbon trading",
+      "Carbon footprinting"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a key factor contributing to ocean pollution?",
+    "options": [
+      "Marine protected areas",
+      "Sustainable fishing practices",
+      "Plastic waste",
+      "Coral reef conservation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of converting waste materials into energy?",
+    "options": ["Recycling", "Incineration", "Landfilling", "Composting"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major cause of air pollution in urban areas?",
+    "options": [
+      "Electric vehicles",
+      "Biomass burning",
+      "Solar power",
+      "Green buildings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using living organisms to clean up contaminated environments?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a renewable energy source derived from the movement of water?",
+    "options": ["Solar", "Wind", "Hydroelectric", "Geothermal"],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of converting organic waste into nutrient-rich soil?",
+    "options": ["Recycling", "Incineration", "Landfilling", "Composting"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a major contributor to habitat destruction?",
+    "options": [
+      "Reforestation",
+      "Urban sprawl",
+      "Protected areas",
+      "Wildlife corridors"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using plants to clean up contaminated soil and water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major cause of water scarcity?",
+    "options": [
+      "Rainwater harvesting",
+      "Drought",
+      "Water conservation",
+      "Desalination"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using natural wetlands to filter pollutants from water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Wetland restoration"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using organic materials to filter pollutants from water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of soil degradation?",
+    "options": [
+      "Overgrazing",
+      "Sustainable agriculture",
+      "Soil conservation",
+      "Agroforestry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the term for the process of using algae to clean up contaminated water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Algae filtration"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a major contributor to air pollution in urban areas?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Biomass burning",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of habitat loss?",
+    "options": [
+      "Reforestation",
+      "Urban sprawl",
+      "Protected areas",
+      "Wildlife corridors"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using plants to absorb carbon dioxide from the atmosphere?",
+    "options": [
+      "Carbon offsetting",
+      "Carbon sequestration",
+      "Carbon trading",
+      "Carbon footprinting"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to water pollution?",
+    "options": [
+      "Organic farming",
+      "Industrial runoff",
+      "Rainwater harvesting",
+      "Wetland conservation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major cause of water scarcity?",
+    "options": [
+      "Rainwater harvesting",
+      "Drought",
+      "Water conservation",
+      "Desalination"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major contributor to air pollution?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Biomass burning",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of soil degradation?",
+    "options": [
+      "Overgrazing",
+      "Sustainable agriculture",
+      "Soil conservation",
+      "Agroforestry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to water pollution?",
+    "options": [
+      "Organic farming",
+      "Industrial runoff",
+      "Rainwater harvesting",
+      "Wetland conservation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major contributor to climate change?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Carbon emissions",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of habitat destruction?",
+    "options": [
+      "Habitat conservation",
+      "Climate change",
+      "Sustainable agriculture",
+      "Urban sprawl"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the term for the process of using natural materials to absorb pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to air pollution?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Biomass burning",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of soil degradation?",
+    "options": [
+      "Overgrazing",
+      "Sustainable agriculture",
+      "Soil conservation",
+      "Agroforestry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to water pollution?",
+    "options": [
+      "Organic farming",
+      "Industrial runoff",
+      "Rainwater harvesting",
+      "Wetland conservation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major contributor to climate change?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Carbon emissions",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of habitat destruction?",
+    "options": [
+      "Habitat conservation",
+      "Climate change",
+      "Sustainable agriculture",
+      "Urban sprawl"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the term for the process of using natural materials to absorb pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to air pollution?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Biomass burning",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of soil degradation?",
+    "options": [
+      "Overgrazing",
+      "Sustainable agriculture",
+      "Soil conservation",
+      "Agroforestry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to water pollution?",
+    "options": [
+      "Organic farming",
+      "Industrial runoff",
+      "Rainwater harvesting",
+      "Wetland conservation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major contributor to climate change?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Carbon emissions",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of habitat destruction?",
+    "options": [
+      "Habitat conservation",
+      "Climate change",
+      "Sustainable agriculture",
+      "Urban sprawl"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the term for the process of using natural materials to absorb pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to air pollution?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Biomass burning",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of soil degradation?",
+    "options": [
+      "Overgrazing",
+      "Sustainable agriculture",
+      "Soil conservation",
+      "Agroforestry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to water pollution?",
+    "options": [
+      "Organic farming",
+      "Industrial runoff",
+      "Rainwater harvesting",
+      "Wetland conservation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major contributor to climate change?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Carbon emissions",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of habitat destruction?",
+    "options": [
+      "Habitat conservation",
+      "Climate change",
+      "Sustainable agriculture",
+      "Urban sprawl"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the term for the process of using natural materials to absorb pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to air pollution?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Biomass burning",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of soil degradation?",
+    "options": [
+      "Overgrazing",
+      "Sustainable agriculture",
+      "Soil conservation",
+      "Agroforestry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to water pollution?",
+    "options": [
+      "Organic farming",
+      "Industrial runoff",
+      "Rainwater harvesting",
+      "Wetland conservation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major contributor to climate change?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Carbon emissions",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to filter pollutants from water?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of habitat destruction?",
+    "options": [
+      "Habitat conservation",
+      "Climate change",
+      "Sustainable agriculture",
+      "Urban sprawl"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the term for the process of using natural materials to absorb pollutants from air?",
+    "options": [
+      "Bioremediation",
+      "Phytoremediation",
+      "Biofiltration",
+      "Biodegradation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a major contributor to air pollution?",
+    "options": [
+      "Solar panels",
+      "Electric vehicles",
+      "Biomass burning",
+      "Green buildings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of using natural materials to insulate buildings?",
+    "options": [
+      "Green roofs",
+      "Biodegradable insulation",
+      "Natural insulation",
+      "Sustainable insulation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a major cause of soil degradation?",
+    "options": [
+      "Overgrazing",
+      "Sustainable agriculture",
+      "Soil conservation",
+      "Agroforestry"
+    ],
+    "answer": 0
+  }
+]

@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is not a correct pair?",
+      "options": [
+        "Mediterranean region - Pleasant Climate",
+        "Ganga Plains - Minerals",
+        "Osaka Industrial Region - Japan",
+        "Katanga Zambia - Copper mines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one of the following is not a country with high human development?",
+      "options": ["Norway", "Argentina", "Japan", "Egypt"],
+      "answer": 3
+    },
+    {
+      "question": "Which one of the following scholars introduced the concept of human development?",
+      "options": [
+        "Professor Amartya Sen",
+        "Dr. Mahmud ul haq",
+        "Ellen C sample",
+        "Ratzel"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which country is the first in rank in human development index?",
+      "options": ["Latvia", "Norway", "Finland", "Austria"],
+      "answer": 1
+    },
+    {
+      "question": "Which is not used to measure the human development index?",
+      "options": [
+        "Literacy rate",
+        "Per capita income",
+        "Life expectancy",
+        "Social status of the people"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What was the rank of India in UNDP in the year 2006?",
+      "options": ["130", "136", "126", "128"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is the state having largest area in India?",
+      "options": ["Rajasthan", "Maharashtra", "Uttar Pradesh", "Sikkim"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the state having highest density of population in India?",
+      "options": ["Bihar", "Gujarat", "Maharashtra", "West Bengal"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the state having lowest density of population in India?",
+      "options": ["Arunachal Pradesh", "Nagaland", "Sikkim", "Meghalaya"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following countries shares its borders with maximum number of Indian states?",
+      "options": ["China", "Pakistan", "Nepal", "Bhutan"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following countries shares its borders with minimum number of Indian states?",
+      "options": ["Nepal", "Bhutan", "Myanmar", "Bangladesh"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following countries shares its borders with China, Pakistan, Nepal, and Bhutan?",
+      "options": ["India", "Myanmar", "Afghanistan", "Tajikistan"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following countries shares its borders with China, Pakistan, and Afghanistan?",
+      "options": ["India", "Tajikistan", "Kyrgyzstan", "Kazakhstan"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, Pakistan, and Afghanistan?",
+      "options": ["China", "Iran", "Turkmenistan", "Tajikistan"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, Nepal, and Bhutan?",
+      "options": ["China", "Bangladesh", "Myanmar", "Pakistan"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, Pakistan, and Bangladesh?",
+      "options": ["China", "Nepal", "Afghanistan", "Iran"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, Nepal, and China?",
+      "options": ["Bangladesh", "Pakistan", "Myanmar", "Bhutan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India and Pakistan?",
+      "options": ["China", "Nepal", "Afghanistan", "Iran"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India and Bangladesh?",
+      "options": ["China", "Nepal", "Myanmar", "Bhutan"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following countries shares its borders with India and Myanmar?",
+      "options": ["China", "Nepal", "Bhutan", "Bangladesh"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following countries shares its borders with India and China?",
+      "options": ["Nepal", "Pakistan", "Bhutan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Myanmar?",
+      "options": ["Nepal", "Bangladesh", "Pakistan", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Nepal?",
+      "options": ["Bangladesh", "Pakistan", "Myanmar", "Bhutan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Pakistan?",
+      "options": ["Nepal", "Bhutan", "Afghanistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Afghanistan?",
+      "options": ["Nepal", "Bhutan", "Pakistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Myanmar?",
+      "options": ["Nepal", "Bangladesh", "Pakistan", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Nepal?",
+      "options": ["Bangladesh", "Pakistan", "Myanmar", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Pakistan?",
+      "options": ["Nepal", "Bhutan", "Afghanistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Afghanistan?",
+      "options": ["Nepal", "Bhutan", "Pakistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Myanmar?",
+      "options": ["Nepal", "Bangladesh", "Pakistan", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Nepal?",
+      "options": ["Bangladesh", "Pakistan", "Myanmar", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Pakistan?",
+      "options": ["Nepal", "Bhutan", "Afghanistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Afghanistan?",
+      "options": ["Nepal", "Bhutan", "Pakistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Myanmar?",
+      "options": ["Nepal", "Bangladesh", "Pakistan", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Nepal?",
+      "options": ["Bangladesh", "Pakistan", "Myanmar", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Pakistan?",
+      "options": ["Nepal", "Bhutan", "Afghanistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Afghanistan?",
+      "options": ["Nepal", "Bhutan", "Pakistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Myanmar?",
+      "options": ["Nepal", "Bangladesh", "Pakistan", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Nepal?",
+      "options": ["Bangladesh", "Pakistan", "Myanmar", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Pakistan?",
+      "options": ["Nepal", "Bhutan", "Afghanistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Afghanistan?",
+      "options": ["Nepal", "Bhutan", "Pakistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Myanmar?",
+      "options": ["Nepal", "Bangladesh", "Pakistan", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Nepal?",
+      "options": ["Bangladesh", "Pakistan", "Myanmar", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Pakistan?",
+      "options": ["Nepal", "Bhutan", "Afghanistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Afghanistan?",
+      "options": ["Nepal", "Bhutan", "Pakistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Myanmar?",
+      "options": ["Nepal", "Bangladesh", "Pakistan", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Nepal?",
+      "options": ["Bangladesh", "Pakistan", "Myanmar", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Pakistan?",
+      "options": ["Nepal", "Bhutan", "Afghanistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Afghanistan?",
+      "options": ["Nepal", "Bhutan", "Pakistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Myanmar?",
+      "options": ["Nepal", "Bangladesh", "Pakistan", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Nepal?",
+      "options": ["Bangladesh", "Pakistan", "Myanmar", "Afghanistan"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Pakistan?",
+      "options": ["Nepal", "Bhutan", "Afghanistan", "Myanmar"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following countries shares its borders with India, China, and Afghanistan?",
+      "options": ["Nepal", "Bhutan", "Pakistan", "Myanmar"],
+      "answer": 2
+    }
+  ]
+}

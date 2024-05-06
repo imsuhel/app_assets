@@ -1,0 +1,387 @@
+[
+  {
+    "question": "Which fruit is known as the \"king of fruits\"?",
+    "options": ["Mango", "Pineapple", "Durian", "Banana"],
+    "answer": 2
+  },
+  {
+    "question": "Which vegetable is a type of legume and is also known as the \"king of beans\"?",
+    "options": ["Black beans", "Kidney beans", "Lima beans", "Fava beans"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of cuisine is known for using a lot of spices and herbs?",
+    "options": ["Japanese", "Chinese", "Indian", "Italian"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of fish is known for its distinctive taste and smell?",
+    "options": ["Salmon", "Tuna", "Mackerel", "Sardines"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of meat is used in a traditional Philly cheesesteak sandwich?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of pasta is traditionally served with a creamy Alfredo sauce?",
+    "options": ["Spaghetti", "Fettuccine", "Penne", "Farfalle"],
+    "answer": 1
+  },
+  {
+    "question": "Which type of cheese is used in a classic French onion soup?",
+    "options": ["Mozzarella", "Parmesan", "Gruyere", "Cheddar"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of bread is traditionally used to make a Cuban sandwich?",
+    "options": ["Baguette", "Ciabatta", "Focaccia", "Cuban bread"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fruit is used to make a classic key lime pie?",
+    "options": ["Limes", "Lemons", "Oranges", "Grapefruits"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of nut is used to make a classic pesto sauce?",
+    "options": ["Almonds", "Pecans", "Pistachios", "Pine nuts"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of bean is used to make a classic hummus dip?",
+    "options": ["Chickpeas", "Black beans", "Kidney beans", "Lentils"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic gyro sandwich?",
+    "options": ["Beef", "Chicken", "Pork", "Lamb"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic ratatouille?",
+    "options": ["Eggplant", "Zucchini", "Tomatoes", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fruit is used to make a classic sangria drink?",
+    "options": ["Apples", "Oranges", "Grapes", "Pineapples"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of alcohol is traditionally used to make a classic Irish coffee?",
+    "options": ["Whiskey", "Vodka", "Rum", "Tequila"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic corned beef and cabbage dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic coleslaw?",
+    "options": ["Cabbage", "Carrots", "Onions", "All of the above"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fruit is used to make a classic fruitcake?",
+    "options": ["Apples", "Oranges", "Raisins", "Pineapples"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic beef Wellington dish?",
+    "options": ["Beef", "Chicken", "Pork", "Lamb"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic potato salad?",
+    "options": ["Potatoes", "Carrots", "Celery", "Onions"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fruit is used to make a classic fruit tart?",
+    "options": ["Apples", "Berries", "Peaches", "Pears"],
+    "answer": 1
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic beef bourguignon dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic gratin dish?",
+    "options": ["Potatoes", "Zucchini", "Eggplant", "Cauliflower"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic fish and chips dish?",
+    "options": ["Cod", "Tuna", "Salmon", "Swordfish"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic shepherd's pie dish?",
+    "options": ["Beef", "Chicken", "Pork", "Lamb"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic stuffed bell peppers dish?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Tomatoes"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fruit is used to make a classic mango salsa?",
+    "options": ["Mangoes", "Pineapples", "Tomatoes", "Avocados"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic shish kebab dish?",
+    "options": ["Beef", "Chicken", "Pork", "Lamb"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic eggplant parmesan dish?",
+    "options": ["Eggplant", "Zucchini", "Tomatoes", "Mozzarella cheese"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fruit is used to make a classic peach cobbler?",
+    "options": ["Peaches", "Apples", "Berries", "Pears"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic meatball sub sandwich?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic potato au gratin dish?",
+    "options": ["Potatoes", "Zucchini", "Eggplant", "Cauliflower"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic sushi roll?",
+    "options": ["Tuna", "Salmon", "Shrimp", "Yellowtail"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic pastrami sandwich?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic zucchini bread?",
+    "options": ["Zucchini", "Carrots", "Pumpkin", "Bananas"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fruit is used to make a classic apple pie?",
+    "options": ["Apples", "Berries", "Peaches", "Pears"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic beef stroganoff dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic ratatouille?",
+    "options": ["Eggplant", "Zucchini", "Tomatoes", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fruit is used to make a classic cherry pie?",
+    "options": ["Cherries", "Berries", "Peaches", "Pears"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic chicken parmesan dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 1
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic potato pancake?",
+    "options": ["Potatoes", "Zucchini", "Carrots", "Onions"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic ceviche dish?",
+    "options": ["Tuna", "Salmon", "Halibut", "Mahi-mahi"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic Philly cheesesteak sandwich?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic stuffed cabbage dish?",
+    "options": ["Cabbage", "Zucchini", "Eggplant", "Tomatoes"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fruit is used to make a classic cranberry sauce?",
+    "options": ["Cranberries", "Berries", "Peaches", "Pears"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic beef stew?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic grilled vegetable skewer?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Tomatoes"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic fish taco?",
+    "options": ["Tuna", "Salmon", "Mahi-mahi", "Shrimp"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic meatloaf dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic roasted vegetable medley?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Carrots"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fruit is used to make a classic fruit salad?",
+    "options": ["Apples", "Berries", "Peaches", "Pineapples"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic pulled pork sandwich?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic sautéed spinach dish?",
+    "options": ["Spinach", "Kale", "Broccoli", "Arugula"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic sashimi dish?",
+    "options": ["Tuna", "Salmon", "Yellowtail", "Shrimp"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic beef Wellington dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic grilled vegetable platter?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Tomatoes"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic fish and chips dish?",
+    "options": ["Cod", "Tuna", "Salmon", "Swordfish"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic lamb chop dish?",
+    "options": ["Beef", "Chicken", "Pork", "Lamb"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic mashed potatoes dish?",
+    "options": ["Potatoes", "Zucchini", "Carrots", "Onions"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of fruit is used to make a classic fruit smoothie?",
+    "options": ["Apples", "Berries", "Peaches", "Pineapples"],
+    "answer": 1
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic pork tenderloin dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic roasted vegetable soup?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Carrots"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic grilled salmon dish?",
+    "options": ["Tuna", "Salmon", "Yellowtail", "Shrimp"],
+    "answer": 1
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic roast beef dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic stir-fried vegetables dish?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Broccoli"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic grilled tuna steak dish?",
+    "options": ["Tuna", "Salmon", "Yellowtail", "Shrimp"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic chicken curry dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 1
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic grilled vegetable salad?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Tomatoes"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic fish stew?",
+    "options": ["Tuna", "Salmon", "Halibut", "Mahi-mahi"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic beef burger?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic grilled vegetable quesadilla?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Tomatoes"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic fish tikka dish?",
+    "options": ["Tuna", "Salmon", "Halibut", "Mahi-mahi"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic beef stir-fry dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic roasted vegetable quiche?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Broccoli"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of fish is traditionally used to make a classic fish and potato stew?",
+    "options": ["Tuna", "Salmon", "Halibut", "Mahi-mahi"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of meat is traditionally used to make a classic pork tenderloin stir-fry dish?",
+    "options": ["Beef", "Chicken", "Pork", "Turkey"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of vegetable is traditionally used to make a classic grilled vegetable lasagna?",
+    "options": ["Bell peppers", "Zucchini", "Eggplant", "Tomatoes"],
+    "answer": 2
+  }
+]

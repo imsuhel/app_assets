@@ -1,0 +1,377 @@
+[
+  {
+    "question": "Which of the following is not a type of electrical machine?",
+    "options": [
+      "DC generator",
+      "AC generator",
+      "Induction motor",
+      "Transmission line"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The permeability of free space is:",
+    "options": [
+      "4π x 10^-7 H/m",
+      "4π x 10^-6 H/m",
+      "4π x 10^-5 H/m",
+      "4π x 10^-4 H/m"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The magnetic field strength in a magnetic circuit is given by:",
+    "options": ["H = Φ/l", "H = Φ/A", "H = NI", "H = Φ/Al"],
+    "answer": 3
+  },
+  {
+    "question": "The magnetic field strength in a solenoid is given by:",
+    "options": ["H = Φ/l", "H = Φ/A", "H = NI", "H = Φ/Al"],
+    "answer": 2
+  },
+  {
+    "question": "The magnetic field strength in a toroid is given by:",
+    "options": ["H = Φ/l", "H = Φ/A", "H = NI", "H = Φ/Al"],
+    "answer": 2
+  },
+  {
+    "question": "The inductance of a coil is given by:",
+    "options": ["L = Φ/I", "L = Φ/N", "L = NΦ/I", "L = NΦ/N"],
+    "answer": 2
+  },
+  {
+    "question": "The inductance of a solenoid is given by:",
+    "options": ["L = Φ/I", "L = Φ/N", "L = μAN^2", "L = μAN^2/l"],
+    "answer": 3
+  },
+  {
+    "question": "The inductance of a toroid is given by:",
+    "options": ["L = Φ/I", "L = Φ/N", "L = μAN^2", "L = μAN^2/2πr"],
+    "answer": 3
+  },
+  {
+    "question": "The energy stored in an inductor is given by:",
+    "options": [
+      "E = 1/2 LI^2",
+      "E = 1/2 L/I^2",
+      "E = 1/2 L^2/I",
+      "E = 1/2 I^2/L"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The energy stored in a capacitor is given by:",
+    "options": [
+      "E = 1/2 CV^2",
+      "E = 1/2 C/V^2",
+      "E = 1/2 C^2/V",
+      "E = 1/2 V^2/C"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The impedance of a series RLC circuit is given by:",
+    "options": [
+      "Z = R + j(XL - XC)",
+      "Z = R + j(XC - XL)",
+      "Z = R - j(XL - XC)",
+      "Z = R - j(XC - XL)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The impedance of a parallel RLC circuit is given by:",
+    "options": [
+      "Z = R + j(XL - XC)",
+      "Z = R + j(XC - XL)",
+      "Z = R - j(XL - XC)",
+      "Z = R - j(XC - XL)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The resonant frequency of a series RLC circuit is given by:",
+    "options": [
+      "f0 = 1/2π√(LC)",
+      "f0 = 1/2π√(L/C)",
+      "f0 = 1/2π√(C/L)",
+      "f0 = 1/2π√(L+C)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The resonant frequency of a parallel RLC circuit is given by:",
+    "options": [
+      "f0 = 1/2π√(LC)",
+      "f0 = 1/2π√(L/C)",
+      "f0 = 1/2π√(C/L)",
+      "f0 = 1/2π√(L+C)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The power factor of a series RLC circuit is given by:",
+    "options": [
+      "cos(θ) = R/Z",
+      "cos(θ) = XC/XL",
+      "cos(θ) = XL/XC",
+      "cos(θ) = R/√(R^2 + (XL - XC)^2)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The power factor of a parallel RLC circuit is given by:",
+    "options": [
+      "cos(θ) = R/Z",
+      "cos(θ) = XC/XL",
+      "cos(θ) = XL/XC",
+      "cos(θ) = R/√(R^2 + (XL - XC)^2)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The power in a series RLC circuit is given by:",
+    "options": ["P = VIcos(θ)", "P = VI", "P = V^2/R", "P = I^2R"],
+    "answer": 0
+  },
+  {
+    "question": "The power in a parallel RLC circuit is given by:",
+    "options": ["P = VIcos(θ)", "P = VI", "P = V^2/R", "P = I^2R"],
+    "answer": 0
+  },
+  {
+    "question": "The voltage across a capacitor in a series RLC circuit is given by:",
+    "options": ["Vc = I/jωC", "Vc = IωC", "Vc = I/ωC", "Vc = I/jω^2C"],
+    "answer": 0
+  },
+  {
+    "question": "The voltage across an inductor in a series RLC circuit is given by:",
+    "options": ["VL = I/jωL", "VL = IωL", "VL = I/ωL", "VL = I/jω^2L"],
+    "answer": 0
+  },
+  {
+    "question": "The current through a resistor in a series RLC circuit is given by:",
+    "options": ["I = V/R", "I = V/jωL", "I = VjωC", "I = V/ωL"],
+    "answer": 0
+  },
+  {
+    "question": "The current through a capacitor in a series RLC circuit is given by:",
+    "options": ["I = V/jωC", "I = V/ωC", "I = VjωL", "I = V/ωL"],
+    "answer": 0
+  },
+  {
+    "question": "The current through an inductor in a series RLC circuit is given by:",
+    "options": ["I = V/jωL", "I = V/ωL", "I = VjωC", "I = V/ωC"],
+    "answer": 0
+  },
+  {
+    "question": "The impedance of a series RLC circuit is given by:",
+    "options": [
+      "Z = R + j(XL - XC)",
+      "Z = R + j(XC - XL)",
+      "Z = R - j(XL - XC)",
+      "Z = R - j(XC - XL)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The impedance of a parallel RLC circuit is given by:",
+    "options": [
+      "Z = R + j(XL - XC)",
+      "Z = R + j(XC - XL)",
+      "Z = R - j(XL - XC)",
+      "Z = R - j(XC - XL)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The resonant frequency of a series RLC circuit is given by:",
+    "options": [
+      "f0 = 1/2π√(LC)",
+      "f0 = 1/2π√(L/C)",
+      "f0 = 1/2π√(C/L)",
+      "f0 = 1/2π√(L+C)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The resonant frequency of a parallel RLC circuit is given by:",
+    "options": [
+      "f0 = 1/2π√(LC)",
+      "f0 = 1/2π√(L/C)",
+      "f0 = 1/2π√(C/L)",
+      "f0 = 1/2π√(L+C)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The power factor of a series RLC circuit is given by:",
+    "options": [
+      "cos(θ) = R/Z",
+      "cos(θ) = XC/XL",
+      "cos(θ) = XL/XC",
+      "cos(θ) = R/√(R^2 + (XL - XC)^2)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The power factor of a parallel RLC circuit is given by:",
+    "options": [
+      "cos(θ) = R/Z",
+      "cos(θ) = XC/XL",
+      "cos(θ) = XL/XC",
+      "cos(θ) = R/√(R^2 + (XL - XC)^2)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The power in a series RLC circuit is given by:",
+    "options": ["P = VIcos(θ)", "P = VI", "P = V^2/R", "P = I^2R"],
+    "answer": 0
+  },
+  {
+    "question": "The power in a parallel RLC circuit is given by:",
+    "options": ["P = VIcos(θ)", "P = VI", "P = V^2/R", "P = I^2R"],
+    "answer": 0
+  },
+  {
+    "question": "The voltage across a capacitor in a series RLC circuit is given by:",
+    "options": ["Vc = I/jωC", "Vc = IωC", "Vc = I/ωC", "Vc = I/jω^2C"],
+    "answer": 0
+  },
+  {
+    "question": "The voltage across an inductor in a series RLC circuit is given by:",
+    "options": ["VL = I/jωL", "VL = IωL", "VL = I/ωL", "VL = I/jω^2L"],
+    "answer": 0
+  },
+  {
+    "question": "The current through a resistor in a series RLC circuit is given by:",
+    "options": ["I = V/R", "I = V/jωL", "I = VjωC", "I = V/ωL"],
+    "answer": 0
+  },
+  {
+    "question": "The current through a capacitor in a series RLC circuit is given by:",
+    "options": ["I = V/jωC", "I = V/ωC", "I = VjωL", "I = V/ωL"],
+    "answer": 0
+  },
+  {
+    "question": "The current through an inductor in a series RLC circuit is given by:",
+    "options": ["I = V/jωL", "I = V/ωL", "I = VjωC", "I = V/ωC"],
+    "answer": 0
+  },
+  {
+    "question": "The impedance of a series RLC circuit is given by:",
+    "options": [
+      "Z = R + j(XL - XC)",
+      "Z = R + j(XC - XL)",
+      "Z = R - j(XL - XC)",
+      "Z = R - j(XC - XL)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The impedance of a parallel RLC circuit is given by:",
+    "options": [
+      "Z = R + j(XL - XC)",
+      "Z = R + j(XC - XL)",
+      "Z = R - j(XL - XC)",
+      "Z = R - j(XC - XL)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The resonant frequency of a series RLC circuit is given by:",
+    "options": [
+      "f0 = 1/2π√(LC)",
+      "f0 = 1/2π√(L/C)",
+      "f0 = 1/2π√(C/L)",
+      "f0 = 1/2π√(L+C)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The resonant frequency of a parallel RLC circuit is given by:",
+    "options": [
+      "f0 = 1/2π√(LC)",
+      "f0 = 1/2π√(L/C)",
+      "f0 = 1/2π√(C/L)",
+      "f0 = 1/2π√(L+C)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The power factor of a series RLC circuit is given by:",
+    "options": [
+      "cos(θ) = R/Z",
+      "cos(θ) = XC/XL",
+      "cos(θ) = XL/XC",
+      "cos(θ) = R/√(R^2 + (XL - XC)^2)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The power factor of a parallel RLC circuit is given by:",
+    "options": [
+      "cos(θ) = R/Z",
+      "cos(θ) = XC/XL",
+      "cos(θ) = XL/XC",
+      "cos(θ) = R/√(R^2 + (XL - XC)^2)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The power in a series RLC circuit is given by:",
+    "options": ["P = VIcos(θ)", "P = VI", "P = V^2/R", "P = I^2R"],
+    "answer": 0
+  },
+  {
+    "question": "The power in a parallel RLC circuit is given by:",
+    "options": ["P = VIcos(θ)", "P = VI", "P = V^2/R", "P = I^2R"],
+    "answer": 0
+  },
+  {
+    "question": "The voltage across a capacitor in a series RLC circuit is given by:",
+    "options": ["Vc = I/jωC", "Vc = IωC", "Vc = I/ωC", "Vc = I/jω^2C"],
+    "answer": 0
+  },
+  {
+    "question": "The voltage across an inductor in a series RLC circuit is given by:",
+    "options": ["VL = I/jωL", "VL = IωL", "VL = I/ωL", "VL = I/jω^2L"],
+    "answer": 0
+  },
+  {
+    "question": "The current through a resistor in a series RLC circuit is given by:",
+    "options": ["I = V/R", "I = V/jωL", "I = VjωC", "I = V/ωL"],
+    "answer": 0
+  },
+  {
+    "question": "The current through a capacitor in a series RLC circuit is given by:",
+    "options": ["I = V/jωC", "I = V/ωC", "I = VjωL", "I = V/ωL"],
+    "answer": 0
+  },
+  {
+    "question": "The current through an inductor in a series RLC circuit is given by:",
+    "options": ["I = V/jωL", "I = V/ωL", "I = VjωC", "I = V/ωC"],
+    "answer": 0
+  },
+  {
+    "question": "The impedance of a series RLC circuit is given by:",
+    "options": [
+      "Z = R + j(XL - XC)",
+      "Z = R + j(XC - XL)",
+      "Z = R - j(XL - XC)",
+      "Z = R - j(XC - XL)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The impedance of a parallel RLC circuit is given by:",
+    "options": [
+      "Z = R + j(XL - XC)",
+      "Z = R + j(XC - XL)",
+      "Z = R - j(XL - XC)",
+      "Z = R - j(XC - XL)"
+    ],
+    "answer": 1
+  }
+]

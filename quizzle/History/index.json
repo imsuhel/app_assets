@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Political history",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/History/Political_history.json",
+    "isDone": true
+  },
+  {
+    "id": 2,
+    "title": "Social history",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/History/Social_history.json",
+    "isDone": true
+  },
+  {
+    "id": 3,
+    "title": "Economic history",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/History/Economic_history.json",
+    "isDone": true
+  },
+  {
+    "id": 4,
+    "title": "Cultural history",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/History/Cultural_history.json",
+    "isDone": true
+  },
+  {
+    "id": 5,
+    "title": "Diplomatic history",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/History/Diplomatic_history.json",
+    "isDone": true
+  },
+  {
+    "id": 6,
+    "title": "Art history",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/History/Art_history.json",
+    "isDone": true
+  },
+  {
+    "id": 7,
+    "title": "Food history",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/History/Food_history.json",
+    "isDone": true
+  },
+  {
+    "id": 8,
+    "title": "Environmental history",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/History/Environmental_history.json",
+    "isDone": true
+  },
+  {
+    "id": 9,
+    "title": "Women's history",
+    "totalQuestions": 30,
+    "time": "30 mins",
+    "passingMarks": 25,
+    "url": "/History/Womens_history.json",
+    "isDone": true
+  }
+]

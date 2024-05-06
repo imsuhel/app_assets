@@ -1,0 +1,677 @@
+[
+  {
+    "question": "Which country is home to the Great Barrier Reef, the world's largest coral reef system?",
+    "options": ["Australia", "Canada", "Mexico", "United States"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known as the 'City of Light' and is famous for its art, fashion, gastronomy, and culture?",
+    "options": ["London", "Paris", "Rome", "Madrid"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its temples, pagodas, palaces, and bustling cities?",
+    "options": ["Japan", "China", "Thailand", "India"],
+    "answer": 1
+  },
+  {
+    "question": "Which African country is home to the famous Maasai Mara National Reserve, known for its annual wildebeest migration?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 0
+  },
+  {
+    "question": "Which South American country is home to the Amazon rainforest, the world's largest tropical rainforest?",
+    "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its canals, gondolas, and stunning architecture?",
+    "options": ["Venice", "Amsterdam", "Barcelona", "Prague"],
+    "answer": 0
+  },
+  {
+    "question": "Which Middle Eastern country is known for its rich history, stunning architecture, and bustling markets?",
+    "options": ["Egypt", "Turkey", "Iran", "United Arab Emirates"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 0
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 1
+  },
+  {
+    "question": "Which African country is home to the famous Victoria Falls, one of the largest waterfalls in the world?",
+    "options": ["Zambia", "Zimbabwe", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 1
+  },
+  {
+    "question": "Which South American country is home to the stunning Patagonia region, known for its mountains, glaciers, and wildlife?",
+    "options": ["Argentina", "Chile", "Brazil", "Colombia"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Sagrada Familia and Park Güell?",
+    "options": ["Barcelona", "Madrid", "Lisbon", "Rome"],
+    "answer": 0
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 2
+  },
+  {
+    "question": "Which African country is home to the famous Serengeti National Park, known for its wildlife and annual migration?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 1
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 2
+  },
+  {
+    "question": "Which South American country is home to the stunning Salar de Uyuni, the world's largest salt flat?",
+    "options": ["Argentina", "Chile", "Bolivia", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Colosseum and Roman Forum?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 0
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 3
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 0
+  },
+  {
+    "question": "Which African country is home to the famous Mount Kilimanjaro, the highest peak in Africa?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 1
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 3
+  },
+  {
+    "question": "Which South American country is home to the stunning Iguazu Falls, one of the largest waterfalls in the world?",
+    "options": ["Argentina", "Chile", "Brazil", "Colombia"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Eiffel Tower and Notre-Dame Cathedral?",
+    "options": ["London", "Paris", "Rome", "Madrid"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 3
+  },
+  {
+    "question": "Which African country is home to the famous Nile River, the longest river in the world?",
+    "options": ["Kenya", "Tanzania", "Egypt", "Botswana"],
+    "answer": 2
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 0
+  },
+  {
+    "question": "Which South American country is home to the stunning Galápagos Islands, known for their unique wildlife?",
+    "options": ["Argentina", "Chile", "Ecuador", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Acropolis and Parthenon?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 0
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 1
+  },
+  {
+    "question": "Which African country is home to the famous Masai Mara National Reserve, known for its annual wildebeest migration?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 2
+  },
+  {
+    "question": "Which South American country is home to the stunning Amazon rainforest, the world's largest tropical rainforest?",
+    "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Tower of London and Buckingham Palace?",
+    "options": ["Rome", "Paris", "London", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 3
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 0
+  },
+  {
+    "question": "Which African country is home to the famous Victoria Falls, one of the largest waterfalls in the world?",
+    "options": ["Zambia", "Zimbabwe", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 1
+  },
+  {
+    "question": "Which South American country is home to the stunning Salar de Uyuni, the world's largest salt flat?",
+    "options": ["Argentina", "Chile", "Bolivia", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Colosseum and Roman Forum?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 0
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 2
+  },
+  {
+    "question": "Which African country is home to the famous Mount Kilimanjaro, the highest peak in Africa?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 1
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 3
+  },
+  {
+    "question": "Which South American country is home to the stunning Iguazu Falls, one of the largest waterfalls in the world?",
+    "options": ["Argentina", "Chile", "Brazil", "Colombia"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Eiffel Tower and Notre-Dame Cathedral?",
+    "options": ["London", "Paris", "Rome", "Madrid"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 3
+  },
+  {
+    "question": "Which African country is home to the famous Nile River, the longest river in the world?",
+    "options": ["Kenya", "Tanzania", "Egypt", "Botswana"],
+    "answer": 2
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 0
+  },
+  {
+    "question": "Which South American country is home to the stunning Galápagos Islands, known for their unique wildlife?",
+    "options": ["Argentina", "Chile", "Ecuador", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Acropolis and Parthenon?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 0
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 1
+  },
+  {
+    "question": "Which African country is home to the famous Masai Mara National Reserve, known for its annual wildebeest migration?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 2
+  },
+  {
+    "question": "Which South American country is home to the stunning Amazon rainforest, the world's largest tropical rainforest?",
+    "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Tower of London and Buckingham Palace?",
+    "options": ["Rome", "Paris", "London", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 3
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 0
+  },
+  {
+    "question": "Which African country is home to the famous Victoria Falls, one of the largest waterfalls in the world?",
+    "options": ["Zambia", "Zimbabwe", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 1
+  },
+  {
+    "question": "Which South American country is home to the stunning Salar de Uyuni, the world's largest salt flat?",
+    "options": ["Argentina", "Chile", "Bolivia", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Colosseum and Roman Forum?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 0
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 2
+  },
+  {
+    "question": "Which African country is home to the famous Mount Kilimanjaro, the highest peak in Africa?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 1
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 3
+  },
+  {
+    "question": "Which South American country is home to the stunning Iguazu Falls, one of the largest waterfalls in the world?",
+    "options": ["Argentina", "Chile", "Brazil", "Colombia"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Eiffel Tower and Notre-Dame Cathedral?",
+    "options": ["London", "Paris", "Rome", "Madrid"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 3
+  },
+  {
+    "question": "Which African country is home to the famous Nile River, the longest river in the world?",
+    "options": ["Kenya", "Tanzania", "Egypt", "Botswana"],
+    "answer": 2
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 0
+  },
+  {
+    "question": "Which South American country is home to the stunning Galápagos Islands, known for their unique wildlife?",
+    "options": ["Argentina", "Chile", "Ecuador", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Acropolis and Parthenon?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 0
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 1
+  },
+  {
+    "question": "Which African country is home to the famous Masai Mara National Reserve, known for its annual wildebeest migration?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 2
+  },
+  {
+    "question": "Which South American country is home to the stunning Amazon rainforest, the world's largest tropical rainforest?",
+    "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Tower of London and Buckingham Palace?",
+    "options": ["Rome", "Paris", "London", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 3
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 0
+  },
+  {
+    "question": "Which African country is home to the famous Victoria Falls, one of the largest waterfalls in the world?",
+    "options": ["Zambia", "Zimbabwe", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 1
+  },
+  {
+    "question": "Which South American country is home to the stunning Salar de Uyuni, the world's largest salt flat?",
+    "options": ["Argentina", "Chile", "Bolivia", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Colosseum and Roman Forum?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 0
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 2
+  },
+  {
+    "question": "Which African country is home to the famous Mount Kilimanjaro, the highest peak in Africa?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 1
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 3
+  },
+  {
+    "question": "Which South American country is home to the stunning Iguazu Falls, one of the largest waterfalls in the world?",
+    "options": ["Argentina", "Chile", "Brazil", "Colombia"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Eiffel Tower and Notre-Dame Cathedral?",
+    "options": ["London", "Paris", "Rome", "Madrid"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 3
+  },
+  {
+    "question": "Which African country is home to the famous Nile River, the longest river in the world?",
+    "options": ["Kenya", "Tanzania", "Egypt", "Botswana"],
+    "answer": 2
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 0
+  },
+  {
+    "question": "Which South American country is home to the stunning Galápagos Islands, known for their unique wildlife?",
+    "options": ["Argentina", "Chile", "Ecuador", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Acropolis and Parthenon?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 0
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 1
+  },
+  {
+    "question": "Which African country is home to the famous Masai Mara National Reserve, known for its annual wildebeest migration?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 2
+  },
+  {
+    "question": "Which South American country is home to the stunning Amazon rainforest, the world's largest tropical rainforest?",
+    "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Tower of London and Buckingham Palace?",
+    "options": ["Rome", "Paris", "London", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 3
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 0
+  },
+  {
+    "question": "Which African country is home to the famous Victoria Falls, one of the largest waterfalls in the world?",
+    "options": ["Zambia", "Zimbabwe", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 1
+  },
+  {
+    "question": "Which South American country is home to the stunning Salar de Uyuni, the world's largest salt flat?",
+    "options": ["Argentina", "Chile", "Bolivia", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Colosseum and Roman Forum?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 0
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 2
+  },
+  {
+    "question": "Which African country is home to the famous Mount Kilimanjaro, the highest peak in Africa?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 1
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 3
+  },
+  {
+    "question": "Which South American country is home to the stunning Iguazu Falls, one of the largest waterfalls in the world?",
+    "options": ["Argentina", "Chile", "Brazil", "Colombia"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Eiffel Tower and Notre-Dame Cathedral?",
+    "options": ["London", "Paris", "Rome", "Madrid"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 3
+  },
+  {
+    "question": "Which African country is home to the famous Nile River, the longest river in the world?",
+    "options": ["Kenya", "Tanzania", "Egypt", "Botswana"],
+    "answer": 2
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 0
+  },
+  {
+    "question": "Which South American country is home to the stunning Galápagos Islands, known for their unique wildlife?",
+    "options": ["Argentina", "Chile", "Ecuador", "Peru"],
+    "answer": 2
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Acropolis and Parthenon?",
+    "options": ["Rome", "Athens", "Barcelona", "Paris"],
+    "answer": 1
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 0
+  },
+  {
+    "question": "Which European country is known for its stunning coastline, historic cities, and delicious seafood?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 1
+  },
+  {
+    "question": "Which African country is home to the famous Masai Mara National Reserve, known for its annual wildebeest migration?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 0
+  },
+  {
+    "question": "Which Caribbean island is known for its stunning beaches, crystal-clear waters, and vibrant culture?",
+    "options": ["Jamaica", "Cuba", "Puerto Rico", "Dominican Republic"],
+    "answer": 2
+  },
+  {
+    "question": "Which South American country is home to the stunning Amazon rainforest, the world's largest tropical rainforest?",
+    "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+    "answer": 0
+  },
+  {
+    "question": "Which European city is known for its stunning architecture, including the famous Tower of London and Buckingham Palace?",
+    "options": ["Rome", "Paris", "London", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "Which Asian country is known for its stunning natural beauty, including rice terraces, beaches, and mountains?",
+    "options": ["Indonesia", "Philippines", "Vietnam", "Thailand"],
+    "answer": 3
+  }
+]

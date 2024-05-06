@@ -1,0 +1,497 @@
+[
+  {
+    "question": "Who was the first President of India?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. S. Radhakrishnan",
+      "Jawaharlal Nehru",
+      "Rajagopalachari"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Indian leader is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Dr. B.R. Ambedkar",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Indian leader is known as the 'Grand Old Man of India'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Dadabhai Naoroji"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which Indian leader is known as the 'Iron Man of India'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Subhas Chandra Bose"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian leader is known as the 'Lion of Kashmir'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sheikh Abdullah",
+      "Subhas Chandra Bose"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian leader is known as the 'Saint of Sabarmati'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Dr. B.R. Ambedkar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Dr. Rajendra Prasad",
+      "Subhas Chandra Bose"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian leader is known as the 'Tiger of Mysore'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Tipu Sultan",
+      "Subhas Chandra Bose"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian leader is known as the 'The Father of the Nation'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Dr. B.R. Ambedkar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": [
+      "Indira Gandhi",
+      "Sonia Gandhi",
+      "Sheikh Hasina",
+      "Benazir Bhutto"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Governor General of India?",
+    "options": [
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Vijaya Lakshmi Pandit",
+      "Rajkumari Amrit Kaur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman President of India?",
+    "options": [
+      "Pratibha Patil",
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Vijaya Lakshmi Pandit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Chief Minister of an Indian state?",
+    "options": [
+      "Sucheta Kripalani",
+      "Indira Gandhi",
+      "Vijaya Lakshmi Pandit",
+      "Nandini Satpathy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Speaker of the Lok Sabha?",
+    "options": [
+      "Meira Kumar",
+      "Indira Gandhi",
+      "Sonia Gandhi",
+      "Mamata Banerjee"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Governor of an Indian state?",
+    "options": [
+      "Sarojini Naidu",
+      "Vijaya Lakshmi Pandit",
+      "Sucheta Kripalani",
+      "Padmaja Naidu"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Member of Parliament in India?",
+    "options": [
+      "Rajkumari Amrit Kaur",
+      "Durgabai Deshmukh",
+      "Vijaya Lakshmi Pandit",
+      "Indira Gandhi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Cabinet Minister in India?",
+    "options": [
+      "Rajkumari Amrit Kaur",
+      "Durgabai Deshmukh",
+      "Vijaya Lakshmi Pandit",
+      "Indira Gandhi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Chief Election Commissioner of India?",
+    "options": [
+      "Vijaya Lakshmi Pandit",
+      "Rukmini Devi Arundale",
+      "Dr. Nagendra Singh",
+      "Dr. T.N. Seshan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Judge of the Supreme Court of India?",
+    "options": [
+      "M. Fathima Beevi",
+      "Leila Seth",
+      "Ruma Pal",
+      "Gyan Sudha Misra"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Judge of the High Court of India?",
+    "options": [
+      "M. Fathima Beevi",
+      "Leila Seth",
+      "Ruma Pal",
+      "Gyan Sudha Misra"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Defence Minister of India?",
+    "options": [
+      "Indira Gandhi",
+      "Nirmala Sitharaman",
+      "Sonia Gandhi",
+      "Sheila Dikshit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Finance Minister of India?",
+    "options": [
+      "Indira Gandhi",
+      "Nirmala Sitharaman",
+      "Sonia Gandhi",
+      "Indira Nooyi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Foreign Minister of India?",
+    "options": [
+      "Indira Gandhi",
+      "Sushma Swaraj",
+      "Sonia Gandhi",
+      "Sheila Dikshit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Home Minister of India?",
+    "options": [
+      "Indira Gandhi",
+      "Nirmala Sitharaman",
+      "Sonia Gandhi",
+      "Rajnath Singh"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Speaker of the Lok Sabha?",
+    "options": [
+      "Meira Kumar",
+      "Sumitra Mahajan",
+      "Sonia Gandhi",
+      "Mamata Banerjee"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Deputy Speaker of the Lok Sabha?",
+    "options": [
+      "Meira Kumar",
+      "Sumitra Mahajan",
+      "Sonia Gandhi",
+      "Mamata Banerjee"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Deputy Chairman of the Rajya Sabha?",
+    "options": [
+      "Meira Kumar",
+      "Najma Heptulla",
+      "Sonia Gandhi",
+      "Mamata Banerjee"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Governor of the Reserve Bank of India?",
+    "options": [
+      "Shakuntala Misra",
+      "Shyamala Gopinath",
+      "Urjit Patel",
+      "Raghuram Rajan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Chairperson of the National Human Rights Commission of India?",
+    "options": [
+      "Meira Kumar",
+      "Justice Leila Seth",
+      "Justice H.L. Dattu",
+      "Justice Arun Kumar Mishra"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Chief Justice of a High Court in India?",
+    "options": ["Leila Seth", "Ruma Pal", "Gyan Sudha Misra", "Fathima Beevi"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Director General of Police in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Vimla Mehra",
+      "K. Durga Prasad"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Director General of the Border Security Force in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Vijaya Lakshmi Pandit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the Indo-Tibetan Border Police in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first woman Director General of the Central Reserve Police Force in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first woman Director General of the Central Industrial Security Force in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first woman Director General of the National Security Guard in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first woman Director General of the National Disaster Response Force in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first woman Director General of the National Investigation Agency in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the Bureau of Civil Aviation Security in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Director General of the National Crime Records Bureau in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the National Technical Research Organisation in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the Defence Research and Development Organisation in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Director General of the National Security Council Secretariat in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Director General of the National Intelligence Grid in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the National Cyber Security Coordination Centre in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the National Information Assurance Agency in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the National Critical Information Infrastructure Protection Centre in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the National Data Protection Authority in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the National e-Governance Division in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman Director General of the National Knowledge Network in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  }
+]

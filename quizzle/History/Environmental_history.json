@@ -1,0 +1,532 @@
+[
+  {
+    "question": "Who is considered the father of environmental history?",
+    "options": [
+      "Donald Worster",
+      "William Cronon",
+      "Alfred Crosby",
+      "John Muir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT a key feature of environmental history?",
+    "options": [
+      "Study of human interactions with the environment over time",
+      "Examination of how the environment has shaped human societies",
+      "Focus on the impact of industrialization on ecosystems",
+      "Analysis of political history unrelated to environmental issues"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a significant aspect of environmental history?",
+    "options": [
+      "Exploration of climate change impacts on biodiversity",
+      "Study of ancient civilizations' agricultural practices",
+      "Analysis of modern urbanization trends",
+      "Examination of space exploration advancements"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary focus of environmental history?",
+    "options": [
+      "Understanding the geological history of the Earth",
+      "Exploring the impact of human activities on ecosystems",
+      "Studying the history of environmental legislation",
+      "Analyzing the development of renewable energy sources"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which environmental issue is NOT commonly addressed in environmental history?",
+    "options": [
+      "Deforestation",
+      "Climate change",
+      "Cybersecurity",
+      "Pollution"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is known for their contributions to environmental history through the study of the Dust Bowl?",
+    "options": [
+      "William Cronon",
+      "Donald Worster",
+      "Alfred Crosby",
+      "John Muir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of industrialization on air quality",
+      "The role of technology in conservation efforts",
+      "The history of space exploration",
+      "The development of social media platforms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a common theme in environmental history?",
+    "options": [
+      "Preservation of natural habitats",
+      "Expansion of urban areas",
+      "Promotion of industrial growth",
+      "Advancements in military technology"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which environmental issue is often explored in environmental history?",
+    "options": [
+      "Water scarcity",
+      "Space exploration",
+      "Artificial intelligence",
+      "Social media trends"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of conservation in the United States?",
+    "options": [
+      "John Muir",
+      "William Cronon",
+      "Alfred Crosby",
+      "Donald Worster"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key aspect of environmental history?",
+    "options": [
+      "Impact of deforestation on wildlife",
+      "History of video game development",
+      "Evolution of social media platforms",
+      "Technological advancements in robotics"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of renewable energy sources",
+      "Study of ancient agricultural practices",
+      "Analysis of fashion trends",
+      "Examination of celebrity culture"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which environmental issue is often addressed in environmental history?",
+    "options": [
+      "Soil erosion",
+      "Virtual reality gaming",
+      "Cryptocurrency trends",
+      "Fashion design"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their research on the history of environmental policy in the United States?",
+    "options": [
+      "William Cronon",
+      "Donald Worster",
+      "Alfred Crosby",
+      "John Muir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a common theme in environmental history?",
+    "options": [
+      "Conservation of natural resources",
+      "Expansion of shopping malls",
+      "Development of fast food chains",
+      "Advancements in social media algorithms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a prevalent topic in environmental history?",
+    "options": [
+      "Impact of climate change on agriculture",
+      "History of reality television",
+      "Evolution of smartphone technology",
+      "Trends in celebrity endorsements"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their contributions to environmental history through the study of wilderness preservation?",
+    "options": [
+      "John Muir",
+      "William Cronon",
+      "Alfred Crosby",
+      "Donald Worster"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The role of technology in environmental conservation",
+      "The history of fast fashion",
+      "Evolution of social media influencers",
+      "Advancements in virtual reality gaming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of sustainable agriculture practices",
+      "Study of pop culture trends",
+      "Analysis of online streaming platforms",
+      "Examination of luxury fashion brands"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which environmental issue is NOT typically explored in environmental history?",
+    "options": [
+      "Marine pollution",
+      "History of space exploration",
+      "Deforestation",
+      "Air quality"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is known for their work on the history of the conservation movement in the United States?",
+    "options": [
+      "Roderick Nash",
+      "William Cronon",
+      "Donald Worster",
+      "John Muir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of technology on environmental degradation",
+      "The history of reality television",
+      "Evolution of smartphone technology",
+      "Trends in celebrity endorsements"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of wildlife conservation",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which environmental issue is often addressed in environmental history?",
+    "options": [
+      "Water scarcity",
+      "Space exploration",
+      "Artificial intelligence",
+      "Social media trends"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in the United States?",
+    "options": [
+      "Robert Bullard",
+      "Dorceta Taylor",
+      "Vandana Shiva",
+      "Winona LaDuke"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The role of globalization in shaping environmental policies",
+      "The history of video game development",
+      "The evolution of social media influencers",
+      "The development of renewable energy technologies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of wildlife conservation",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in Europe?",
+    "options": [
+      "Joachim Radkau",
+      "William Cronon",
+      "Donald Worster",
+      "Roderick Nash"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of industrialization on public health",
+      "The history of fast food chains",
+      "The development of social media algorithms",
+      "The evolution of smartphone technology"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of renewable energy sources",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in Asia?",
+    "options": [
+      "Ramachandra Guha",
+      "Vandana Shiva",
+      "Winona LaDuke",
+      "Joachim Radkau"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of colonialism on indigenous peoples and their environments",
+      "The role of technology in environmental conservation",
+      "The history of social media platforms",
+      "The evolution of video game technology"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of renewable energy sources",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in Africa?",
+    "options": [
+      "Ramachandra Guha",
+      "Wangari Maathai",
+      "Vandana Shiva",
+      "Winona LaDuke"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of industrialization on ecosystems",
+      "The role of religion in shaping environmental attitudes",
+      "The history of space exploration",
+      "The development of environmental legislation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of renewable energy sources",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in Latin America?",
+    "options": [
+      "Ramachandra Guha",
+      "Eduardo Galeano",
+      "Vandana Shiva",
+      "Winona LaDuke"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of climate change on human societies",
+      "The history of reality television",
+      "The evolution of automobile technology",
+      "The development of social media platforms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of wildlife conservation",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in the Arctic?",
+    "options": ["Rachel Carson", "Barry Lopez", "Farley Mowat", "Sigurd Olson"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of industrialization on public health",
+      "The history of fast food chains",
+      "The development of social media algorithms",
+      "The evolution of smartphone technology"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of renewable energy sources",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in the Amazon rainforest?",
+    "options": [
+      "Chico Mendes",
+      "Marina Silva",
+      "Darcy Ribeiro",
+      "Candido Rondon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of colonialism on indigenous peoples and their environments",
+      "The role of technology in environmental conservation",
+      "The history of social media platforms",
+      "The evolution of video game technology"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of renewable energy sources",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in Canada?",
+    "options": [
+      "Alanis Obomsawin",
+      "David Suzuki",
+      "Vandana Shiva",
+      "Winona LaDuke"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of colonialism on indigenous peoples and their environments",
+      "The role of technology in environmental conservation",
+      "The history of social media platforms",
+      "The evolution of video game technology"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of renewable energy sources",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in New Zealand?",
+    "options": ["Judith Binney", "James Belich", "Kerry Howe", "Anne Salmond"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of industrialization on ecosystems",
+      "The role of religion in shaping environmental attitudes",
+      "The history of space exploration",
+      "The development of environmental legislation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of renewable energy sources",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is known for their work on the history of the environmental movement in Antarctica?",
+    "options": [
+      "David Attenborough",
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Apsley Cherry-Garrard"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key concept in environmental history?",
+    "options": [
+      "The impact of climate change on human societies",
+      "The history of reality television",
+      "The evolution of automobile technology",
+      "The development of social media platforms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a significant focus of environmental history?",
+    "options": [
+      "Exploration of the history of renewable energy sources",
+      "Study of the history of fashion trends",
+      "Analysis of the history of urbanization",
+      "Examination of the history of space exploration"
+    ],
+    "answer": 0
+  }
+]

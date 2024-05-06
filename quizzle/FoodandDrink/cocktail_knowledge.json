@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Which cocktail is made with equal parts of gin, vodka, rum, tequila, triple sec, and cola?",
+    "options": ["Long Island Iced Tea", "Margarita", "Cosmopolitan", "Mojito"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with bourbon, sugar, bitters, and an orange twist?",
+    "options": ["Old Fashioned", "Daiquiri", "Negroni", "Mai Tai"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with gin, lemon juice, sugar, and soda water?",
+    "options": ["Tom Collins", "Margarita", "Martini", "Moscow Mule"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with vodka, tomato juice, Worcestershire sauce, hot sauce, and garnished with celery?",
+    "options": ["Bloody Mary", "Margarita", "Mojito", "Manhattan"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with rum, lime juice, sugar, and mint leaves?",
+    "options": ["Mojito", "Margarita", "Martini", "Moscow Mule"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with gin, vermouth, and garnished with an olive or a twist of lemon?",
+    "options": ["Martini", "Mojito", "Margarita", "Manhattan"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with tequila, orange liqueur, and lime juice?",
+    "options": ["Margarita", "Martini", "Manhattan", "Mai Tai"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with rum, pineapple juice, and coconut cream?",
+    "options": ["Pina Colada", "Margarita", "Martini", "Manhattan"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with vodka, ginger beer, and lime juice?",
+    "options": ["Moscow Mule", "Margarita", "Mojito", "Martini"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with gin, Campari, and sweet vermouth?",
+    "options": ["Negroni", "Martini", "Margarita", "Mai Tai"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with whiskey, sugar, bitters, and a twist of citrus peel?",
+    "options": ["Old Fashioned", "Negroni", "Daiquiri", "Cosmopolitan"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with rum, mint leaves, sugar, lime juice, and soda water?",
+    "options": ["Mojito", "Margarita", "Old Fashioned", "Negroni"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with vodka, cranberry juice, and a splash of lime?",
+    "options": ["Cosmopolitan", "Margarita", "Mojito", "Moscow Mule"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with rum, lime juice, sugar, and soda water?",
+    "options": ["Daiquiri", "Mojito", "Old Fashioned", "Negroni"],
+    "answer": 1
+  },
+  {
+    "question": "Which cocktail is made with tequila, triple sec, lime juice, and salt on the rim of the glass?",
+    "options": ["Margarita", "Martini", "Manhattan", "Mai Tai"],
+    "answer": 0
+  },
+  {
+    "question": "Which cocktail is made with vodka, coffee liqueur, and cream?",
+    "options": ["White Russian", "Margarita", "Mojito", "Martini"],
+    "answer": 0
+  }
+]

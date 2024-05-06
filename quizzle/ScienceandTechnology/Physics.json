@@ -1,0 +1,255 @@
+[
+  {
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Newton", "Watt", "Pascal"],
+    "answer": 1
+  },
+  {
+    "question": "Define Newton's First Law of Motion.",
+    "options": [
+      "An object in motion stays in motion",
+      "An object at rest stays at rest",
+      "An object's velocity is directly proportional to the net force acting on it",
+      "An object's acceleration is directly proportional to the net force acting on it"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the formula for calculating work?",
+    "options": ["W = Fd", "W = Fv", "W = Ft", "W = F/t"],
+    "answer": 1
+  },
+  {
+    "question": "Explain the concept of momentum.",
+    "options": [
+      "The product of mass and velocity",
+      "The product of mass and acceleration",
+      "The product of force and time",
+      "The product of force and distance"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the law of conservation of energy?",
+    "options": [
+      "Energy can be created or destroyed",
+      "Energy can be converted from one form to another",
+      "Energy can be neither created nor destroyed",
+      "Energy can be destroyed but not created"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Define Ohm's Law.",
+    "options": ["V = IR", "I = VR", "R = IV", "R = V/I"],
+    "answer": 1
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": [
+      "299,792 km/s",
+      "331,500 m/s",
+      "1,079,252,848 km/h",
+      "2,997,924,580 m/min"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Explain the difference between mass and weight.",
+    "options": [
+      "Mass is a measure of the amount of matter in an object, while weight is a measure of the force of gravity on an object",
+      "Mass is a measure of the force of gravity on an object, while weight is a measure of the amount of matter in an object",
+      "Mass is a measure of the size of an object, while weight is a measure of the force of gravity on an object",
+      "Mass is a measure of the force of gravity on an object, while weight is a measure of the size of an object"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the formula for calculating acceleration?",
+    "options": ["a = F/m", "a = Fd", "a = v/t", "a = m/F"],
+    "answer": 1
+  },
+  {
+    "question": "Define the concept of inertia.",
+    "options": [
+      "The tendency of an object to resist changes in its state of motion",
+      "The tendency of an object to resist changes in its shape",
+      "The tendency of an object to resist changes in its temperature",
+      "The tendency of an object to resist changes in its position"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the formula for calculating kinetic energy?",
+    "options": [
+      "K.E. = 1/2 mv^2",
+      "K.E. = mv",
+      "K.E. = m^2v",
+      "K.E. = 1/2 m^2v^2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Explain the difference between speed and velocity.",
+    "options": [
+      "Speed is a scalar quantity, while velocity is a vector quantity",
+      "Speed is a vector quantity, while velocity is a scalar quantity",
+      "Speed and velocity are the same thing",
+      "Speed is a measure of distance, while velocity is a measure of time"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Define Hooke's Law.",
+    "options": [
+      "The force required to stretch or compress a spring is directly proportional to the distance it is stretched or compressed",
+      "The force required to stretch or compress a spring is inversely proportional to the distance it is stretched or compressed",
+      "The force required to stretch or compress a spring is directly proportional to the square of the distance it is stretched or compressed",
+      "The force required to stretch or compress a spring is inversely proportional to the square of the distance it is stretched or compressed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the principle of conservation of momentum?",
+    "options": [
+      "The total momentum of a closed system remains constant",
+      "The total momentum of a closed system can increase or decrease",
+      "The total momentum of a closed system can be destroyed",
+      "The total momentum of a closed system can be created"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Explain the concept of torque.",
+    "options": [
+      "A force applied to an object that causes it to rotate",
+      "A force applied to an object that causes it to move in a straight line",
+      "A force applied to an object that causes it to change shape",
+      "A force applied to an object that causes it to change size"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the formula for calculating power?",
+    "options": ["P = Fv", "P = Fd/t", "P = F/t", "P = Fd"],
+    "answer": 1
+  },
+  {
+    "question": "Define the concept of buoyancy.",
+    "options": [
+      "The ability of an object to float in a fluid",
+      "The ability of an object to sink in a fluid",
+      "The ability of an object to move through a fluid",
+      "The ability of an object to change shape in a fluid"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the law of universal gravitation?",
+    "options": [
+      "The force of gravity between two objects is directly proportional to the product of their masses",
+      "The force of gravity between two objects is inversely proportional to the product of their masses",
+      "The force of gravity between two objects is directly proportional to the square of the distance between them",
+      "The force of gravity between two objects is inversely proportional to the square of the distance between them"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Explain the difference between concave and convex lenses.",
+    "options": [
+      "Concave lenses are thinner in the middle and thicker at the edges, while convex lenses are thicker in the middle and thinner at the edges",
+      "Concave lenses are thicker in the middle and thinner at the edges, while convex lenses are thinner in the middle and thicker at the edges",
+      "Concave lenses diverge light rays, while convex lenses converge light rays",
+      "Concave lenses converge light rays, while convex lenses diverge light rays"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Define the concept of angular momentum.",
+    "options": [
+      "The momentum of an object moving in a circular path",
+      "The momentum of an object moving in a straight line",
+      "The momentum of an object rotating around an axis",
+      "The momentum of an object at rest"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the formula for calculating the frequency of a wave?",
+    "options": ["f = 1/T", "f = T", "f = v/T", "f = T/v"],
+    "answer": 1
+  },
+  {
+    "question": "Explain the difference between static and kinetic friction.",
+    "options": [
+      "Static friction is the force that opposes the motion of an object at rest, while kinetic friction is the force that opposes the motion of an object in motion",
+      "Static friction is the force that opposes the motion of an object in motion, while kinetic friction is the force that opposes the motion of an object at rest",
+      "Static friction and kinetic friction are the same thing",
+      "Static friction is the force that opposes the motion of an object in a vacuum, while kinetic friction is the force that opposes the motion of an object in a medium"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Define the concept of electric field.",
+    "options": [
+      "The region around an electric charge within which the electric force is exerted",
+      "The region around an electric charge within which the magnetic force is exerted",
+      "The region around an electric charge within which the gravitational force is exerted",
+      "The region around an electric charge within which the nuclear force is exerted"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the formula for calculating mechanical advantage?",
+    "options": ["MA = F2/F1", "MA = F1/F2", "MA = d2/d1", "MA = d1/d2"],
+    "answer": 1
+  },
+  {
+    "question": "Explain the difference between constructive and destructive interference.",
+    "options": [
+      "Constructive interference occurs when two or more waves combine to form a wave with a greater amplitude, while destructive interference occurs when two or more waves combine to form a wave with a smaller amplitude",
+      "Constructive interference occurs when two or more waves combine to form a wave with a smaller amplitude, while destructive interference occurs when two or more waves combine to form a wave"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the formula for calculating pressure?",
+    "options": ["P = F/A", "P = F/d", "P = F/t", "P = F/m"],
+    "answer": 1
+  },
+  {
+    "question": "What is the formula for calculating the force of gravity?",
+    "options": [
+      "F = G(m1m2)/r^2",
+      "F = G(m1+m2)/r^2",
+      "F = G(m1-m2)/r^2",
+      "F = G(m1m2)/r"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Define the concept of wave interference.",
+    "options": [
+      "The phenomenon in which two or more waves combine to form a new wave",
+      "The phenomenon in which two or more waves cancel each other out",
+      "The phenomenon in which two or more waves pass through each other without affecting each other",
+      "The phenomenon in which two or more waves change direction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the formula for calculating the period of a wave?",
+    "options": ["T = 1/f", "T = f", "T = 1/v", "T = v"],
+    "answer": 1
+  },
+  {
+    "question": "Define the concept of specific heat capacity.",
+    "options": [
+      "The amount of heat energy required to raise the temperature of one unit mass of a substance by one degree Celsius",
+      "The amount of heat energy required to raise the temperature of one unit volume of a substance by one degree Celsius",
+      "The amount of heat energy required to raise the temperature of one unit time of a substance by one degree Celsius",
+      "The amount of heat energy required to raise the temperature of one unit force of a substance by one degree Celsius"
+    ],
+    "answer": 1
+  }
+]

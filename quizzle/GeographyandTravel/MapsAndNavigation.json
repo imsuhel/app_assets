@@ -1,0 +1,372 @@
+[
+  {
+    "question": "What is the name of the map that shows the physical features of a place?",
+    "options": [
+      "Political Map",
+      "Physical Map",
+      "Topographic Map",
+      "Thematic Map"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the map that shows the political boundaries of countries, states, and cities?",
+    "options": [
+      "Political Map",
+      "Physical Map",
+      "Topographic Map",
+      "Thematic Map"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the map that shows the elevation and relief of a place?",
+    "options": [
+      "Political Map",
+      "Physical Map",
+      "Topographic Map",
+      "Thematic Map"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the map that shows a specific theme or subject, such as population density or climate?",
+    "options": [
+      "Political Map",
+      "Physical Map",
+      "Topographic Map",
+      "Thematic Map"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the device that uses a combination of GPS, sensors, and maps to provide navigation and location-based services?",
+    "options": ["GPS", "Compass", "Navigator", "Smartphone"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the system that uses a network of satellites to provide location information to GPS devices?",
+    "options": ["GPS", "Compass", "Navigator", "Satellite Navigation System"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal elevation?",
+    "options": ["Contour Line", "Grid Line", "Latitude Line", "Longitude Line"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that runs east-west and measures distance north or south of the equator?",
+    "options": ["Contour Line", "Grid Line", "Latitude Line", "Longitude Line"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the line on a map that runs north-south and measures distance east or west of the prime meridian?",
+    "options": ["Contour Line", "Grid Line", "Latitude Line", "Longitude Line"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the symbol on a map that represents a point of interest, such as a restaurant or museum?",
+    "options": [
+      "Contour Symbol",
+      "Grid Symbol",
+      "Point of Interest Symbol",
+      "Thematic Symbol"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the scale on a map that shows the relationship between distances on the map and distances in the real world?",
+    "options": [
+      "Fractional Scale",
+      "Graphic Scale",
+      "Numeric Scale",
+      "Verbal Scale"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the device that uses a magnetic field to determine the direction of north and south?",
+    "options": ["GPS", "Compass", "Navigator", "Smartphone"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the system that uses a series of beacons to provide location information to ships and aircraft?",
+    "options": ["GPS", "Compass", "Navigator", "Radio Navigation System"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the line on a map that separates land from water?",
+    "options": ["Coastline", "Boundary Line", "Equator", "Prime Meridian"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the tool that is used to measure distances on a map?",
+    "options": ["Protractor", "Compass", "Ruler", "Scale"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the device that uses a combination of GPS, sensors, and maps to provide navigation and location-based services for vehicles?",
+    "options": ["GPS", "Compass", "Navigator", "Satellite Navigation System"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the map that shows the distribution of a particular phenomenon, such as population or climate?",
+    "options": [
+      "Political Map",
+      "Physical Map",
+      "Topographic Map",
+      "Thematic Map"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the symbol on a map that represents a road or highway?",
+    "options": [
+      "Contour Symbol",
+      "Grid Symbol",
+      "Point of Interest Symbol",
+      "Road Symbol"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the line on a map that connects two points with the same altitude?",
+    "options": ["Contour Line", "Grid Line", "Latitude Line", "Longitude Line"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the system that uses a combination of GPS and cellular networks to provide location information to smartphones?",
+    "options": ["GPS", "Compass", "Navigator", "Cellular Navigation System"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the device that uses a combination of GPS, sensors, and maps to provide navigation and location-based services for pedestrians?",
+    "options": ["GPS", "Compass", "Navigator", "Pedestrian Navigation System"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal temperature?",
+    "options": ["Isotherm", "Isobar", "Isohyet", "Isoline"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal atmospheric pressure?",
+    "options": ["Isotherm", "Isobar", "Isohyet", "Isoline"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal rainfall?",
+    "options": ["Isotherm", "Isobar", "Isohyet", "Isoline"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal elevation change?",
+    "options": ["Contour Line", "Grid Line", "Isoline", "Latitude Line"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the device that uses a combination of GPS, sensors, and maps to provide navigation and location-based services for cyclists?",
+    "options": ["GPS", "Compass", "Navigator", "Cycling Navigation System"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal time?",
+    "options": ["Isochrone", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal population density?",
+    "options": ["Isodensity Line", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal magnetic declination?",
+    "options": ["Isogon", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal distance from a central point?",
+    "options": ["Radial Line", "Isotherm", "Isobar", "Circular Line"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal light intensity?",
+    "options": ["Isophote", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal sound intensity?",
+    "options": ["Isophone", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal wind speed?",
+    "options": ["Isotach", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal water depth?",
+    "options": ["Isobath", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal water flow velocity?",
+    "options": ["Isovel", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal gravitational force?",
+    "options": ["Isostere", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal electrical potential?",
+    "options": ["Isopotential Line", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal radiation intensity?",
+    "options": ["Isorad", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal temperature change?",
+    "options": ["Isocline", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal humidity?",
+    "options": ["Isohume", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal population?",
+    "options": ["Isopleth", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal density?",
+    "options": ["Isopycnic Line", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal magnetic field strength?",
+    "options": ["Isogauss Line", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal pressure change?",
+    "options": ["Isobaric Line", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal atmospheric pressure change?",
+    "options": ["Isallobaric Line", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal temperature change per unit distance?",
+    "options": ["Isocline", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal wind direction?",
+    "options": ["Isogon", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean depth?",
+    "options": ["Isobath", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean surface temperature?",
+    "options": ["Isotherm", "Isobar", "Isohyet", "Isobath"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean current velocity?",
+    "options": ["Isovel", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean salinity?",
+    "options": ["Isohaline", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave height?",
+    "options": ["Isowave", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave period?",
+    "options": ["Isoperiod", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave direction?",
+    "options": ["Isogon", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave length?",
+    "options": ["Isowave", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave amplitude?",
+    "options": ["Isowave", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave energy?",
+    "options": ["Isowave", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave frequency?",
+    "options": ["Isoperiod", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave speed?",
+    "options": ["Isowave", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave crest spacing?",
+    "options": ["Isowave", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave height change per unit distance?",
+    "options": ["Isocline", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave period change per unit distance?",
+    "options": ["Isocline", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave direction change per unit distance?",
+    "options": ["Isocline", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave length change per unit distance?",
+    "options": ["Isocline", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave amplitude change per unit distance?",
+    "options": ["Isocline", "Isotherm", "Isobar", "Isohyet"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the line on a map that connects points of equal ocean wave energy change per unit distance?",
+    "options": ["Isocline", "Isotherm", "Isobar", "Isotherm"],
+    "answer": 0
+  }
+]

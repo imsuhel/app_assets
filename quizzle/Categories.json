@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Science and Technology",
+    "totalQuizzes": 20,
+    "url": "/ScienceandTechnology/index.json",
+    "height": 250,
+    "background": "#B3F2FC",
+    "isDone": true
+  },
+  {
+    "id": 2,
+    "title": "History",
+    "totalQuizzes": 10,
+    "url": "/History/index.json",
+    "height": 190,
+    "background": "#E3C2FF",
+    "isDone": true
+  },
+  {
+    "id": 3,
+    "title": "Geography and Travel",
+    "totalQuizzes": 10,
+    "url": "/GeographyandTravel/index.json",
+    "height": 190,
+    "background": "#B3FCE2",
+    "isDone": true
+  },
+  {
+    "id": 4,
+    "title": "Food and Drink",
+    "totalQuizzes": 9,
+    "url": "/FoodandDrink/index.json",
+    "height": 190,
+    "background": "#FCE2B3",
+    "isDone": true
+  },
+  {
+    "id": 5,
+    "title": "Sports and Fitness",
+    "totalQuizzes": 0,
+    "url": "/SportsandFitness/index.json",
+    "height": 250,
+    "background": "#F2FCB3",
+    "isDone": false
+  },
+  {
+    "id": 6,
+    "title": "Business and Finance",
+    "totalQuizzes": 0,
+    "url": "/BusinessandFinance/index.json",
+    "height": 190,
+    "background": "#CEFCB3",
+    "isDone": false
+  },
+  {
+    "id": 7,
+    "title": "Health and Medicine",
+    "totalQuizzes": 0,
+    "url": "/HealthandMedicine/index.json",
+    "height": 250,
+    "background": "#B3FCC7",
+    "isDone": false
+  },
+  {
+    "id": 8,
+    "title": "Nature and Environment",
+    "totalQuizzes": 0,
+    "url": "/NatureandEnvironment/index.json",
+    "height": 190,
+    "background": "#FCB3C9",
+    "isDone": false
+  }
+]

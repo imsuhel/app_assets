@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Which concept in Political Geography emerged first?",
+    "options": [
+      "Functional Approaches in Political Geography by Hartshorne",
+      "Rimland Theory by Spykman",
+      "Frontier and Boundary concept by Moodies",
+      "Heartland Thesis by Mackinder"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Where is the headquarters of OPEC located?",
+    "options": [
+      "Geneva, Switzerland",
+      "Vienna, Austria",
+      "Equatorial Guinea",
+      "Congo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of boundaries do India and Pakistan & India and Bangladesh share?",
+    "options": [
+      "Antecedent Boundaries",
+      "Subsequent Boundaries",
+      "Superimposed Boundaries",
+      "Relict Boundaries"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is not associated with Political Geography?",
+    "options": ["I. Bowman", "R. Johnson", "F. Ratzel", "H. J. Mackinder"],
+    "answer": 1
+  },
+  {
+    "question": "In which hemisphere does India lie?",
+    "options": [
+      "Northern and eastern",
+      "Southern and eastern",
+      "Northern and western",
+      "Northern and southern"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How far does Indian sovereignty in the sea extend?",
+    "options": [
+      "8 nautical miles",
+      "10 nautical miles",
+      "12 nautical miles",
+      "14 nautical miles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where is the highest peak of the Himalayas in India located?",
+    "options": ["Uttar Pradesh", "Kashmir", "Sikkim", "Himachal Pradesh"],
+    "answer": 2
+  },
+  {
+    "question": "Which state is Port Blair situated in?",
+    "options": [
+      "North Andaman",
+      "South Andaman",
+      "Middle Andaman",
+      "Little Andaman"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which town shows the greatest deviation from Indian Standard Time (IST)?",
+    "options": ["Bomdila", "Bara Lacha La", "Shipkila", "Port Blair"],
+    "answer": 0
+  },
+  {
+    "question": "Which Himalayan pass was reopened in 2006 to facilitate trade between India and China?",
+    "options": [
+      "Khyber Pass",
+      "Nathu La Pass",
+      "Shipki La Pass",
+      "Lipulekh Pass"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which country is known as the \"Land of the Rising Sun\"?",
+    "options": ["China", "Japan", "South Korea", "Vietnam"],
+    "answer": 1
+  },
+  {
+    "question": "Which city is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": 2
+  },
+  {
+    "question": "What is the largest country by land area in South America?",
+    "options": ["Brazil", "Argentina", "Peru", "Colombia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known as the \"Pearl of Africa\"?",
+    "options": ["Kenya", "Nigeria", "Uganda", "South Africa"],
+    "answer": 2
+  },
+  {
+    "question": "Which city is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "answer": 2
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is known as the \"Land of the Long White Cloud\"?",
+    "options": ["Australia", "New Zealand", "Fiji", "Papua New Guinea"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": ["St. Petersburg", "Moscow", "Vladivostok", "Sochi"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is known as the \"Land of a Thousand Lakes\"?",
+    "options": ["Sweden", "Norway", "Finland", "Iceland"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": ["Johannesburg", "Cape Town", "Pretoria", "Durban"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is known as the \"Land of Fire and Ice\"?",
+    "options": ["Greenland", "Iceland", "Norway", "Denmark"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": ["Buenos Aires", "Santiago", "Lima", "Brasilia"],
+    "answer": 0
+  },
+  {
+    "question": "What is the largest city in Africa by population?",
+    "options": ["Cairo", "Lagos", "Kinshasa", "Johannesburg"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is known as the \"Land of the Midnight Sun\"?",
+    "options": ["Sweden", "Norway", "Finland", "Iceland"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Salvador"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is the largest in the world by land area?",
+    "options": ["Russia", "Canada", "China", "United States"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the world by population?",
+    "options": ["China", "India", "United States", "Indonesia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the most populous in the European Union?",
+    "options": ["Germany", "France", "United Kingdom", "Italy"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the African continent?",
+    "options": [
+      "Algeria",
+      "Democratic Republic of the Congo",
+      "Sudan",
+      "Libya"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which country is the largest in the Middle East?",
+    "options": ["Saudi Arabia", "Iran", "Turkey", "Iraq"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in South America?",
+    "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Caribbean?",
+    "options": ["Cuba", "Hispaniola", "Jamaica", "Puerto Rico"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is the largest in Central America?",
+    "options": ["Guatemala", "Nicaragua", "Honduras", "El Salvador"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is the largest in the British Isles?",
+    "options": ["England", "Scotland", "Ireland", "Wales"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Iberian Peninsula?",
+    "options": ["Spain", "Portugal", "Andorra", "Gibraltar"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Balkan Peninsula?",
+    "options": ["Romania", "Bulgaria", "Greece", "Serbia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Scandinavian Peninsula?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Arabian Peninsula?",
+    "options": ["Saudi Arabia", "Yemen", "Oman", "United Arab Emirates"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Caucasus region?",
+    "options": ["Russia", "Georgia", "Azerbaijan", "Armenia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Horn of Africa?",
+    "options": ["Ethiopia", "Somalia", "Eritrea", "Djibouti"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Sahel region?",
+    "options": ["Sudan", "Chad", "Niger", "Mali"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is the largest in the Maghreb region?",
+    "options": ["Algeria", "Morocco", "Tunisia", "Libya"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Andes region?",
+    "options": ["Argentina", "Chile", "Peru", "Colombia"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is the largest in the Amazon Basin?",
+    "options": ["Brazil", "Peru", "Colombia", "Venezuela"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Pampas region?",
+    "options": ["Argentina", "Uruguay", "Brazil", "Paraguay"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Patagonia region?",
+    "options": ["Argentina", "Chile", "Brazil", "Uruguay"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Mesopotamia region?",
+    "options": ["Iraq", "Iran", "Turkey", "Syria"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Indus Valley region?",
+    "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is the largest in the Ganges Delta region?",
+    "options": ["India", "Bangladesh", "Nepal", "Bhutan"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is the largest in the Nile Delta region?",
+    "options": ["Egypt", "Sudan", "Ethiopia", "South Sudan"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Volga River region?",
+    "options": ["Russia", "Ukraine", "Kazakhstan", "Belarus"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Danube River region?",
+    "options": ["Germany", "Austria", "Hungary", "Romania"],
+    "answer": 3
+  },
+  {
+    "question": "Which country is the largest in the Rhine River region?",
+    "options": ["Switzerland", "Germany", "France", "Netherlands"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is the largest in the Po River region?",
+    "options": ["Italy", "Switzerland", "France", "Austria"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Seine River region?",
+    "options": ["France", "Belgium", "Luxembourg", "Netherlands"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Thames River region?",
+    "options": ["England", "Scotland", "Wales", "Northern Ireland"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Hudson River region?",
+    "options": ["United States", "Canada", "Mexico", "Cuba"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Mississippi River region?",
+    "options": ["United States", "Canada", "Mexico", "Cuba"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the largest in the Amazon River region?",
+    "options": ["Brazil", "Peru", "Colombia", "Venezuela"],
+    "answer": 0
+  }
+]

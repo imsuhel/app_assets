@@ -1,0 +1,1003 @@
+[
+  {
+    "question": "What is the recommended amount of physical activity for adults aged 18-64?",
+    "options": [
+      "At least 150 minutes of moderate-intensity aerobic activity per week",
+      "At least 300 minutes of moderate-intensity aerobic activity per week",
+      "At least 150 minutes of vigorous-intensity aerobic activity per week",
+      "At least 300 minutes of vigorous-intensity aerobic activity per week"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of strength training?",
+    "options": [
+      "Increased muscle mass",
+      "Improved bone density",
+      "Improved metabolic function",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended amount of sleep for adults aged 18-64?",
+    "options": [
+      "7-8 hours per night",
+      "6-7 hours per night",
+      "8-9 hours per night",
+      "5-6 hours per night"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition of a calorie?",
+    "options": [
+      "A unit of energy",
+      "A unit of mass",
+      "A unit of time",
+      "A unit of volume"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of cardiovascular exercise?",
+    "options": [
+      "Improved heart health",
+      "Improved lung function",
+      "Improved circulation",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended amount of water intake for adults?",
+    "options": [
+      "8 glasses per day",
+      "10 glasses per day",
+      "12 glasses per day",
+      "It varies based on individual needs"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a benefit of flexibility training?",
+    "options": [
+      "Improved range of motion",
+      "Reduced risk of injury",
+      "Improved posture",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of body mass index (BMI)?",
+    "options": [
+      "A measure of body fat based on height and weight",
+      "A measure of muscle mass based on height and weight",
+      "A measure of body fat percentage based on height and weight",
+      "A measure of body water percentage based on height and weight"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of high-intensity interval training (HIIT)?",
+    "options": [
+      "Improved cardiovascular fitness",
+      "Increased calorie burn",
+      "Improved muscular endurance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended amount of protein intake for adults?",
+    "options": [
+      "0.36 grams per pound of body weight per day",
+      "0.5 grams per pound of body weight per day",
+      "0.7 grams per pound of body weight per day",
+      "1 gram per pound of body weight per day"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of balance training?",
+    "options": [
+      "Improved stability",
+      "Reduced risk of falls",
+      "Improved posture",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a macronutrient?",
+    "options": [
+      "A nutrient that provides energy",
+      "A nutrient that provides structure",
+      "A nutrient that provides regulation",
+      "A nutrient that provides protection"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of meditation?",
+    "options": [
+      "Reduced stress",
+      "Improved focus",
+      "Improved sleep",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a micronutrient?",
+    "options": [
+      "A nutrient that provides energy",
+      "A nutrient that provides structure",
+      "A nutrient that provides regulation",
+      "A nutrient that provides protection"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a benefit of yoga?",
+    "options": [
+      "Improved flexibility",
+      "Improved strength",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a carbohydrate?",
+    "options": [
+      "A macronutrient that provides energy",
+      "A micronutrient that provides energy",
+      "A macronutrient that provides structure",
+      "A micronutrient that provides structure"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of resistance training?",
+    "options": [
+      "Increased muscle mass",
+      "Improved bone density",
+      "Improved metabolic function",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a fat?",
+    "options": [
+      "A macronutrient that provides energy",
+      "A micronutrient that provides energy",
+      "A macronutrient that provides structure",
+      "A micronutrient that provides structure"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of Pilates?",
+    "options": [
+      "Improved core strength",
+      "Improved posture",
+      "Improved flexibility",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a vitamin?",
+    "options": [
+      "An essential nutrient that cannot be produced by the body",
+      "An essential nutrient that can be produced by the body",
+      "A non-essential nutrient that cannot be produced by the body",
+      "A non-essential nutrient that can be produced by the body"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of plyometrics?",
+    "options": [
+      "Improved power",
+      "Improved speed",
+      "Improved agility",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a mineral?",
+    "options": [
+      "An essential nutrient that cannot be produced by the body",
+      "An essential nutrient that can be produced by the body",
+      "A non-essential nutrient that cannot be produced by the body",
+      "A non-essential nutrient that can be produced by the body"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of foam rolling?",
+    "options": [
+      "Improved flexibility",
+      "Reduced muscle soreness",
+      "Improved circulation",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a fiber?",
+    "options": [
+      "A type of carbohydrate that cannot be digested by the body",
+      "A type of carbohydrate that can be digested by the body",
+      "A type of fat that cannot be digested by the body",
+      "A type of fat that can be digested by the body"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of stretching?",
+    "options": [
+      "Improved range of motion",
+      "Reduced risk of injury",
+      "Improved posture",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a protein?",
+    "options": [
+      "A macronutrient that provides energy",
+      "A macronutrient that provides structure",
+      "A macronutrient that provides regulation",
+      "A macronutrient that provides protection"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a benefit of sauna use?",
+    "options": [
+      "Improved cardiovascular function",
+      "Improved detoxification",
+      "Improved relaxation",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a calorie deficit?",
+    "options": [
+      "Consuming more calories than the body needs",
+      "Consuming fewer calories than the body needs",
+      "Consuming the same amount of calories as the body needs",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a benefit of cold therapy?",
+    "options": [
+      "Improved circulation",
+      "Reduced inflammation",
+      "Improved recovery",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a calorie surplus?",
+    "options": [
+      "Consuming more calories than the body needs",
+      "Consuming fewer calories than the body needs",
+      "Consuming the same amount of calories as the body needs",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of walking?",
+    "options": [
+      "Improved cardiovascular function",
+      "Improved bone density",
+      "Improved flexibility",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a plateau?",
+    "options": [
+      "A period of time where progress is made",
+      "A period of time where progress is stalled",
+      "A period of time where progress is reversed",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a benefit of swimming?",
+    "options": [
+      "Improved cardiovascular function",
+      "Improved muscular endurance",
+      "Improved flexibility",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a repetition?",
+    "options": [
+      "The number of times an exercise is performed",
+      "The amount of weight used during an exercise",
+      "The amount of time spent performing an exercise",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of cycling?",
+    "options": [
+      "Improved cardiovascular function",
+      "Improved muscular endurance",
+      "Improved flexibility",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a set?",
+    "options": [
+      "The number of times an exercise is performed",
+      "The amount of weight used during an exercise",
+      "A group of repetitions performed consecutively",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a benefit of running?",
+    "options": [
+      "Improved cardiovascular function",
+      "Improved muscular endurance",
+      "Improved flexibility",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a circuit?",
+    "options": [
+      "A group of exercises performed consecutively with minimal rest",
+      "A group of exercises performed with the same weight",
+      "A group of exercises performed with the same number of repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of dancing?",
+    "options": [
+      "Improved cardiovascular function",
+      "Improved muscular endurance",
+      "Improved flexibility",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a superset?",
+    "options": [
+      "A group of exercises performed with the same weight",
+      "A group of exercises performed with the same number of repetitions",
+      "Two exercises performed consecutively with minimal rest",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a benefit of hiking?",
+    "options": [
+      "Improved cardiovascular function",
+      "Improved muscular endurance",
+      "Improved flexibility",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a dropset?",
+    "options": [
+      "A group of exercises performed with the same weight",
+      "A group of exercises performed with the same number of repetitions",
+      "Performing an exercise to failure, then reducing the weight and continuing",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a benefit of rock climbing?",
+    "options": [
+      "Improved grip strength",
+      "Improved balance",
+      "Improved mental focus",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a pyramid set?",
+    "options": [
+      "Performing an exercise with increasing weight and decreasing repetitions",
+      "Performing an exercise with decreasing weight and increasing repetitions",
+      "Performing an exercise with the same weight and repetitions for multiple sets",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of kettlebell training?",
+    "options": [
+      "Improved grip strength",
+      "Improved power",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a giant set?",
+    "options": [
+      "Performing four or more exercises consecutively with minimal rest",
+      "Performing four or more exercises with the same weight",
+      "Performing four or more exercises with the same number of repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of bodyweight training?",
+    "options": [
+      "Improved functional movement",
+      "Improved balance",
+      "Improved muscular endurance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a ladder set?",
+    "options": [
+      "Performing an exercise with increasing weight and decreasing repetitions",
+      "Performing an exercise with decreasing weight and increasing repetitions",
+      "Performing an exercise with alternating weight and repetitions",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a benefit of sandbag training?",
+    "options": [
+      "Improved grip strength",
+      "Improved power",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a complex?",
+    "options": [
+      "Performing a series of exercises with a barbell or dumbbell without setting it down",
+      "Performing a series of exercises with a sandbag without setting it down",
+      "Performing a series of exercises with a kettlebell without setting it down",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of battling rope training?",
+    "options": [
+      "Improved grip strength",
+      "Improved power",
+      "Improved cardiovascular function",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a density set?",
+    "options": [
+      "Performing as many repetitions as possible in a set amount of time",
+      "Performing as many sets as possible in a set amount of time",
+      "Performing as many exercises as possible in a set amount of time",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of sled pushing or pulling?",
+    "options": [
+      "Improved power",
+      "Improved cardiovascular function",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a mechanical dropset?",
+    "options": [
+      "Performing an exercise to failure, then switching to a different exercise that targets the same muscle group",
+      "Performing an exercise to failure, then reducing the weight and continuing",
+      "Performing an exercise with increasing weight and decreasing repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of isometric training?",
+    "options": [
+      "Improved muscular endurance",
+      "Improved balance",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a rest-pause set?",
+    "options": [
+      "Performing an exercise to failure, then resting for a short period of time before continuing",
+      "Performing an exercise with increasing weight and decreasing repetitions",
+      "Performing an exercise with decreasing weight and increasing repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of plyometric push-ups?",
+    "options": [
+      "Improved power",
+      "Improved muscular endurance",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition of a cluster set?",
+    "options": [
+      "Performing a set of repetitions, resting for a short period of time, then performing another set of repetitions",
+      "Performing an exercise with increasing weight and decreasing repetitions",
+      "Performing an exercise with decreasing weight and increasing repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of plyometric box jumps?",
+    "options": [
+      "Improved power",
+      "Improved muscular endurance",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition of a partial rep?",
+    "options": [
+      "Performing only a portion of the full range of motion for an exercise",
+      "Performing the full range of motion for an exercise",
+      "Performing an exercise with decreasing weight and increasing repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+
+  {
+    "question": "Which of the following is a benefit of barbell squats?",
+    "options": [
+      "Improved lower body strength",
+      "Improved core strength",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a plateau?",
+    "options": [
+      "A period of time where progress is made",
+      "A period of time where progress is stalled",
+      "A period of time where progress is reversed",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a benefit of deadlifts?",
+    "options": [
+      "Improved lower body strength",
+      "Improved upper body strength",
+      "Improved grip strength",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a deload?",
+    "options": [
+      "A period of time where the intensity or volume of training is reduced",
+      "A period of time where the intensity or volume of training is increased",
+      "A period of time where the same intensity or volume of training is maintained",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of bench press?",
+    "options": [
+      "Improved upper body strength",
+      "Improved core strength",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition of a drop set?",
+    "options": [
+      "Performing an exercise to failure, then reducing the weight and continuing",
+      "Performing an exercise with increasing weight and decreasing repetitions",
+      "Performing an exercise with decreasing weight and increasing repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of pull-ups?",
+    "options": [
+      "Improved upper body strength",
+      "Improved grip strength",
+      "Improved core strength",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a superset?",
+    "options": [
+      "Two exercises performed consecutively with minimal rest",
+      "Two exercises performed with the same weight",
+      "Two exercises performed with the same number of repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of dips?",
+    "options": [
+      "Improved upper body strength",
+      "Improved core strength",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition of a giant set?",
+    "options": [
+      "Performing four or more exercises consecutively with minimal rest",
+      "Performing four or more exercises with the same weight",
+      "Performing four or more exercises with the same number of repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of lunges?",
+    "options": [
+      "Improved lower body strength",
+      "Improved balance",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a triset?",
+    "options": [
+      "Three exercises performed consecutively with minimal rest",
+      "Three exercises performed with the same weight",
+      "Three exercises performed with the same number of repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of step-ups?",
+    "options": [
+      "Improved lower body strength",
+      "Improved balance",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a quadset?",
+    "options": [
+      "Four exercises performed consecutively with minimal rest",
+      "Four exercises performed with the same weight",
+      "Four exercises performed with the same number of repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of calf raises?",
+    "options": [
+      "Improved lower leg strength",
+      "Improved balance",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a circuit?",
+    "options": [
+      "A group of exercises performed consecutively with minimal rest",
+      "A group of exercises performed with the same weight",
+      "A group of exercises performed with the same number of repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of push-ups?",
+    "options": [
+      "Improved upper body strength",
+      "Improved core strength",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a complex?",
+    "options": [
+      "Performing a series of exercises with a barbell or dumbbell without setting it down",
+      "Performing a series of exercises with a sandbag without setting it down",
+      "Performing a series of exercises with a kettlebell without setting it down",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of plank exercises?",
+    "options": [
+      "Improved core strength",
+      "Improved balance",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a density set?",
+    "options": [
+      "Performing as many repetitions as possible in a set amount of time",
+      "Performing as many sets as possible in a set amount of time",
+      "Performing as many exercises as possible in a set amount of time",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of side plank exercises?",
+    "options": [
+      "Improved core strength",
+      "Improved balance",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a rest-pause set?",
+    "options": [
+      "Performing an exercise to failure, then resting for a short period of time before continuing",
+      "Performing an exercise with increasing weight and decreasing repetitions",
+      "Performing an exercise with decreasing weight and increasing repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of glute bridges?",
+    "options": [
+      "Improved lower body strength",
+      "Improved core strength",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a mechanical dropset?",
+    "options": [
+      "Performing an exercise to failure, then switching to a different exercise that targets the same muscle group",
+      "Performing an exercise to failure, then reducing the weight and continuing",
+      "Performing an exercise with increasing weight and decreasing repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of hip thrusts?",
+    "options": [
+      "Improved lower body strength",
+      "Improved core strength",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of an isohold?",
+    "options": [
+      "Performing an exercise with a static hold at a specific point in the range of motion",
+      "Performing an exercise with a full range of motion",
+      "Performing an exercise with decreasing weight and increasing repetitions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of single-leg deadlifts?",
+    "options": [
+      "Improved lower body strength",
+      "Improved balance",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a tempo change?",
+    "options": [
+      "Performing an exercise with a specific tempo, such as a 3-second eccentric phase",
+      "Performing an exercise with a fast tempo throughout",
+      "Performing an exercise with a slow tempo throughout",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of single-leg squats?",
+    "options": [
+      "Improved lower body strength",
+      "Improved balance",
+      "Improved functional movement",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a pause rep?",
+    "options": [
+      "Performing an exercise with a static hold at a specific point in the range of motion",
+      "Performing an exercise with a full range of motion",
+      "Performing an exercise with a brief pause at a specific point in the range of motion",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a benefit of single-arm rows?",
+    "options": [
+      "Improved upper body strength",
+      "Improved core strength",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a band resisted exercise?",
+    "options": [
+      "Performing an exercise with a resistance band to increase the difficulty",
+      "Performing an exercise with a reduced weight to decrease the difficulty",
+      "Performing an exercise with a slow tempo to increase the difficulty",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of single-arm presses?",
+    "options": [
+      "Improved upper body strength",
+      "Improved core strength",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a chain resisted exercise?",
+    "options": [
+      "Performing an exercise with a chain to increase the difficulty",
+      "Performing an exercise with a reduced weight to decrease the difficulty",
+      "Performing an exercise with a slow tempo to increase the difficulty",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of single-arm kettlebell swings?",
+    "options": [
+      "Improved grip strength",
+      "Improved power",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a weight releaser exercise?",
+    "options": [
+      "Performing an exercise with a weight that is released during the movement to increase the difficulty",
+      "Performing an exercise with a reduced weight to decrease the difficulty",
+      "Performing an exercise with a slow tempo to increase the difficulty",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of single-arm dumbbell snatches?",
+    "options": [
+      "Improved grip strength",
+      "Improved power",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a band assisted exercise?",
+    "options": [
+      "Performing an exercise with a resistance band to decrease the difficulty",
+      "Performing an exercise with a reduced weight to decrease the difficulty",
+      "Performing an exercise with a slow tempo to increase the difficulty",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a benefit of single-arm dumbbell clean and presses?",
+    "options": [
+      "Improved grip strength",
+      "Improved power",
+      "Improved balance",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition of a chain assisted exercise?",
+    "options": [
+      "Performing an exercise with a chain to decrease the difficulty",
+      "Performing an exercise with a reduced weight to decrease the difficulty",
+      "Performing an exercise with a slow tempo to increase the difficulty",
+      "None of the above"
+    ],
+    "answer": 0
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "question": "Who is the author of \"The Odyssey\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 0
+  },
+  {
+    "question": "Which civilization is known for its development of the cuneiform writing system?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 1
+  },
+  {
+    "question": "Which civilization is known for its development of the hieroglyphic writing system?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 0
+  },
+  {
+    "question": "Which civilization is known for its development of the alphabet?",
+    "options": ["Egyptian", "Mesopotamian", "Phoenician", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Which civilization is known for its development of democracy?",
+    "options": ["Egyptian", "Mesopotamian", "Roman", "Greek"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"The Iliad\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 0
+  },
+  {
+    "question": "Which civilization is known for its development of the Silk Road?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Which civilization is known for its development of the Great Wall of China?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Which civilization is known for its development of the Colosseum?",
+    "options": ["Egyptian", "Mesopotamian", "Roman", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"The Aeneid\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 1
+  },
+  {
+    "question": "Which civilization is known for its development of the Parthenon?",
+    "options": ["Egyptian", "Mesopotamian", "Roman", "Greek"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"The Divine Comedy\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 2
+  },
+  {
+    "question": "Which civilization is known for its development of the Qin Dynasty?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Romeo and Juliet\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Han Dynasty?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Hamlet\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Tang Dynasty?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Macbeth\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Song Dynasty?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Othello\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Ming Dynasty?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"King Lear\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Qing Dynasty?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Antony and Cleopatra\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Indus Valley Civilization?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Indian"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"Julius Caesar\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Mayan Civilization?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "American"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"Coriolanus\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Inca Civilization?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "American"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"Titus Andronicus\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Aztec Civilization?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "American"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"Timon of Athens\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Mauryan Empire?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Indian"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"Julius Caesar's Ghost\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Gupta Empire?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Indian"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"The Tempest\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Khmer Empire?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Southeast Asian"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"The Winter's Tale\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Ottoman Empire?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Middle Eastern"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"Cymbeline\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Mughal Empire?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Indian"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"The Two Noble Kinsmen\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Safavid Empire?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Middle Eastern"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"Pericles, Prince of Tyre\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Qajar Empire?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "Middle Eastern"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"The Merchant of Venice\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Russian Empire?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "European"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"Henry VIII\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the British Empire?",
+    "options": ["Egyptian", "Mesopotamian", "Chinese", "European"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"The Two Gentlemen of Verona\"?",
+    "options": ["Homer", "Virgil", "Dante", "Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of \"A Midsummer Night's Dream\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Etruscan Civilization?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Italian", "d. Greek"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Twelfth Night\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Edo Period?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Japanese", "d. Chinese"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"As You Like It\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Shang Dynasty?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Chinese", "d. Japanese"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Much Ado About Nothing\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Minoan Civilization?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Greek", "d. Roman"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Love's Labour's Lost\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Byzantine Empire?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Greek", "d. Roman"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Measure for Measure\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Edo Castle?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Japanese", "d. Chinese"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"The Merry Wives of Windsor\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Azuchi-Momoyama Period?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Japanese", "d. Chinese"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"All's Well That Ends Well\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Mughal Empire?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Troilus and Cressida\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Rashtrakuta Dynasty?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"The Taming of the Shrew\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Vijayanagara Empire?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"The Comedy of Errors\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Chola Dynasty?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Pericles, Prince of Tyre\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Maurya Empire?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Henry IV, Part 1\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Maratha Empire?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Henry IV, Part 2\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Gupta Empire?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Henry V\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Vijayanagara Empire?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Henry VI, Part 1\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Pallava Dynasty?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Henry VI, Part 2\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Pala Empire?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of \"Henry VI, Part 3\"?",
+    "options": ["a. Homer", "b. Virgil", "c. Dante", "d. Shakespeare"],
+    "answer": 3
+  },
+  {
+    "question": "Which civilization is known for its development of the Chalukya Dynasty?",
+    "options": ["a. Egyptian", "b. Mesopotamian", "c. Indian", "d. Persian"],
+    "answer": 2
+  }
+]

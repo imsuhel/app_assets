@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which type of cuisine is known for its use of spicy and flavorful dishes, as well as its use of rice and beans as staple ingredients?",
+    "options": ["French", "Italian", "Mexican", "Thai"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of cuisine is known for its use of fresh and healthy ingredients, as well as its use of grilling and broiling as cooking methods?",
+    "options": ["French", "Italian", "Mediterranean", "Japanese"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of cooking involves cooking food in a pot with a small amount of liquid, allowing the food to be cooked slowly and at a low temperature for a long period of time?",
+    "options": ["Boiling", "Steaming", "Braising", "Poaching"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of cuisine is known for its use of spicy and flavorful dishes, as well as its use of noodles and rice as staple ingredients?",
+    "options": ["French", "Italian", "Chinese", "Indian"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of cooking involves cooking food in a pan with a small amount of oil or butter, allowing the food to be cooked quickly and at a high temperature?",
+    "options": ["Boiling", "Steaming", "Sautéing", "Poaching"],
+    "answer": 2
+  }
+]

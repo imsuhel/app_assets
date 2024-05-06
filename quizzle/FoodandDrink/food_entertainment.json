@@ -1,0 +1,754 @@
+[
+  {
+    "question": "Which of the following is a popular food-themed TV show?",
+    "options": [
+      "The Great British Bake Off",
+      "MasterChef",
+      "Chopped",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed movie?",
+    "options": ["Ratatouille", "Julie & Julia", "Chef", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed podcast?",
+    "options": ["The Sporkful", "Gastropod", "Grub", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed video game?",
+    "options": [
+      "Cooking Mama",
+      "Overcooked",
+      "Food Truck Tycoon",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed board game?",
+    "options": [
+      "Ticket to Ride: Europe",
+      "Carcassonne",
+      "Sushi Go!",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a popular food-themed book series?",
+    "options": [
+      "The Great Brain",
+      "The Great Cake Mystery",
+      "The Great Chef",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a popular food-themed musical?",
+    "options": ["Waitress", "Hamilton", "Wicked", "None of the above"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a popular food-themed comedy show?",
+    "options": [
+      "The Big Bang Theory",
+      "Friends",
+      "Seinfeld",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a popular food-themed web series?",
+    "options": [
+      "Binging with Babish",
+      "My Drunk Kitchen",
+      "Epic Meal Time",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed mobile game?",
+    "options": [
+      "Food Street",
+      "Cooking Fever",
+      "Restaurant Story",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed social media influencer?",
+    "options": ["Tasty", "Buzzfeed Food", "Delish", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking competition show?",
+    "options": ["Iron Chef", "Top Chef", "Hell's Kitchen", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show hosted by a celebrity chef?",
+    "options": [
+      "The French Chef with Julia Child",
+      "Emeril Live with Emeril Lagasse",
+      "The Naked Chef with Jamie Oliver",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show hosted by a home cook?",
+    "options": [
+      "The Pioneer Woman with Ree Drummond",
+      "The Barefoot Contessa with Ina Garten",
+      "Trisha's Southern Kitchen with Trisha Yearwood",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring a chef with a unique style?",
+    "options": [
+      "Cutthroat Kitchen with Alton Brown",
+      "Guy's Grocery Games with Guy Fieri",
+      "Diners, Drive-Ins and Dives with Guy Fieri",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring amateur chefs?",
+    "options": [
+      "The Taste",
+      "The Next Food Network Star",
+      "Food Network Star Kids",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring professional chefs?",
+    "options": [
+      "The Mind of a Chef",
+      "Chef's Table",
+      "Ugly Delicious",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring international cuisine?",
+    "options": [
+      "No Reservations",
+      "Parts Unknown",
+      "The Layover",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring desserts?",
+    "options": ["Ace of Cakes", "Cake Boss", "Sugar Rush", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring barbecue?",
+    "options": [
+      "Diners, Drive-Ins and Dives with Guy Fieri",
+      "BBQ Pitmasters",
+      "BBQ with Franklin",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring plant-based cuisine?",
+    "options": [
+      "Vegan Mashup",
+      "Plant-Based by Nafsika",
+      "The Vegan Roadie",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring street food?",
+    "options": [
+      "Street Food",
+      "The World's Best Street Food",
+      "Bizarre Foods with Andrew Zimmern",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring comfort food?",
+    "options": [
+      "Diners, Drive-Ins and Dives with Guy Fieri",
+      "The Best Thing I Ever Ate",
+      "Guy's Big Bite",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring healthy cuisine?",
+    "options": [
+      "The Doctors",
+      "The Biggest Loser",
+      "Healthy Appetite with Ellie Krieger",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring breakfast food?",
+    "options": [
+      "The Best Thing I Ever Ate",
+      "The Breakfast Club",
+      "The Today Show Food Club",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Italian cuisine?",
+    "options": [
+      "Lidia's Italy",
+      "Everyday Italian",
+      "Extra Virgin",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Mexican cuisine?",
+    "options": [
+      "Mexico: One Plate at a Time",
+      "Pati's Mexican Table",
+      "Taco Chronicles",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Asian cuisine?",
+    "options": [
+      "The Mind of a Chef",
+      "Chef's Table",
+      "Ugly Delicious",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Mediterranean cuisine?",
+    "options": [
+      "The Mediterranean Dish",
+      "My Greek Table",
+      "Simply Mediterranean",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Indian cuisine?",
+    "options": [
+      "Indian Food Made Easy",
+      "The Mind of a Chef",
+      "Chef's Table",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring French cuisine?",
+    "options": [
+      "French Food at Home",
+      "Julia and Jacques Cooking at Home",
+      "My Paris Kitchen",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Southern cuisine?",
+    "options": [
+      "Paula's Home Cooking",
+      "Trisha's Southern Kitchen",
+      "Southern at Heart",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Caribbean cuisine?",
+    "options": [
+      "Caribbean Food Made Easy",
+      "Taste the Islands",
+      "Caribbean Kitchen",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Middle Eastern cuisine?",
+    "options": [
+      "Simply Lebanese",
+      "Middle Eastern Food at Home",
+      "Taste of Beirut",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Korean cuisine?",
+    "options": [
+      "Korean Food Made Simple",
+      "Korean Kitchen",
+      "Korean Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Thai cuisine?",
+    "options": [
+      "Thai Street Food",
+      "Thai Kitchen",
+      "Thai Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Japanese cuisine?",
+    "options": [
+      "Japanese Cooking 101",
+      "Japanese Kitchen",
+      "Japanese Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Chinese cuisine?",
+    "options": [
+      "Chinese Food Made Easy",
+      "Chinese Kitchen",
+      "Chinese Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Vietnamese cuisine?",
+    "options": [
+      "Vietnamese Food Any Day",
+      "Vietnamese Kitchen",
+      "Vietnamese Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Brazilian cuisine?",
+    "options": [
+      "Brazilian Food Made Easy",
+      "Brazilian Kitchen",
+      "Brazilian Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Greek cuisine?",
+    "options": [
+      "Greek Food Made Easy",
+      "Greek Kitchen",
+      "Greek Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Turkish cuisine?",
+    "options": [
+      "Turkish Food Made Easy",
+      "Turkish Kitchen",
+      "Turkish Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Moroccan cuisine?",
+    "options": [
+      "Moroccan Food Made Easy",
+      "Moroccan Kitchen",
+      "Moroccan Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Ethiopian cuisine?",
+    "options": [
+      "Ethiopian Food Made Easy",
+      "Ethiopian Kitchen",
+      "Ethiopian Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Lebanese cuisine?",
+    "options": [
+      "Lebanese Food Made Easy",
+      "Lebanese Kitchen",
+      "Lebanese Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring Spanish cuisine?",
+    "options": [
+      "Spanish Food Made Easy",
+      "Spanish Kitchen",
+      "Spanish Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring American cuisine?",
+    "options": [
+      "American Food Made Easy",
+      "American Kitchen",
+      "American Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring fusion cuisine?",
+    "options": [
+      "Fusion Food Made Easy",
+      "Fusion Kitchen",
+      "Fusion Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a popular food-themed cooking show featuring global cuisine?",
+    "options": [
+      "Global Food Made Easy",
+      "Global Kitchen",
+      "Global Table",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  [
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring French cuisine?",
+      "options": [
+        "French Food at Home",
+        "Julia and Jacques Cooking at Home",
+        "My Paris Kitchen",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Southern cuisine?",
+      "options": [
+        "Paula's Home Cooking",
+        "Trisha's Southern Kitchen",
+        "Southern at Heart",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Caribbean cuisine?",
+      "options": [
+        "Caribbean Food Made Easy",
+        "Taste the Islands",
+        "Caribbean Kitchen",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Middle Eastern cuisine?",
+      "options": [
+        "Simply Lebanese",
+        "Middle Eastern Food at Home",
+        "Taste of Beirut",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Korean cuisine?",
+      "options": [
+        "Korean Food Made Simple",
+        "Korean Kitchen",
+        "Korean Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Thai cuisine?",
+      "options": [
+        "Thai Street Food",
+        "Thai Kitchen",
+        "Thai Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Japanese cuisine?",
+      "options": [
+        "Japanese Cooking 101",
+        "Japanese Kitchen",
+        "Japanese Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Chinese cuisine?",
+      "options": [
+        "Chinese Food Made Easy",
+        "Chinese Kitchen",
+        "Chinese Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Vietnamese cuisine?",
+      "options": [
+        "Vietnamese Food Any Day",
+        "Vietnamese Kitchen",
+        "Vietnamese Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Brazilian cuisine?",
+      "options": [
+        "Brazilian Food Made Easy",
+        "Brazilian Kitchen",
+        "Brazilian Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Mexican cuisine?",
+      "options": [
+        "Mexican Made Easy",
+        "Mexican Kitchen",
+        "Mexican Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Italian cuisine?",
+      "options": [
+        "Italian Food Made Easy",
+        "Italian Kitchen",
+        "Italian Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Greek cuisine?",
+      "options": [
+        "Greek Food Made Easy",
+        "Greek Kitchen",
+        "Greek Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Turkish cuisine?",
+      "options": [
+        "Turkish Food Made Easy",
+        "Turkish Kitchen",
+        "Turkish Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Moroccan cuisine?",
+      "options": [
+        "Moroccan Food Made Easy",
+        "Moroccan Kitchen",
+        "Moroccan Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Ethiopian cuisine?",
+      "options": [
+        "Ethiopian Food Made Easy",
+        "Ethiopian Kitchen",
+        "Ethiopian Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Indian cuisine?",
+      "options": [
+        "Indian Food Made Easy",
+        "Indian Kitchen",
+        "Indian Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Lebanese cuisine?",
+      "options": [
+        "Lebanese Food Made Easy",
+        "Lebanese Kitchen",
+        "Lebanese Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Spanish cuisine?",
+      "options": [
+        "Spanish Food Made Easy",
+        "Spanish Kitchen",
+        "Spanish Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring French cuisine?",
+      "options": [
+        "French Food Made Easy",
+        "French Kitchen",
+        "French Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Thai cuisine?",
+      "options": [
+        "Thai Food Made Easy",
+        "Thai Kitchen",
+        "Thai Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Korean cuisine?",
+      "options": [
+        "Korean Food Made Easy",
+        "Korean Kitchen",
+        "Korean Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Italian cuisine?",
+      "options": [
+        "Italian Food Made Easy",
+        "Italian Kitchen",
+        "Italian Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Mexican cuisine?",
+      "options": [
+        "Mexican Food Made Easy",
+        "Mexican Kitchen",
+        "Mexican Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring Mediterranean cuisine?",
+      "options": [
+        "Mediterranean Food Made Easy",
+        "Mediterranean Kitchen",
+        "Mediterranean Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring American cuisine?",
+      "options": [
+        "American Food Made Easy",
+        "American Kitchen",
+        "American Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring fusion cuisine?",
+      "options": [
+        "Fusion Food Made Easy",
+        "Fusion Kitchen",
+        "Fusion Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring global cuisine?",
+      "options": [
+        "Global Food Made Easy",
+        "Global Kitchen",
+        "Global Table",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a popular food-themed cooking show featuring comfort food?",
+      "options": [
+        "Comfort Food Made Easy",
+        "Comfort Kitchen",
+        "Comfort Table",
+        "All of the above"
+      ],
+      "answer": 3
+    }
+  ]
+]

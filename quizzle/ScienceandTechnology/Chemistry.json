@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Which of the following is known as White Vitriol?",
+    "options": [
+      "Zinc sulfate",
+      "Iron(II) sulfate",
+      "Copper(II) sulfate",
+      "Nickel(II) sulfate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The decaying organic matter and coal mines are known for the production of the Marsh gas. Which among the following is the principle component of Marsh Gas?",
+    "options": ["Methane", "Carbon monoxide", "Carbon dioxide", "Hydrogen"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following occurs as dry deposits and is also known as Sajimati (efflorescent soil) in India?",
+    "options": [
+      "Sodium carbonate",
+      "Sodium sulfate",
+      "Sodium chloride",
+      "Sodium nitrate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the fourth state of matter called?",
+    "options": [
+      "Plasma",
+      "Bose-Einstein condensate",
+      "Fermionic condensate",
+      "Degenerate matter"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What happens to the non-metallic character of elements in the p-block of the periodic table?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It remains the same",
+      "It fluctuates"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is correct about Hydrazine?",
+    "options": [
+      "It is a colorless gas",
+      "It is a colorless liquid",
+      "It is a colorless solid",
+      "It is a blue liquid"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is correct about ozone?",
+    "options": [
+      "It is a colorless gas",
+      "It is a blue gas",
+      "It is a red gas",
+      "It is a yellow gas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What do we call the process that separates a pure solid in the form of its crystals from a solution?",
+    "options": [
+      "Crystallization",
+      "Distillation",
+      "Sublimation",
+      "Evaporation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not an ore of Zinc?",
+    "options": ["Sphalerite", "Zincite", "Smithsonite", "Calamine"],
+    "answer": 3
+  },
+  {
+    "question": "Which orbital will have lower energy if two orbitals have the same value of (n+l)?",
+    "options": [
+      "The orbital with lower n value",
+      "The orbital with higher n value",
+      "The orbital with lower l value",
+      "The orbital with higher l value"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is known as fool’s gold?",
+    "options": ["Pyrite", "Marcasite", "Pyrrhotite", "Arsenopyrite"],
+    "answer": 0
+  },
+  {
+    "question": "Manganese (Mn) is an element of which block in the periodic table?",
+    "options": ["s-block", "p-block", "d-block", "f-block"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is used in submarines?",
+    "options": ["Lead", "Mercury", "Sodium", "Potassium"],
+    "answer": 1
+  },
+  {
+    "question": "Electronegative elements are:",
+    "options": ["Metals", "Non-metals", "Metalloids", "Noble gases"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is used in gun powder?",
+    "options": ["Sulfur", "Carbon", "Nitrogen", "Oxygen"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a white crystalline solid substance?",
+    "options": ["Tartaric acid", "Citric acid", "Saccharin", "Urea"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not an ore of calcium?",
+    "options": ["Limestone", "Dolomite", "Gypsum", "Calcite"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is used in self-starting engines as an anti-freezing substance?",
+    "options": ["Methanol", "Ethanol", "Propanol", "Butanol"],
+    "answer": 0
+  },
+  {
+    "question": "Paddy field is considered as the storehouse of:",
+    "options": ["Nitrogen", "Phosphorus", "Potassium", "Silicon"],
+    "answer": 0
+  },
+  {
+    "question": "The substance that removes the excess acid and raises the pH value to an appropriate level in the stomach is known as:",
+    "options": ["Antacid", "Acid neutralizer", "Alkali", "Base"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a noble metal?",
+    "options": ["Gold", "Silver", "Copper", "Platinum"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is used in the manufacture of glass?",
+    "options": [
+      "Sodium carbonate",
+      "Potassium carbonate",
+      "Calcium carbonate",
+      "Magnesium carbonate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a metal?",
+    "options": ["Sodium", "Potassium", "Aluminum", "Beryllium"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a base?",
+    "options": [
+      "Sodium hydroxide",
+      "Potassium hydroxide",
+      "Ammonium hydroxide",
+      "Hydrochloric acid"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of chemical reaction?",
+    "options": [
+      "Synthesis",
+      "Decomposition",
+      "Single displacement",
+      "Double displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is the strongest acid?",
+    "options": [
+      "Hydrochloric acid",
+      "Sulfuric acid",
+      "Nitric acid",
+      "Acetic acid"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the weakest acid?",
+    "options": [
+      "Hydrochloric acid",
+      "Sulfuric acid",
+      "Acetic acid",
+      "Formic acid"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the strongest base?",
+    "options": [
+      "Sodium hydroxide",
+      "Potassium hydroxide",
+      "Ammonium hydroxide",
+      "Calcium hydroxide"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the weakest base?",
+    "options": [
+      "Sodium hydroxide",
+      "Potassium hydroxide",
+      "Ammonium hydroxide",
+      "Magnesium hydroxide"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a polymer?",
+    "options": [
+      "Polyethylene",
+      "Polypropylene",
+      "Polystyrene",
+      "Sodium chloride"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of plastic?",
+    "options": [
+      "Polyethylene",
+      "Polypropylene",
+      "Polystyrene",
+      "Polyvinyl chloride"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is the formula for water?",
+    "options": ["H2O", "HO2", "OH2", "H2O2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for carbon dioxide?",
+    "options": ["CO", "CO2", "C2O", "O2C"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the formula for sulfuric acid?",
+    "options": ["H2SO4", "HSO4", "HSO3", "H2SO3"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for nitric acid?",
+    "options": ["HNO3", "HNO2", "NH4NO3", "NH4NO2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for hydrochloric acid?",
+    "options": ["HCl", "H2Cl", "ClH", "Cl2H"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for sodium hydroxide?",
+    "options": ["NaOH", "Na2O", "NaH", "Na2OH"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for potassium hydroxide?",
+    "options": ["KOH", "K2O", "KH", "K2OH"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for ammonium hydroxide?",
+    "options": ["NH4OH", "NH2OH", "NH3O", "NH4O"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for calcium hydroxide?",
+    "options": ["Ca(OH)2", "CaOH2", "Ca2OH", "CaO2H"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for magnesium hydroxide?",
+    "options": ["Mg(OH)2", "MgOH2", "Mg2OH", "MgO2H"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for aluminum hydroxide?",
+    "options": ["Al(OH)3", "AlOH3", "Al2OH", "AlO2H"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for iron(III) oxide?",
+    "options": ["Fe2O3", "Fe3O2", "FeO3", "Fe2O"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for copper(II) oxide?",
+    "options": ["CuO", "Cu2O", "CuO2", "Cu2O2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for zinc oxide?",
+    "options": ["ZnO", "Zn2O", "ZnO2", "Zn2O2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for lead(II) oxide?",
+    "options": ["PbO", "Pb2O", "PbO2", "Pb2O2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for mercury(II) oxide?",
+    "options": ["HgO", "Hg2O", "HgO2", "Hg2O2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for silver(I) oxide?",
+    "options": ["Ag2O", "AgO", "Ag2O2", "AgO2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for nitrogen gas?",
+    "options": ["N2", "N", "N3", "N4"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the formula for oxygen gas?",
+    "options": ["O2", "O", "O3", "O4"],
+    "answer": 0
+  }
+]

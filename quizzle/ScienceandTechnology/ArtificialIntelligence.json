@@ -1,0 +1,492 @@
+[
+  {
+    "question": "What is the primary goal of artificial intelligence (AI)?",
+    "options": [
+      "To replicate human intelligence in machines",
+      "To automate repetitive tasks",
+      "To improve data analysis",
+      "To create sentient machines"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a type of AI?",
+    "options": ["Narrow AI", "General AI", "Super AI", "Hybrid AI"],
+    "answer": 2
+  },
+  {
+    "question": "What is the difference between rule-based AI and machine learning AI?",
+    "options": [
+      "Rule-based AI uses predefined rules, while machine learning AI learns from data.",
+      "Rule-based AI learns from data, while machine learning AI uses predefined rules.",
+      "Rule-based AI and machine learning AI are the same thing.",
+      "Rule-based AI is used for data analysis, while machine learning AI is used for automation."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a type of machine learning?",
+    "options": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Semi-supervised learning",
+      "Reinforcement learning"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the difference between supervised learning and unsupervised learning?",
+    "options": [
+      "Supervised learning uses labeled data, while unsupervised learning uses unlabeled data.",
+      "Supervised learning uses unlabeled data, while unsupervised learning uses labeled data.",
+      "Supervised learning and unsupervised learning are the same thing.",
+      "Supervised learning is used for prediction, while unsupervised learning is used for clustering."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a type of neural network?",
+    "options": [
+      "Feedforward neural network",
+      "Recurrent neural network",
+      "Convolutional neural network",
+      "Radial basis function network"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of a feedforward neural network?",
+    "options": [
+      "Processing sequential data",
+      "Image recognition",
+      "Predicting numerical values",
+      "Classifying text data"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of a recurrent neural network?",
+    "options": [
+      "Processing sequential data",
+      "Image recognition",
+      "Predicting numerical values",
+      "Classifying text data"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary function of a convolutional neural network?",
+    "options": [
+      "Processing sequential data",
+      "Image recognition",
+      "Predicting numerical values",
+      "Classifying text data"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a type of natural language processing (NLP)?",
+    "options": [
+      "Text classification",
+      "Sentiment analysis",
+      "Machine translation",
+      "Image recognition"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of text classification in NLP?",
+    "options": [
+      "Analyzing the sentiment of text",
+      "Translating text from one language to another",
+      "Categorizing text into predefined categories",
+      "Understanding the context of text"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of sentiment analysis in NLP?",
+    "options": [
+      "Analyzing the sentiment of text",
+      "Translating text from one language to another",
+      "Categorizing text into predefined categories",
+      "Understanding the context of text"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary function of machine translation in NLP?",
+    "options": [
+      "Analyzing the sentiment of text",
+      "Translating text from one language to another",
+      "Categorizing text into predefined categories",
+      "Understanding the context of text"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary function of understanding the context of text in NLP?",
+    "options": [
+      "Analyzing the sentiment of text",
+      "Translating text from one language to another",
+      "Categorizing text into predefined categories",
+      "Understanding the meaning of text in a specific context"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of robotics?",
+    "options": [
+      "Industrial robotics",
+      "Service robotics",
+      "Medical robotics",
+      "Space robotics"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of industrial robotics?",
+    "options": [
+      "Performing repetitive tasks in manufacturing",
+      "Providing healthcare services",
+      "Assisting in surgeries",
+      "Exploring space"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary function of service robotics?",
+    "options": [
+      "Performing repetitive tasks in manufacturing",
+      "Providing healthcare services",
+      "Assisting in surgeries",
+      "Exploring space"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary function of medical robotics?",
+    "options": [
+      "Performing repetitive tasks in manufacturing",
+      "Providing healthcare services",
+      "Assisting in surgeries",
+      "Exploring space"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a type of autonomous vehicle?",
+    "options": [
+      "Self-driving cars",
+      "Autonomous drones",
+      "Autonomous ships",
+      "Autonomous bicycles"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of self-driving cars?",
+    "options": [
+      "Transporting passengers safely and efficiently",
+      "Delivering packages",
+      "Monitoring traffic",
+      "Exploring space"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary function of autonomous drones?",
+    "options": [
+      "Transporting passengers safely and efficiently",
+      "Delivering packages",
+      "Monitoring traffic",
+      "Exploring space"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary function of autonomous ships?",
+    "options": [
+      "Transporting passengers safely and efficiently",
+      "Delivering packages",
+      "Monitoring traffic",
+      "Exploring space"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a type of computer vision?",
+    "options": [
+      "Object recognition",
+      "Image segmentation",
+      "Facial recognition",
+      "Speech recognition"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of object recognition in computer vision?",
+    "options": [
+      "Identifying objects in images or videos",
+      "Segmenting images into regions",
+      "Recognizing faces",
+      "Understanding the context of images"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary function of image segmentation in computer vision?",
+    "options": [
+      "Identifying objects in images or videos",
+      "Segmenting images into regions",
+      "Recognizing faces",
+      "Understanding the context of images"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary function of facial recognition in computer vision?",
+    "options": [
+      "Identifying objects in images or videos",
+      "Segmenting images into regions",
+      "Recognizing faces",
+      "Understanding the context of images"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of understanding the context of images in computer vision?",
+    "options": [
+      "Identifying objects in images or videos",
+      "Segmenting images into regions",
+      "Recognizing faces",
+      "Understanding the meaning of images in a specific context"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of expert system?",
+    "options": [
+      "Rule-based systems",
+      "Knowledge-based systems",
+      "Case-based systems",
+      "Neural network-based systems"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of rule-based systems in expert systems?",
+    "options": [
+      "Applying predefined rules to solve problems",
+      "Storing and retrieving knowledge",
+      "Learning from data",
+      "Understanding natural language"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary function of knowledge-based systems in expert systems?",
+    "options": [
+      "Applying predefined rules to solve problems",
+      "Storing and retrieving knowledge",
+      "Learning from data",
+      "Understanding natural language"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary function of case-based systems in expert systems?",
+    "options": [
+      "Applying predefined rules to solve problems",
+      "Storing and retrieving knowledge",
+      "Learning from data",
+      "Solving problems based on past experiences"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of understanding natural language in expert systems?",
+    "options": [
+      "Applying predefined rules to solve problems",
+      "Storing and retrieving knowledge",
+      "Learning from data",
+      "Understanding natural language"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of AI application?",
+    "options": [
+      "Robotics",
+      "Natural language processing",
+      "Computer vision",
+      "Music composition"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of AI in robotics?",
+    "options": [
+      "Performing repetitive tasks",
+      "Providing healthcare services",
+      "Assisting in surgeries",
+      "Exploring space"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary function of AI in natural language processing?",
+    "options": [
+      "Analyzing the sentiment of text",
+      "Translating text from one language to another",
+      "Categorizing text into predefined categories",
+      "Understanding the meaning of text in a specific context"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of AI in computer vision?",
+    "options": [
+      "Identifying objects in images or videos",
+      "Segmenting images into regions",
+      "Recognizing faces",
+      "Understanding the context of images"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a type of AI ethics?",
+    "options": ["Privacy", "Bias", "Transparency", "Creativity"],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary concern of AI ethics related to privacy?",
+    "options": [
+      "Protecting personal data",
+      "Ensuring fairness",
+      "Improving transparency",
+      "Preventing harm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary concern of AI ethics related to bias?",
+    "options": [
+      "Protecting personal data",
+      "Ensuring fairness",
+      "Improving transparency",
+      "Preventing harm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary concern of AI ethics related to transparency?",
+    "options": [
+      "Protecting personal data",
+      "Ensuring fairness",
+      "Improving transparency",
+      "Preventing harm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary concern of AI ethics related to preventing harm?",
+    "options": [
+      "Protecting personal data",
+      "Ensuring fairness",
+      "Improving transparency",
+      "Preventing harm"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of AI failure?",
+    "options": [
+      "Hardware failure",
+      "Software failure",
+      "Data failure",
+      "Human failure"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary cause of hardware failure in AI?",
+    "options": [
+      "Faulty components",
+      "Power outages",
+      "Data errors",
+      "Human error"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary cause of software failure in AI?",
+    "options": [
+      "Faulty components",
+      "Power outages",
+      "Data errors",
+      "Programming errors"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary cause of data failure in AI?",
+    "options": [
+      "Faulty components",
+      "Power outages",
+      "Data errors",
+      "Human error"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary cause of human failure in AI?",
+    "options": [
+      "Faulty components",
+      "Power outages",
+      "Data errors",
+      "Human error"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of AI safety?",
+    "options": [
+      "Robustness",
+      "Adversarial attacks",
+      "Explainability",
+      "Creativity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary concern of AI safety related to robustness?",
+    "options": [
+      "Ensuring that AI systems can handle unexpected situations",
+      "Preventing adversarial attacks",
+      "Improving explainability",
+      "Preventing harm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary concern of AI safety related to adversarial attacks?",
+    "options": [
+      "Ensuring that AI systems can handle unexpected situations",
+      "Preventing adversarial attacks",
+      "Improving explainability",
+      "Preventing harm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary concern of AI safety related to explainability?",
+    "options": [
+      "Ensuring that AI systems can handle unexpected situations",
+      "Preventing adversarial attacks",
+      "Improving explainability",
+      "Preventing harm"
+    ],
+    "answer": 2
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Who was the first woman to climb Mount Everest?",
+    "options": [
+      "Junko Tabei",
+      "Edmund Hillary",
+      "Tenzing Norgay",
+      "Reinhold Messner"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to travel to space?",
+    "options": [
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Neil Armstrong",
+      "Yuri Gagarin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize in Physics?",
+    "options": ["Marie Curie", "Albert Einstein", "Niels Bohr", "Max Planck"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize in Chemistry?",
+    "options": ["Marie Curie", "Albert Einstein", "Niels Bohr", "Max Planck"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize in Literature?",
+    "options": [
+      "Selma Lagerlöf",
+      "Ernest Hemingway",
+      "Toni Morrison",
+      "Gabriel García Márquez"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Peace Prize?",
+    "options": [
+      "Jane Addams",
+      "Martin Luther King Jr.",
+      "Malala Yousafzai",
+      "Nelson Mandela"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to become a US Supreme Court Justice?",
+    "options": [
+      "Sandra Day O'Connor",
+      "Ruth Bader Ginsburg",
+      "Sonia Sotomayor",
+      "Elena Kagan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to become a Prime Minister in the world?",
+    "options": [
+      "Sirimavo Bandaranaike",
+      "Indira Gandhi",
+      "Margaret Thatcher",
+      "Golda Meir"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to become a President in the world?",
+    "options": [
+      "Sirimavo Bandaranaike",
+      "Indira Gandhi",
+      "Vigdís Finnbogadóttir",
+      "Ellen Johnson Sirleaf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to become a Chief Minister in India?",
+    "options": [
+      "Sucheta Kripalani",
+      "Indira Gandhi",
+      "Nandini Satpathy",
+      "Sushma Swaraj"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to become a Governor in India?",
+    "options": [
+      "Sarojini Naidu",
+      "Padmaja Naidu",
+      "Margaret Alva",
+      "Vijayalakshmi Pandit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Speaker of the Lok Sabha in India?",
+    "options": [
+      "Meira Kumar",
+      "Sumitra Mahajan",
+      "Vijayalakshmi Pandit",
+      "Somnath Chatterjee"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to become a Cabinet Minister in India?",
+    "options": [
+      "Rajkumari Amrit Kaur",
+      "Durgabai Deshmukh",
+      "Vijayalakshmi Pandit",
+      "Indira Gandhi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to become a Chief Election Commissioner in India?",
+    "options": [
+      "Rukmini Devi Arundale",
+      "Vijayalakshmi Pandit",
+      "Dr. S.Y. Quraishi",
+      "Sunil Arora"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to become a Judge of the Supreme Court of India?",
+    "options": [
+      "M. Fathima Beevi",
+      "Leila Seth",
+      "Ruma Pal",
+      "Gyan Sudha Misra"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to become a Judge of the High Court of India?",
+    "options": [
+      "M. Fathima Beevi",
+      "Leila Seth",
+      "Ruma Pal",
+      "Gyan Sudha Misra"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of Police in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Vimla Mehra",
+      "K. Durga Prasad"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the Border Security Force in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the Indo-Tibetan Border Police in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the Central Reserve Police Force in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the Central Industrial Security Force in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Security Guard in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Disaster Response Force in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Investigation Agency in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the Bureau of Civil Aviation Security in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Crime Records Bureau in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Technical Research Organisation in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the Defence Research and Development Organisation in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Security Council Secretariat in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Information Assurance Agency in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Critical Information Infrastructure Protection Centre in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Data Protection Authority in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National e-Governance Division in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to become a Director General of the National Knowledge Network in India?",
+    "options": [
+      "Kiran Bedi",
+      "Kanchan Chaudhary Bhattacharya",
+      "Archana Ramasundaram",
+      "Krishna Chaudhary"
+    ],
+    "answer": 2
+  }
+]

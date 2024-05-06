@@ -1,0 +1,453 @@
+[
+  {
+    "question": "What is the primary goal of network security?",
+    "options": [
+      "Maximizing network speed",
+      "Protecting data and information",
+      "Minimizing network downtime",
+      "Enhancing network connectivity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a common network security threat?",
+    "options": ["Malware", "Phishing", "Encryption", "DDoS attacks"],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of a firewall in network security?",
+    "options": [
+      "Monitoring network traffic",
+      "Blocking unauthorized access",
+      "Encrypting data transmissions",
+      "Speeding up network connections"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a type of malware?",
+    "options": ["Virus", "Worm", "Firewall", "Trojan horse"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of antivirus software in network security?",
+    "options": [
+      "Preventing unauthorized access",
+      "Encrypting data transmissions",
+      "Detecting and removing malware",
+      "Monitoring network traffic"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of encryption in network security?",
+    "options": [
+      "Blocking unauthorized access",
+      "Speeding up network connections",
+      "Securing data transmissions",
+      "Monitoring network traffic"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common authentication method in network security?",
+    "options": [
+      "Passwords",
+      "Biometrics",
+      "Firewalls",
+      "Two-factor authentication"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of intrusion detection systems (IDS) in network security?",
+    "options": [
+      "Preventing unauthorized access",
+      "Encrypting data transmissions",
+      "Monitoring network traffic",
+      "Speeding up network connections"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common type of network attack?",
+    "options": [
+      "Man-in-the-middle",
+      "Social engineering",
+      "Encryption",
+      "Denial of Service (DoS)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of a Virtual Private Network (VPN) in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Encrypting data transmissions",
+      "Blocking unauthorized access",
+      "Monitoring network traffic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a common social engineering technique?",
+    "options": ["Phishing", "Shoulder surfing", "Encryption", "Tailgating"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of a proxy server in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Blocking unauthorized access",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common type of phishing attack?",
+    "options": ["Spear phishing", "Whaling", "Pharming", "Encryption"],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of data loss prevention (DLP) in network security?",
+    "options": [
+      "Preventing unauthorized access",
+      "Monitoring network traffic",
+      "Encrypting data transmissions",
+      "Protecting sensitive data from being leaked"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a common network security protocol?",
+    "options": ["SSL/TLS", "HTTP", "IPsec", "SSH"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary function of Secure Sockets Layer (SSL) and Transport Layer Security (TLS) in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Encrypting data transmissions",
+      "Blocking unauthorized access",
+      "Monitoring network traffic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a common type of denial of service (DoS) attack?",
+    "options": [
+      "Distributed DoS (DDoS)",
+      "Smurf attack",
+      "SYN flood",
+      "Encryption attack"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of a honeypot in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Blocking unauthorized access",
+      "Encrypting data transmissions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a common network security vulnerability?",
+    "options": ["Zero-day exploit", "Backdoor", "Encryption", "SQL injection"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of a network intrusion prevention system (NIPS) in network security?",
+    "options": [
+      "Preventing unauthorized access",
+      "Monitoring network traffic",
+      "Encrypting data transmissions",
+      "Speeding up network connections"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a common type of malware attack?",
+    "options": ["Ransomware", "Adware", "Encryption", "Spyware"],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of a security information and event management (SIEM) system in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Blocking unauthorized access",
+      "Encrypting data transmissions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a common network security best practice?",
+    "options": [
+      "Regularly updating software",
+      "Using strong passwords",
+      "Disabling firewalls",
+      "Encrypting sensitive data"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of a network access control (NAC) system in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Blocking unauthorized access",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common type of network security incident?",
+    "options": [
+      "Data breach",
+      "Phishing attack",
+      "Encryption attack",
+      "Malware infection"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of a security policy in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Establishing guidelines for secure practices",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common network security tool?",
+    "options": [
+      "Intrusion Detection System (IDS)",
+      "Wireshark",
+      "Encryption",
+      "Nmap"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of a vulnerability assessment in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Identifying and prioritizing security weaknesses",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common network security control?",
+    "options": [
+      "Access control lists (ACLs)",
+      "Encryption",
+      "Firewalls",
+      "Virtual Private Networks (VPNs)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of a security incident response plan in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Responding effectively to security breaches",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+
+  {
+    "question": "What is the primary function of a security information and event management (SIEM) system in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Blocking unauthorized access",
+      "Encrypting data transmissions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a common network security best practice?",
+    "options": [
+      "Regularly updating software",
+      "Using strong passwords",
+      "Disabling firewalls",
+      "Encrypting sensitive data"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of a network access control (NAC) system in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Blocking unauthorized access",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common type of network security incident?",
+    "options": [
+      "Data breach",
+      "Phishing attack",
+      "Encryption attack",
+      "Malware infection"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of a security policy in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Establishing guidelines for secure practices",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common network security tool?",
+    "options": [
+      "Intrusion Detection System (IDS)",
+      "Wireshark",
+      "Encryption",
+      "Nmap"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of a vulnerability assessment in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Identifying and prioritizing security weaknesses",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common network security control?",
+    "options": [
+      "Access control lists (ACLs)",
+      "Encryption",
+      "Firewalls",
+      "Virtual Private Networks (VPNs)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of a security incident response plan in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Responding effectively to security breaches",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of a network security audit?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Evaluating the effectiveness of security measures",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common network security risk assessment method?",
+    "options": [
+      "Penetration testing",
+      "Vulnerability scanning",
+      "Encryption",
+      "Security policy review"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of a security awareness training program in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Educating users about security best practices",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common network security compliance standard?",
+    "options": ["PCI DSS", "HIPAA", "GDPR", "SSL"],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary function of a network security incident response team?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Responding to security incidents",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common network security monitoring tool?",
+    "options": ["Snort", "Nagios", "Encryption", "Splunk"],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of a security patch management process in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Applying updates to fix security vulnerabilities",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common network security incident response step?",
+    "options": ["Containment", "Eradication", "Encryption", "Recovery"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary function of a security risk assessment in network security?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Identifying and evaluating potential risks",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a common network security control measure?",
+    "options": [
+      "Intrusion Prevention System (IPS)",
+      "Encryption",
+      "Access Control Lists (ACLs)",
+      "Virtual Private Network (VPN)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of a network security policy in an organization?",
+    "options": [
+      "Speeding up network connections",
+      "Monitoring network traffic",
+      "Establishing guidelines for secure network practices",
+      "Encrypting data transmissions"
+    ],
+    "answer": 2
+  }
+]

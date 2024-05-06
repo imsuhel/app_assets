@@ -1,0 +1,477 @@
+[
+  {
+    "question": "Who is known as the 'Father of Economics'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key feature of mercantilism?",
+    "options": ["Free trade", "Protectionism", "Laissez-faire", "Socialism"],
+    "answer": 1
+  },
+  {
+    "question": "Who is the author of 'The Wealth of Nations'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key feature of socialism?",
+    "options": [
+      "Free trade",
+      "Protectionism",
+      "Government ownership of the means of production",
+      "Laissez-faire"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of 'Das Kapital'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a key feature of capitalism?",
+    "options": [
+      "Government ownership of the means of production",
+      "Central planning of the economy",
+      "Private ownership of the means of production",
+      "Free trade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of 'The General Theory of Employment, Interest and Money'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key feature of Keynesian economics?",
+    "options": [
+      "Government spending should be reduced in a recession",
+      "The economy will always return to full employment on its own",
+      "Government spending can help to stabilize the economy during a recession",
+      "The economy should be left to the private sector"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of 'Capitalism and Freedom'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of monetarism?",
+    "options": [
+      "Government spending should be increased in a recession",
+      "The economy will always return to full employment on its own",
+      "The money supply should be controlled by the government",
+      "The economy should be left to the private sector"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key feature of supply-side economics?",
+    "options": [
+      "Government spending should be increased in a recession",
+      "The economy will always return to full employment on its own",
+      "Tax cuts can help to stimulate economic growth",
+      "The economy should be left to the private sector"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of 'The Theory of Moral Sentiments'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key feature of neoliberalism?",
+    "options": [
+      "Government ownership of the means of production",
+      "Central planning of the economy",
+      "Free trade and deregulation",
+      "Socialism"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of 'The Road to Serfdom'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Friedrich Hayek"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the welfare state?",
+    "options": [
+      "Government ownership of the means of production",
+      "Central planning of the economy",
+      "Government provision of social welfare programs",
+      "Socialism"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of 'The Affluent Society'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "John Kenneth Galbraith"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of neoclassical economics?",
+    "options": [
+      "Government ownership of the means of production",
+      "Central planning of the economy",
+      "The economy tends towards equilibrium",
+      "Socialism"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of 'The Great Transformation'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Karl Polanyi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the Keynesian cross model?",
+    "options": [
+      "Government spending should be reduced in a recession",
+      "The economy will always return to full employment on its own",
+      "Government spending can help to stabilize the economy during a recession",
+      "The economy should be left to the private sector"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of 'The Shock Doctrine'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Naomi Klein"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the Phillips curve?",
+    "options": [
+      "Inflation and unemployment are positively correlated",
+      "Inflation and unemployment are negatively correlated",
+      "Inflation and unemployment are unrelated",
+      "Inflation causes unemployment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is the author of 'The Worldly Philosophers'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Robert L. Heilbroner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the law of supply and demand?",
+    "options": [
+      "Price is determined by the intersection of supply and demand curves",
+      "Price is determined by the government",
+      "Price is determined by the cost of production",
+      "Price is determined by the whims of consumers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is the author of 'The Age of Uncertainty'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "John Kenneth Galbraith"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the multiplier effect?",
+    "options": [
+      "An increase in spending will lead to a smaller increase in output",
+      "An increase in spending will lead to a larger increase in output",
+      "An increase in spending will have no effect on output",
+      "An increase in spending will lead to a decrease in output"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is the author of 'The Great Escape'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Angus Deaton"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the business cycle?",
+    "options": [
+      "The economy grows steadily over time",
+      "The economy experiences regular fluctuations in output and employment",
+      "The economy is always in a state of equilibrium",
+      "The economy is always in a state of recession"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is the author of 'The Capitalist Manifesto'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the Laffer curve?",
+    "options": [
+      "Tax cuts will always lead to a decrease in revenue",
+      "Tax increases will always lead to an increase in revenue",
+      "There is an optimal tax rate that maximizes revenue",
+      "Taxes have no effect on revenue"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the author of 'The End of History and the Last Man'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "Francis Fukuyama",
+      "Samuel P. Huntington"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key feature of the Solow growth model?",
+    "options": [
+      "Technological progress is the main driver of economic growth",
+      "Population growth is the main driver of economic growth",
+      "Savings and investment are the main drivers of economic growth",
+      "Government spending is the main driver of economic growth"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is the author of 'The Populist Temptation'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Barry Eichengreen"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a key feature of the Ricardian equivalence theorem?",
+    "options": [
+      "Government spending can stimulate economic growth",
+      "Tax cuts can stimulate economic growth",
+      "Government debt has no effect on private savings",
+      "Government debt can crowd out private investment"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of 'The Rise and Fall of American Growth'?",
+    "options": ["Adam Smith", "Karl Marx", "Robert Gordon", "Tyler Cowen"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key feature of the New Classical economics?",
+    "options": [
+      "Government spending can stabilize the economy during a recession",
+      "The economy will always return to full employment on its own",
+      "The economy is subject to random shocks that can cause fluctuations",
+      "The economy is always in a state of equilibrium"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is the author of 'The Great Stagnation'?",
+    "options": ["Adam Smith", "Karl Marx", "Tyler Cowen", "Thomas Piketty"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key feature of the Keynesian multiplier?",
+    "options": [
+      "An increase in spending will lead to a smaller increase in output",
+      "An increase in spending will lead to a larger increase in output",
+      "An increase in spending will have no effect on output",
+      "An increase in spending will lead to a decrease in output"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is the author of 'The Price of Inequality'?",
+    "options": ["Adam Smith", "Karl Marx", "Joseph Stiglitz", "Paul Krugman"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key feature of the Classical dichotomy?",
+    "options": [
+      "Real variables are determined by real factors, and nominal variables are determined by monetary factors",
+      "Real variables are determined by monetary factors, and nominal variables are determined by real factors",
+      "Real variables and nominal variables are determined by the same factors",
+      "Real variables and nominal variables are unrelated"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is the author of 'The Capital in the Twenty-First Century'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "Thomas Piketty",
+      "Branko Milanovic"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key feature of the efficient markets hypothesis?",
+    "options": [
+      "Stock prices are always correct",
+      "Stock prices are always incorrect",
+      "Stock prices are sometimes correct and sometimes incorrect",
+      "Stock prices are determined by insiders"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is the author of 'The Black Swan'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "Nassim Nicholas Taleb",
+      "Robert Shiller"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a key feature of the Lucas critique?",
+    "options": [
+      "Economic models should be based on rational expectations",
+      "Economic models should be based on adaptive expectations",
+      "Economic models should be based on historical data",
+      "Economic models should be based on intuition"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is the author of 'The Affluent Society Revisited'?",
+    "options": [
+      "Adam Smith",
+      "John Kenneth Galbraith",
+      "Robert Reich",
+      "Paul Krugman"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a key feature of the rational expectations hypothesis?",
+    "options": [
+      "Economic agents make forecasts based on all available information",
+      "Economic agents make forecasts based on past data",
+      "Economic agents make forecasts based on intuition",
+      "Economic agents do not make forecasts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is the author of 'The World is Flat'?",
+    "options": [
+      "Adam Smith",
+      "Thomas Friedman",
+      "Paul Krugman",
+      "Joseph Stiglitz"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a key feature of the New Keynesian economics?",
+    "options": [
+      "The economy will always return to full employment on its own",
+      "The economy is subject to nominal rigidities that can cause fluctuations",
+      "Real variables are determined by real factors, and nominal variables are determined by monetary factors",
+      "Real variables and nominal variables are unrelated"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is the author of 'The Undercover Economist'?",
+    "options": ["Adam Smith", "Tim Harford", "Steven Levitt", "Paul Krugman"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a key feature of the New Neoclassical Synthesis?",
+    "options": [
+      "The economy will always return to full employment on its own",
+      "The economy is subject to nominal rigidities that can cause fluctuations",
+      "Real variables are determined by real factors, and nominal variables are determined by monetary factors",
+      "Real variables and nominal variables are unrelated"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is the author of 'The Age of Diminished Expectations'?",
+    "options": [
+      "Adam Smith",
+      "Paul Krugman",
+      "Robert Reich",
+      "Joseph Stiglitz"
+    ],
+    "answer": 1
+  }
+]

@@ -1,0 +1,359 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is the unit of power in the SI system?",
+      "options": ["Watt", "Newton", "Joule", "Pascal"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of force in the SI system?",
+      "options": ["Watt", "Newton", "Joule", "Pascal"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the unit of energy in the SI system?",
+      "options": ["Watt", "Newton", "Joule", "Pascal"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the unit of pressure in the SI system?",
+      "options": ["Watt", "Newton", "Joule", "Pascal"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is the unit of temperature in the SI system?",
+      "options": ["Kelvin", "Celsius", "Fahrenheit", "Rankine"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of mass in the SI system?",
+      "options": ["Kilogram", "Gram", "Pound", "Ounce"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of length in the SI system?",
+      "options": ["Meter", "Foot", "Yard", "Mile"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of electrical charge in the SI system?",
+      "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of electrical current in the SI system?",
+      "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the unit of electrical voltage in the SI system?",
+      "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the unit of electrical resistance in the SI system?",
+      "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is the unit of electrical conductance in the SI system?",
+      "options": ["Siemens", "Ohm", "Volt", "Ampere"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of electrical power in the SI system?",
+      "options": ["Watt", "Joule", "Newton", "Pascal"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of electrical energy in the SI system?",
+      "options": ["Watt-hour", "Joule", "Newton-meter", "Pascal-meter"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of electrical capacitance in the SI system?",
+      "options": ["Farad", "Coulomb", "Volt", "Ampere"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of electrical inductance in the SI system?",
+      "options": ["Henry", "Watt", "Joule", "Pascal"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of magnetic flux in the SI system?",
+      "options": ["Weber", "Tesla", "Ampere", "Coulomb"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of magnetic flux density in the SI system?",
+      "options": ["Weber", "Tesla", "Ampere", "Coulomb"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the unit of magnetic field strength in the SI system?",
+      "options": ["Weber", "Tesla", "Ampere", "Coulomb"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the unit of magnetic induction in the SI system?",
+      "options": ["Weber", "Tesla", "Ampere", "Coulomb"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the unit of magnetic permeability in the SI system?",
+      "options": ["Weber", "Tesla", "Henry", "Henry per meter"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is the unit of magnetic susceptibility in the SI system?",
+      "options": ["Dimensionless", "Weber", "Tesla", "Henry"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of thermal conductivity in the SI system?",
+      "options": [
+        "Watt per meter-kelvin",
+        "Joule per second-meter-kelvin",
+        "Newton per meter-kelvin",
+        "Pascal per meter-kelvin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of specific heat capacity in the SI system?",
+      "options": [
+        "Joule per kilogram-kelvin",
+        "Watt per kilogram-kelvin",
+        "Newton per kilogram-kelvin",
+        "Pascal per kilogram-kelvin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of thermal diffusivity in the SI system?",
+      "options": [
+        "Square meter per second",
+        "Meter per second",
+        "Meter squared per second",
+        "Second per meter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of viscosity in the SI system?",
+      "options": [
+        "Pascal-second",
+        "Newton-second per square meter",
+        "Kilogram per meter-second",
+        "Meter per second-kilogram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of surface tension in the SI system?",
+      "options": [
+        "Newton per meter",
+        "Joule per meter",
+        "Watt per meter",
+        "Pascal-meter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of coefficient of thermal expansion in the SI system?",
+      "options": [
+        "Per kelvin",
+        "Kelvin",
+        "Per degree Celsius",
+        "Degree Celsius"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of coefficient of linear expansion in the SI system?",
+      "options": [
+        "Per kelvin",
+        "Kelvin",
+        "Per degree Celsius",
+        "Degree Celsius"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of coefficient of volume expansion in the SI system?",
+      "options": [
+        "Per kelvin",
+        "Kelvin",
+        "Per degree Celsius",
+        "Degree Celsius"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of heat transfer coefficient in the SI system?",
+      "options": [
+        "Watt per meter-square-kelvin",
+        "Joule per second-meter-square-kelvin",
+        "Newton per meter-square-kelvin",
+        "Pascal per meter-square-kelvin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of entropy in the SI system?",
+      "options": [
+        "Joule per kelvin",
+        "Watt per kelvin",
+        "Newton per kelvin",
+        "Pascal per kelvin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of enthalpy in the SI system?",
+      "options": ["Joule", "Watt", "Newton", "Pascal"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of internal energy in the SI system?",
+      "options": ["Joule", "Watt", "Newton", "Pascal"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of specific volume in the SI system?",
+      "options": [
+        "Meter cubed per kilogram",
+        "Kilogram per meter cubed",
+        "Meter per kilogram",
+        "Kilogram per meter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of pressure in the SI system?",
+      "options": [
+        "Pascal",
+        "Newton per square meter",
+        "Kilogram per square meter",
+        "Meter per square kilogram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of force in the SI system?",
+      "options": ["Newton", "Kilogram", "Meter", "Second"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of energy in the SI system?",
+      "options": ["Joule", "Watt", "Newton-meter", "Pascal-meter"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of power in the SI system?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Newton-meter per second",
+        "Pascal-meter per second"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of velocity in the SI system?",
+      "options": [
+        "Meter per second",
+        "Second per meter",
+        "Meter square per second",
+        "Second per meter square"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of acceleration in the SI system?",
+      "options": [
+        "Meter per second square",
+        "Second per meter square",
+        "Meter square per second",
+        "Second per meter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of momentum in the SI system?",
+      "options": [
+        "Newton-second",
+        "Joule-second",
+        "Watt-second",
+        "Pascal-meter-second"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of angular velocity in the SI system?",
+      "options": [
+        "Radian per second",
+        "Second per radian",
+        "Radian square per second",
+        "Second per radian square"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of angular acceleration in the SI system?",
+      "options": [
+        "Radian per second square",
+        "Second per radian square",
+        "Radian square per second",
+        "Second per radian"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of torque in the SI system?",
+      "options": [
+        "Newton-meter",
+        "Joule-meter",
+        "Watt-meter",
+        "Pascal-meter-meter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of moment of inertia in the SI system?",
+      "options": [
+        "Kilogram-meter squared",
+        "Joule-meter squared",
+        "Watt-meter squared",
+        "Pascal-meter-meter-meter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of work in the SI system?",
+      "options": ["Joule", "Watt", "Newton-meter", "Pascal-meter"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of energy in the SI system?",
+      "options": ["Joule", "Watt", "Newton-meter", "Pascal-meter"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of power in the SI system?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Newton-meter per second",
+        "Pascal-meter per second"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the unit of frequency in the SI system?",
+      "options": ["Hertz", "Joule", "Newton-meter", "Pascal-meter"],
+      "answer": 0
+    }
+  ]
+}

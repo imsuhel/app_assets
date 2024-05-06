@@ -1,0 +1,697 @@
+[
+  {
+    "question": "What is the term for the process of rural areas becoming more urban in character and function?",
+    "options": ["Urbanization", "Suburbanization", "Gentrification", "Sprawl"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a primary factor influencing urbanization?",
+    "options": [
+      "Industrialization",
+      "Population growth",
+      "Rural-to-urban migration",
+      "Agricultural intensification"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the term for the physical expansion of urban areas into the surrounding rural areas?",
+    "options": [
+      "Urban sprawl",
+      "Urban renewal",
+      "Urban decay",
+      "Urban consolidation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a primate city?",
+    "options": [
+      "Small population size",
+      "Dominance in political, economic, and cultural aspects",
+      "Located in a rural area",
+      "Low level of infrastructure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for the process of wealthier individuals moving into deteriorated urban areas and renovating properties?",
+    "options": [
+      "Urbanization",
+      "Suburbanization",
+      "Gentrification",
+      "Urban renewal"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban sprawl?",
+    "options": [
+      "Population growth",
+      "Automobile dependency",
+      "Zoning regulations",
+      "Low-density development"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the process of redeveloping areas within a city to improve infrastructure and housing?",
+    "options": [
+      "Urbanization",
+      "Suburbanization",
+      "Gentrification",
+      "Urban renewal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a megacity?",
+    "options": [
+      "Population over 10 million",
+      "High population density",
+      "Diverse economic activities",
+      "Low level of urbanization"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the term for the movement of people from urban areas to suburban areas?",
+    "options": ["Urbanization", "Suburbanization", "Gentrification", "Sprawl"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban decay?",
+    "options": [
+      "Deindustrialization",
+      "Population decline",
+      "Lack of investment in infrastructure",
+      "Gentrification"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban land use?",
+    "options": ["Residential", "Commercial", "Industrial", "Agricultural"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of an edge city?",
+    "options": [
+      "Located outside the central business district",
+      "High concentration of office space",
+      "Accessible by public transportation",
+      "Low population density"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a type of urban settlement?",
+    "options": [
+      "Central business district",
+      "Suburbs",
+      "Satellite city",
+      "Farmland"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urbanization in developing countries?",
+    "options": [
+      "Improved healthcare",
+      "Increased access to education",
+      "Job opportunities in manufacturing",
+      "Rural poverty"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban transportation?",
+    "options": ["Bus", "Subway", "Bicycle", "Airplane"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a global city?",
+    "options": [
+      "High level of economic development",
+      "Dominance in international finance",
+      "Concentration of cultural and educational institutions",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban housing?",
+    "options": [
+      "Single-family detached",
+      "Townhouse",
+      "Apartment",
+      "Farmhouse"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban poverty?",
+    "options": [
+      "High cost of living",
+      "Lack of job opportunities",
+      "Low education levels",
+      "Rural-to-urban migration"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a post-industrial city?",
+    "options": [
+      "Decline in manufacturing jobs",
+      "Increase in service sector jobs",
+      "High levels of education and innovation",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a shrinking city?",
+    "options": [
+      "Population decline",
+      "Decrease in economic activity",
+      "Increase in urban blight",
+      "High population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban park?",
+    "options": ["Linear park", "Community garden", "Sky garden", "Farmland"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban heat islands?",
+    "options": [
+      "High population density",
+      "Lack of green spaces",
+      "Concrete and asphalt surfaces",
+      "Low humidity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban transportation infrastructure?",
+    "options": [
+      "Roads and highways",
+      "Bus and subway systems",
+      "Airports and seaports",
+      "Hiking trails"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a sustainable city?",
+    "options": [
+      "Low carbon emissions",
+      "Efficient use of resources",
+      "High population density",
+      "Access to public transportation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a type of urban renewal project?",
+    "options": [
+      "Redevelopment of abandoned industrial sites",
+      "Construction of new housing developments",
+      "Preservation of historic buildings",
+      "Expansion of highways and roads"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a smart city?",
+    "options": [
+      "Use of technology to improve urban services",
+      "High levels of innovation and entrepreneurship",
+      "Low population density",
+      "Efficient use of resources"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban segregation?",
+    "options": [
+      "Economic disparities",
+      "Racial and ethnic differences",
+      "Zoning regulations",
+      "High levels of social mobility"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban transportation technology?",
+    "options": [
+      "Electric buses",
+      "Self-driving cars",
+      "Bicycles",
+      "High-speed trains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a characteristic of a world city?",
+    "options": [
+      "High level of economic development",
+      "Dominance in international finance",
+      "Concentration of cultural and educational institutions",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban congestion?",
+    "options": [
+      "High population density",
+      "Lack of public transportation",
+      "Automobile dependency",
+      "Efficient use of resources"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban development project?",
+    "options": [
+      "Redevelopment of waterfront areas",
+      "Construction of new commercial districts",
+      "Preservation of historic neighborhoods",
+      "Expansion of highways and roads"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a gated community?",
+    "options": [
+      "High level of security",
+      "Exclusive access to amenities",
+      "High property values",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban pollution?",
+    "options": [
+      "Industrial activity",
+      "Automobile emissions",
+      "Lack of green spaces",
+      "High levels of humidity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a new town?",
+    "options": [
+      "Planned community",
+      "High population density",
+      "Access to public transportation",
+      "Low levels of economic development"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban public space?",
+    "options": [
+      "Parks and gardens",
+      "Plazas and squares",
+      "Shopping malls",
+      "Industrial areas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban gentrification?",
+    "options": [
+      "Increase in property values",
+      "Influx of wealthier residents",
+      "Redevelopment of abandoned industrial sites",
+      "Preservation of historic buildings"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a linear city?",
+    "options": [
+      "Long and narrow shape",
+      "High population density",
+      "Access to public transportation",
+      "Low levels of economic development"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban sprawl in developing countries?",
+    "options": [
+      "Government policies",
+      "Population growth",
+      "Automobile dependency",
+      "Low-density development"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban transportation system?",
+    "options": [
+      "Bus and subway systems",
+      "Bicycle sharing programs",
+      "Airports and seaports",
+      "Hiking trails"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a polycentric city?",
+    "options": [
+      "Multiple centers of economic and cultural activity",
+      "High population density",
+      "Access to public transportation",
+      "Low levels of economic development"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban slums?",
+    "options": [
+      "Poverty",
+      "Lack of access to basic services",
+      "Overcrowding",
+      "High levels of education"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban transportation infrastructure?",
+    "options": [
+      "Bus and subway systems",
+      "Roads and highways",
+      "Airports and seaports",
+      "Bike lanes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a garden city?",
+    "options": [
+      "Low population density",
+      "Access to green spaces",
+      "Planned community",
+      "High levels of economic development"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban resilience?",
+    "options": [
+      "Diversity of economic activities",
+      "High levels of social capital",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a sustainable urban transportation system?",
+    "options": [
+      "Use of renewable energy sources",
+      "Efficient use of resources",
+      "High levels of accessibility",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban social inequality?",
+    "options": [
+      "Economic disparities",
+      "Racial and ethnic differences",
+      "Zoning regulations",
+      "High levels of social mobility"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban public transportation?",
+    "options": [
+      "Bus and subway systems",
+      "Bicycle sharing programs",
+      "Taxis and ride-sharing services",
+      "Horses and carriages"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a compact city?",
+    "options": [
+      "High population density",
+      "Access to public transportation",
+      "Efficient use of resources",
+      "Low levels of economic development"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban adaptability?",
+    "options": [
+      "Diversity of economic activities",
+      "High levels of innovation and entrepreneurship",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban development project?",
+    "options": [
+      "Redevelopment of waterfront areas",
+      "Construction of new commercial districts",
+      "Preservation of historic neighborhoods",
+      "Expansion of green spaces"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a walkable city?",
+    "options": [
+      "Access to public transportation",
+      "Mixed-use development",
+      "Narrow streets",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban liveability?",
+    "options": [
+      "Access to green spaces",
+      "Efficient use of resources",
+      "High levels of social capital",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban transportation technology?",
+    "options": [
+      "Electric buses",
+      "Self-driving cars",
+      "Hybrid vehicles",
+      "Horses and carriages"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a resilient city?",
+    "options": [
+      "Ability to withstand and recover from shocks",
+      "Diversity of economic activities",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban sustainability?",
+    "options": [
+      "Low carbon emissions",
+      "Efficient use of resources",
+      "High levels of social capital",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban transportation system?",
+    "options": [
+      "Bus and subway systems",
+      "Roads and highways",
+      "Airports and seaports",
+      "Cable cars"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a just city?",
+    "options": [
+      "Equality of opportunity",
+      "Access to basic services",
+      "High levels of social capital",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban innovation?",
+    "options": [
+      "High levels of education and skills",
+      "Diversity of economic activities",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban public space?",
+    "options": [
+      "Parks and gardens",
+      "Plazas and squares",
+      "Shopping malls",
+      "Industrial areas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban competitiveness?",
+    "options": [
+      "High levels of innovation and entrepreneurship",
+      "Diversity of economic activities",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban development project?",
+    "options": [
+      "Redevelopment of waterfront areas",
+      "Construction of new commercial districts",
+      "Preservation of historic neighborhoods",
+      "Expansion of green spaces"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a livable city?",
+    "options": [
+      "Access to basic services",
+      "High levels of social capital",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban creativity?",
+    "options": [
+      "Diversity of cultural and artistic activities",
+      "High levels of education and skills",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban transportation technology?",
+    "options": [
+      "Electric buses",
+      "Self-driving cars",
+      "Hyperloop",
+      "Teleportation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a smart city?",
+    "options": [
+      "Use of technology to improve urban services",
+      "High levels of innovation and entrepreneurship",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban inclusivity?",
+    "options": [
+      "Equality of opportunity",
+      "Access to basic services",
+      "High levels of social capital",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban public transportation?",
+    "options": [
+      "Bus and subway systems",
+      "Bicycle sharing programs",
+      "Taxis and ride-sharing services",
+      "Horses and carriages"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a sustainable urban form?",
+    "options": [
+      "Mixed-use development",
+      "High population density",
+      "Access to public transportation",
+      "Low levels of economic development"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban vibrancy?",
+    "options": [
+      "Diversity of cultural and artistic activities",
+      "High levels of education and skills",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of urban development project?",
+    "options": [
+      "Redevelopment of waterfront areas",
+      "Construction of new commercial districts",
+      "Preservation of historic neighborhoods",
+      "Expansion of green spaces"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a characteristic of a healthy city?",
+    "options": [
+      "Access to green spaces",
+      "Efficient use of resources",
+      "High levels of social capital",
+      "Low population density"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a factor contributing to urban prosperity?",
+    "options": [
+      "High levels of innovation and entrepreneurship",
+      "Diversity of economic activities",
+      "Efficient use of resources",
+      "Low population density"
+    ],
+    "answer": 3
+  }
+]

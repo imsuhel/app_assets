@@ -1,0 +1,327 @@
+[
+  {
+    "question": "What is the recommended daily intake of protein for an average adult?",
+    "options": [
+      "10% of daily calories",
+      "15% of daily calories",
+      "20% of daily calories",
+      "25% of daily calories"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a good source of iron?",
+    "options": ["Spinach", "Broccoli", "Carrots", "Cucumbers"],
+    "answer": 0
+  },
+  {
+    "question": "What is the recommended daily intake of fiber for an average adult?",
+    "options": ["10 grams", "20 grams", "30 grams", "40 grams"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a good source of calcium?",
+    "options": ["Milk", "Oranges", "Bananas", "Apples"],
+    "answer": 0
+  },
+  {
+    "question": "What is the recommended daily intake of carbohydrates for an average adult?",
+    "options": [
+      "40% of daily calories",
+      "50% of daily calories",
+      "60% of daily calories",
+      "70% of daily calories"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a good source of vitamin C?",
+    "options": ["Broccoli", "Spinach", "Oranges", "Bananas"],
+    "answer": 2
+  },
+  {
+    "question": "What is the recommended daily intake of fat for an average adult?",
+    "options": [
+      "10% of daily calories",
+      "20% of daily calories",
+      "30% of daily calories",
+      "40% of daily calories"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a good source of omega-3 fatty acids?",
+    "options": ["Salmon", "Chicken", "Beef", "Pork"],
+    "answer": 0
+  },
+  {
+    "question": "What is the recommended daily intake of sugar for an average adult?",
+    "options": ["20 grams", "30 grams", "40 grams", "50 grams"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a good source of vitamin D?",
+    "options": ["Milk", "Eggs", "Fish", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of sodium for an average adult?",
+    "options": [
+      "1500 milligrams",
+      "2000 milligrams",
+      "2500 milligrams",
+      "3000 milligrams"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a good source of potassium?",
+    "options": ["Bananas", "Oranges", "Broccoli", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of cholesterol for an average adult?",
+    "options": [
+      "200 milligrams",
+      "300 milligrams",
+      "400 milligrams",
+      "500 milligrams"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a good source of antioxidants?",
+    "options": ["Berries", "Spinach", "Nuts", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of water for an average adult?",
+    "options": ["1 liter", "2 liters", "3 liters", "4 liters"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a good source of fiber?",
+    "options": ["Whole grains", "Fruits", "Vegetables", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of vitamin A for an average adult?",
+    "options": [
+      "500 micrograms",
+      "700 micrograms",
+      "800 micrograms",
+      "900 micrograms"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a good source of vitamin B12?",
+    "options": ["Fish", "Meat", "Dairy products", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of vitamin C for an average adult?",
+    "options": [
+      "50 milligrams",
+      "75 milligrams",
+      "90 milligrams",
+      "100 milligrams"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a good source of magnesium?",
+    "options": ["Nuts", "Seeds", "Whole grains", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of iron for an average adult?",
+    "options": [
+      "8 milligrams",
+      "10 milligrams",
+      "12 milligrams",
+      "15 milligrams"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a good source of zinc?",
+    "options": ["Meat", "Seafood", "Dairy products", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of calcium for an average adult?",
+    "options": [
+      "500 milligrams",
+      "700 milligrams",
+      "1000 milligrams",
+      "1200 milligrams"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a good source of vitamin E?",
+    "options": ["Nuts", "Seeds", "Vegetable oils", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of folate for an average adult?",
+    "options": [
+      "200 micrograms",
+      "300 micrograms",
+      "400 micrograms",
+      "500 micrograms"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a good source of copper?",
+    "options": ["Nuts", "Seeds", "Whole grains", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of manganese for an average adult?",
+    "options": [
+      "1.8 milligrams",
+      "2.3 milligrams",
+      "3.0 milligrams",
+      "3.6 milligrams"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a good source of selenium?",
+    "options": ["Nuts", "Seafood", "Whole grains", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of chromium for an average adult?",
+    "options": [
+      "20 micrograms",
+      "30 micrograms",
+      "40 micrograms",
+      "50 micrograms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a good source of iodine?",
+    "options": [
+      "Dairy products",
+      "Seafood",
+      "Iodized salt",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of vitamin K for an average adult?",
+    "options": [
+      "60 micrograms",
+      "75 micrograms",
+      "90 micrograms",
+      "100 micrograms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a good source of pantothenic acid (vitamin B5)?",
+    "options": ["Meat", "Whole grains", "Vegetables", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of biotin (vitamin B7) for an average adult?",
+    "options": [
+      "20 micrograms",
+      "30 micrograms",
+      "40 micrograms",
+      "50 micrograms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a good source of vitamin B6?",
+    "options": ["Meat", "Fish", "Nuts", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of thiamin (vitamin B1) for an average adult?",
+    "options": [
+      "1.1 milligrams",
+      "1.2 milligrams",
+      "1.3 milligrams",
+      "1.4 milligrams"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a good source of riboflavin (vitamin B2)?",
+    "options": [
+      "Dairy products",
+      "Meat",
+      "Green vegetables",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of niacin (vitamin B3) for an average adult?",
+    "options": [
+      "14 milligrams",
+      "16 milligrams",
+      "18 milligrams",
+      "20 milligrams"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a good source of vitamin D2?",
+    "options": [
+      "Sunlight",
+      "Fortified foods",
+      "Fatty fish",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the recommended daily intake of vitamin B12 for an average adult?",
+    "options": [
+      "1.5 micrograms",
+      "2.0 micrograms",
+      "2.5 micrograms",
+      "3.0 micrograms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a good source of vitamin B9 (folate)?",
+    "options": [
+      "Green vegetables",
+      "Legumes",
+      "Fortified cereals",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the recommended daily intake of magnesium for an average adult?",
+    "options": [
+      "200 milligrams",
+      "300 milligrams",
+      "400 milligrams",
+      "500 milligrams"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the recommended daily intake of zinc for an average adult?",
+    "options": [
+      "8 milligrams",
+      "10 milligrams",
+      "12 milligrams",
+      "15 milligrams"
+    ],
+    "answer": 0
+  }
+]

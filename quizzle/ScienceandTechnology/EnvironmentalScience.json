@@ -1,0 +1,492 @@
+[
+  {
+    "question": "What is the primary cause of the greenhouse effect?",
+    "options": [
+      "Volcanic eruptions",
+      "Carbon dioxide emissions",
+      "Solar radiation",
+      "Water vapor"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a greenhouse gas?",
+    "options": ["Carbon dioxide", "Methane", "Nitrous oxide", "Ozone"],
+    "answer": 3
+  },
+  {
+    "question": "What is the largest contributor to deforestation in the Amazon rainforest?",
+    "options": ["Agriculture", "Logging", "Mining", "Climate change"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a primary source of water pollution?",
+    "options": [
+      "Agriculture",
+      "Industrial processes",
+      "Domestic wastewater",
+      "Nuclear power plants"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities increase the concentration of greenhouse gases in the atmosphere?",
+    "options": [
+      "Carbon sequestration",
+      "Climate change",
+      "Global warming",
+      "Anthropogenic emissions"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a consequence of climate change?",
+    "options": [
+      "Sea-level rise",
+      "Increased frequency of extreme weather events",
+      "Decreased frequency of extreme weather events",
+      "Loss of biodiversity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary cause of ocean acidification?",
+    "options": [
+      "Increased levels of carbon dioxide in the atmosphere",
+      "Industrial processes",
+      "Nuclear waste",
+      "Domestic wastewater"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a consequence of ocean acidification?",
+    "options": [
+      "Decreased ability of marine organisms to build shells and skeletons",
+      "Increased coral reef growth",
+      "Decreased coral reef growth",
+      "Disruption of marine food chains"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of carbon dioxide in the atmosphere?",
+    "options": [
+      "Carbon sequestration",
+      "Climate change",
+      "Global warming",
+      "Anthropogenic emissions"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a consequence of air pollution?",
+    "options": [
+      "Respiratory diseases",
+      "Acid rain",
+      "Increased crop yields",
+      "Climate change"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of air pollution?",
+    "options": [
+      "Transportation",
+      "Industrial processes",
+      "Domestic wastewater",
+      "Energy production"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of air pollution?",
+    "options": [
+      "Carbon sequestration",
+      "Clean energy production",
+      "Climate change",
+      "Global warming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a consequence of water pollution?",
+    "options": [
+      "Harm to aquatic life",
+      "Harm to human health",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of water pollution?",
+    "options": [
+      "Agriculture",
+      "Industrial processes",
+      "Domestic wastewater",
+      "Natural sources"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of water pollution?",
+    "options": [
+      "Clean energy production",
+      "Wastewater treatment",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a consequence of soil pollution?",
+    "options": [
+      "Harm to plant life",
+      "Harm to human health",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of soil pollution?",
+    "options": [
+      "Industrial processes",
+      "Agriculture",
+      "Domestic wastewater",
+      "Natural sources"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of soil pollution?",
+    "options": [
+      "Clean energy production",
+      "Soil remediation",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a consequence of biodiversity loss?",
+    "options": [
+      "Disruption of ecosystems",
+      "Harm to human health",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a cause of biodiversity loss?",
+    "options": [
+      "Habitat destruction",
+      "Invasive species",
+      "Climate change",
+      "Overfishing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of biodiversity loss?",
+    "options": [
+      "Habitat restoration",
+      "Conservation efforts",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a consequence of ozone depletion?",
+    "options": [
+      "Increased risk of skin cancer",
+      "Disruption of food chains",
+      "Harm to plant life",
+      "Harm to aquatic life"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a cause of ozone depletion?",
+    "options": [
+      "Chlorofluorocarbons (CFCs)",
+      "Nitrous oxide",
+      "Volcanic eruptions",
+      "Industrial processes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of ozone depletion?",
+    "options": [
+      "Reduction of CFCs and other ozone-depleting substances",
+      "Clean energy production",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a consequence of land degradation?",
+    "options": [
+      "Harm to plant life",
+      "Harm to human health",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a cause of land degradation?",
+    "options": [
+      "Deforestation",
+      "Overgrazing",
+      "Climate change",
+      "Industrial processes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of land degradation?",
+    "options": [
+      "Reforestation",
+      "Sustainable agriculture practices",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a consequence of desertification?",
+    "options": [
+      "Loss of biodiversity",
+      "Harm to human health",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a cause of desertification?",
+    "options": [
+      "Climate change",
+      "Deforestation",
+      "Overgrazing",
+      "Industrial processes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of desertification?",
+    "options": [
+      "Reforestation",
+      "Sustainable agriculture practices",
+      "Water management",
+      "Carbon sequestration"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a consequence of waste generation?",
+    "options": [
+      "Harm to human health",
+      "Harm to aquatic life",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of waste generation?",
+    "options": [
+      "Industrial processes",
+      "Agriculture",
+      "Domestic wastewater",
+      "Natural sources"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of waste generation?",
+    "options": [
+      "Recycling and reuse",
+      "Wastewater treatment",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a consequence of electronic waste?",
+    "options": [
+      "Harm to human health",
+      "Harm to aquatic life",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of electronic waste?",
+    "options": [
+      "Consumer electronics",
+      "Industrial processes",
+      "Domestic wastewater",
+      "Natural sources"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of electronic waste?",
+    "options": [
+      "Recycling and reuse",
+      "Wastewater treatment",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a consequence of light pollution?",
+    "options": [
+      "Harm to human health",
+      "Disruption of ecosystems",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of light pollution?",
+    "options": [
+      "Outdoor lighting",
+      "Industrial processes",
+      "Domestic wastewater",
+      "Natural sources"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of light pollution?",
+    "options": [
+      "Use of energy-efficient lighting",
+      "Wastewater treatment",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a consequence of noise pollution?",
+    "options": [
+      "Harm to human health",
+      "Disruption of ecosystems",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of noise pollution?",
+    "options": [
+      "Transportation",
+      "Industrial processes",
+      "Domestic wastewater",
+      "Natural sources"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of noise pollution?",
+    "options": [
+      "Use of noise barriers",
+      "Wastewater treatment",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a consequence of thermal pollution?",
+    "options": [
+      "Harm to aquatic life",
+      "Disruption of ecosystems",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of thermal pollution?",
+    "options": [
+      "Power plants",
+      "Industrial processes",
+      "Domestic wastewater",
+      "Natural sources"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of thermal pollution?",
+    "options": [
+      "Use of cooling towers",
+      "Wastewater treatment",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a consequence of radiation pollution?",
+    "options": [
+      "Harm to human health",
+      "Disruption of ecosystems",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of radiation pollution?",
+    "options": [
+      "Nuclear power plants",
+      "Medical facilities",
+      "Industrial processes",
+      "Natural sources"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the process by which human activities reduce the amount of radiation pollution?",
+    "options": [
+      "Use of radiation protection measures",
+      "Wastewater treatment",
+      "Carbon sequestration",
+      "Global warming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a consequence of plastic pollution?",
+    "options": [
+      "Harm to aquatic life",
+      "Disruption of ecosystems",
+      "Increased crop yields",
+      "Disruption of food chains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a source of plastic pollution?",
+    "options": [
+      "Consumer products",
+      "Industrial processes",
+      "Domestic wastewater",
+      "Natural sources"
+    ],
+    "answer": 3
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Fitness Fundamentals",
+      "totalQuestions": 30,
+      "time": "45 mins",
+      "passingMarks": 20,
+      "url": "/fitness/fundamentals.json",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "title": "Professional Sports",
+      "totalQuestions": 30,
+      "time": "40 mins",
+      "passingMarks": 20,
+      "url": "/sports/professional.json",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "title": "Olympic Games",
+      "totalQuestions": 30,
+      "time": "35 mins",
+      "passingMarks": 20,
+      "url": "/sports/olympics.json",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "title": "Extreme Sports",
+      "totalQuestions": 30,
+      "time": "25 mins",
+      "passingMarks": 20,
+      "url": "/sports/extreme.json",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "title": "Fitness Gear",
+      "totalQuestions": 30,
+      "time": "20 mins",
+      "passingMarks": 20,
+      "url": "/fitness/gear.json",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "title": "Sports Nutrition",
+      "totalQuestions": 30,
+      "time": "30 mins",
+      "passingMarks": 20,
+      "url": "/sports/nutrition.json",
+      "isDone": false
+    },
+    {
+      "id": 7,
+      "title": "Sports Injuries",
+      "totalQuestions": 30,
+      "time": "35 mins",
+      "passingMarks": 20,
+      "url": "/sports/injuries.json",
+      "isDone": false
+    },
+    {
+      "id": 8,
+      "title": "Fitness Trends",
+      "totalQuestions": 30,
+      "time": "40 mins",
+      "passingMarks": 20,
+      "url": "/fitness/trends.json",
+      "isDone": false
+    },
+    {
+      "id": 9,
+      "title": "Sports Psychology",
+      "totalQuestions": 30,
+      "time": "45 mins",
+      "passingMarks": 20,
+      "url": "/sports/psychology.json",
+      "isDone": false
+    },
+    {
+      "id": 10,
+      "title": "Athletic Training",
+      "totalQuestions": 30,
+      "time": "50 mins",
+      "passingMarks": 20,
+      "url": "/sports/training.json",
+      "isDone": false
+    }
+  ]
+}

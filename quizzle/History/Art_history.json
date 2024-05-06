@@ -1,0 +1,587 @@
+[
+  {
+    "question": "Which of the following is NOT a characteristic of the Baroque style in art?",
+    "options": [
+      "Rich colors",
+      "Dramatic contrasts",
+      "Emotional intensity",
+      "Simplicity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who is considered the father of modern art?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Henri Matisse"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a movement in modern art?",
+    "options": ["Fauvism", "Impressionism", "Surrealism", "Romanticism"],
+    "answer": 3
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Impressionism?",
+    "options": [
+      "Small, thin, yet visible brush strokes",
+      "Emphasis on accurate depiction of light in its changing qualities",
+      "Open composition",
+      "Emotional content"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who painted The Starry Night?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Henri Matisse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Surrealism?",
+    "options": [
+      "Dream-like scenes",
+      "Irrational juxtapositions",
+      "Emphasis on the human form",
+      "Exploration of the unconscious mind"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Persistence of Memory?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Cubism?",
+    "options": [
+      "Geometric shapes",
+      "Multiple viewpoints",
+      "Emphasis on the human form",
+      "Fragmentation of objects"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted Guernica?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Henri Matisse"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Abstract Expressionism?",
+    "options": [
+      "Emotional intensity",
+      "Large-scale canvases",
+      "Use of non-traditional materials",
+      "Emphasis on the human form"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who painted The Scream?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Edvard Munch",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Pop Art?",
+    "options": [
+      "Bright colors",
+      "Use of popular culture imagery",
+      "Emotional intensity",
+      "Irony"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted Campbell's Soup Cans?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Andy Warhol",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Minimalism?",
+    "options": [
+      "Simplicity",
+      "Use of geometric shapes",
+      "Emotional intensity",
+      "Use of industrial materials"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Last Supper?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Constructivism?",
+    "options": [
+      "Use of geometric shapes",
+      "Emphasis on form over color",
+      "Use of industrial materials",
+      "Emotional intensity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who painted The Birth of Venus?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Sandro Botticelli",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Dada?",
+    "options": [
+      "Irrationality",
+      "Use of found objects",
+      "Emphasis on the human form",
+      "Irony"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Girl with a Pearl Earring?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Johannes Vermeer",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Fauvism?",
+    "options": [
+      "Bright colors",
+      "Emphasis on form over color",
+      "Use of non-traditional materials",
+      "Emotional intensity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who painted The Night Watch?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Rembrandt",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Expressionism?",
+    "options": [
+      "Emotional intensity",
+      "Use of non-traditional materials",
+      "Emphasis on the human form",
+      "Distortion of reality"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Arnolfini Portrait?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Jan van Eyck",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Realism?",
+    "options": [
+      "Emphasis on the human form",
+      "Attention to detail",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Fighting Temeraire?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "J.M.W. Turner",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Romanticism?",
+    "options": [
+      "Emotional intensity",
+      "Use of non-traditional materials",
+      "Emphasis on the human form",
+      "Interest in the natural world"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who painted The Hay Wain?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "John Constable",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Neoclassicism?",
+    "options": [
+      "Emphasis on the human form",
+      "Attention to detail",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Oath of the Horatii?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Jacques-Louis David",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Rococo?",
+    "options": [
+      "Light colors",
+      "Use of curved lines",
+      "Emotional intensity",
+      "Attention to detail"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Swing?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Jean-Honoré Fragonard",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Gothic art?",
+    "options": [
+      "Pointed arches",
+      "Ribbed vaults",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Last Judgment?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Michelangelo",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Byzantine art?",
+    "options": [
+      "Gold backgrounds",
+      "Use of mosaics",
+      "Emotional intensity",
+      "Flat perspective"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Virgin of the Rocks?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Romanesque art?",
+    "options": [
+      "Round arches",
+      "Thick walls",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Creation of Adam?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Michelangelo",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Ancient Egyptian art?",
+    "options": [
+      "Flat perspective",
+      "Emphasis on the human form",
+      "Rigid poses",
+      "Bright colors"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who painted The School of Athens?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Raphael",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Ancient Greek art?",
+    "options": [
+      "Realism",
+      "Idealization of the human form",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Chinese art?",
+    "options": [
+      "Emphasis on calligraphy",
+      "Use of watercolors",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Great Wave off Kanagawa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Katsushika Hokusai",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Japanese art?",
+    "options": [
+      "Emphasis on simplicity",
+      "Use of watercolors",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Starry Night Over the Rhone?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Henri Matisse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of African art?",
+    "options": [
+      "Emphasis on masks",
+      "Use of bright colors",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who painted The Persistence of Memory?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Native American art?",
+    "options": [
+      "Emphasis on geometric shapes",
+      "Use of natural materials",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Dance?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Claude Monet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Pre-Columbian art?",
+    "options": [
+      "Emphasis on geometric shapes",
+      "Use of natural materials",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Night Watch?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Rembrandt",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Islamic art?",
+    "options": [
+      "Emphasis on calligraphy",
+      "Use of geometric shapes",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Water Lilies?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Oceanic art?",
+    "options": [
+      "Emphasis on geometric shapes",
+      "Use of natural materials",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Scream?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Edvard Munch",
+      "Henri Matisse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Australian Aboriginal art?",
+    "options": [
+      "Emphasis on dreamtime stories",
+      "Use of natural materials",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Sunflowers?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Henri Matisse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of South Asian art?",
+    "options": [
+      "Emphasis on Hindu mythology",
+      "Use of natural materials",
+      "Emotional intensity",
+      "Objectivity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who painted The Starry Night?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Henri Matisse"
+    ],
+    "answer": 0
+  }
+]

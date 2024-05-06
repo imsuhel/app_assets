@@ -1,0 +1,582 @@
+[
+  {
+    "question": "Which of the following statements about the Washington Treaty is correct?",
+    "options": [
+      "It is the foundation of the North Atlantic Treaty Organization (NATO).",
+      "It was signed in Washington D.C. on April 4, 1949, by 12 founding members.",
+      "It commits NATO members to protect each other.",
+      "All of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which country recently held its first parliamentary election under the new leadership of Emir Sheikh Meshal al-Ahmad al-Sabah?",
+    "options": ["Kuwait", "Saudi Arabia", "Qatar", "Bahrain"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not about soft power and public diplomacy?",
+    "options": [
+      "Economic sanctions",
+      "Confucius Institutes",
+      "Voice of America",
+      "Cultural exchange programmes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is China's main vehicle for cultural initiatives overseas?",
+    "options": [
+      "The Mao Institute",
+      "The Institute of Economic Affairs",
+      "The China Syndrome",
+      "The Confucius Institute"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is the most significant environmental reform in Israel since the enactment of the Clean Air Law in 2008?",
+    "options": [
+      "The new environmental licensing law",
+      "The waste management law",
+      "The water pollution control law",
+      "The climate change law"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which country recently declared the El Nino-induced drought a national disaster?",
+    "options": ["Zimbabwe", "Malawi", "Mozambique", "Zambia"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is an example of increased 'concert diplomacy'?",
+    "options": [
+      "Using a variety of diplomatic means in concert to achieve desired ends.",
+      "Negotiating a bilateral agreement with a single country.",
+      "Conducting a unilateral military intervention.",
+      "Engaging in economic coercion against a country."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is the current Secretary of State of the United States?",
+    "options": ["Antony Blinken", "Mike Pompeo", "Rex Tillerson", "John Kerry"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first Secretary of State of the United States?",
+    "options": [
+      "Thomas Jefferson",
+      "Alexander Hamilton",
+      "John Jay",
+      "Benjamin Franklin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman in the Foreign Service of the United States?",
+    "options": [
+      "Ruth Bryan Owen",
+      "Clare Boothe Luce",
+      "Frances Perkins",
+      "Jeanette Rankin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to hold the rank of Ambassador of the United States?",
+    "options": [
+      "Ruth Bryan Owen",
+      "Clare Boothe Luce",
+      "Frances Perkins",
+      "Jeanette Rankin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first African-American diplomat of the United States?",
+    "options": [
+      "Ebenezer Bassett",
+      "William Tecumseh Sherman",
+      "Frederick Douglass",
+      "Martin Luther King Jr."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first African-American to join the Foreign Service of the United States?",
+    "options": [
+      "Ebenezer Bassett",
+      "William Tecumseh Sherman",
+      "Frederick Douglass",
+      "Martin Luther King Jr."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first African-American woman to become an Ambassador of the United States?",
+    "options": [
+      "Patricia Roberts Harris",
+      "Shirley Chisholm",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the highest-ranking African-American in the Department of State of the United States?",
+    "options": [
+      "Colin Powell",
+      "Condoleezza Rice",
+      "Colin L. Powell",
+      "Susan Rice"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a treaty?",
+    "options": [
+      "A legally binding agreement between two or more states or international organizations.",
+      "A non-binding agreement between two or more states or international organizations.",
+      "A unilateral declaration by a state or international organization.",
+      "A military intervention by a state or international organization."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When was the first U.S. treaty signed?",
+    "options": ["1776", "1778", "1783", "1784"],
+    "answer": 1
+  },
+  {
+    "question": "What was the first U.S. treaty with a non-European nation?",
+    "options": [
+      "Treaty of Paris (1783)",
+      "Treaty of Amity and Commerce with Japan (1858)",
+      "Treaty of Fort Laramie (1868)",
+      "Treaty of Ghent (1814)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the first U.S. treaty to be ratified under the U.S. Constitution?",
+    "options": [
+      "Treaty of Paris (1783)",
+      "Treaty of Amity and Commerce with Japan (1858)",
+      "Treaty of Fort Laramie (1868)",
+      "Treaty of Ghent (1814)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first U.S. diplomat?",
+    "options": [
+      "Benjamin Franklin",
+      "Thomas Jefferson",
+      "John Adams",
+      "John Jay"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to hold the rank of Ambassador in the United Nations?",
+    "options": [
+      "Clare Boothe Luce",
+      "Patricia Roberts Harris",
+      "Madeleine Albright",
+      "Condoleezza Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American woman to hold the rank of Ambassador in the United Nations?",
+    "options": [
+      "Patricia Roberts Harris",
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Permanent Representative to the United Nations?",
+    "options": [
+      "Clare Boothe Luce",
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Permanent Representative to the United Nations?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Colin Powell",
+      "Condoleezza Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Secretary of State?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Hillary Clinton",
+      "Janet Yellen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Secretary of State?",
+    "options": [
+      "Colin Powell",
+      "Condoleezza Rice",
+      "Eric Holder",
+      "Loretta Lynch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to the United Nations?",
+    "options": [
+      "Clare Boothe Luce",
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to the United Nations?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Colin Powell",
+      "Condoleezza Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to China?",
+    "options": [
+      "Patricia Roberts Harris",
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Gary Locke"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to China?",
+    "options": ["Ralph Bunche", "Andrew Young", "Gary Locke", "Susan Rice"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Russia?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Janet Napolitano",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Russia?",
+    "options": ["Ralph Bunche", "Andrew Young", "Colin Powell", "Susan Rice"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to India?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Nancy Powell",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to India?",
+    "options": ["Ralph Bunche", "Andrew Young", "Gary Locke", "Susan Rice"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Japan?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Caroline Kennedy",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Japan?",
+    "options": ["Ralph Bunche", "Andrew Young", "Gary Locke", "Susan Rice"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Israel?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Sharon Wilkinson",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Israel?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Germany?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Victoria Nuland",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Germany?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to France?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Pamela Harriman",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to France?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to the United Kingdom?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Pamela Harriman",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to the United Kingdom?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Canada?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Pamela Harriman",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Canada?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Mexico?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Roberta Jacobson",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Mexico?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Australia?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Jeffrey Bleich",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Australia?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Brazil?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Clare Torrey",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Brazil?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to South Africa?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Princeton Lyman",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to South Africa?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Egypt?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Margaret Scobey",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Egypt?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Saudi Arabia?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Margaret Scobey",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Saudi Arabia?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to Turkey?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Margaret Scobey",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to Turkey?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to serve as the U.S. Ambassador to the United Arab Emirates?",
+    "options": [
+      "Madeleine Albright",
+      "Condoleezza Rice",
+      "Margaret Scobey",
+      "Susan Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first African-American to serve as the U.S. Ambassador to the United Arab Emirates?",
+    "options": [
+      "Ralph Bunche",
+      "Andrew Young",
+      "Condoleezza Rice",
+      "Susan Rice"
+    ],
+    "answer": 1
+  }
+]

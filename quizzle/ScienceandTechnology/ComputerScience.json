@@ -1,0 +1,352 @@
+[
+  {
+    "question": "What does the DNS system used by Internet permit?",
+    "options": [
+      "Computers to identify other computers",
+      "Computers to connect to the internet",
+      "Computers to send e-mails",
+      "Computers to browse the web"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the unique numerical code for each computer on the Internet?",
+    "options": ["IP address", "DNS", "URL", "URI"],
+    "answer": 0
+  },
+  {
+    "question": "What is a firewall in computer security?",
+    "options": [
+      "A computer program that protects the computer from certain types of malware threats",
+      "A patch designed to update and secure the computer program and fix and improve the computer",
+      "A type of computer virus that spreads through the internet",
+      "A type of computer network that is used to connect multiple computers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a patch in computer security?",
+    "options": [
+      "A computer program that protects the computer from certain types of malware threats",
+      "A patch designed to update and secure the computer program and fix and improve the computer",
+      "A type of computer virus that spreads through the internet",
+      "A type of computer network that is used to connect multiple computers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who designed the Python programming language?",
+    "options": [
+      "Guido van Rossum",
+      "Bjarne Stroustrup",
+      "Dennis Ritchie",
+      "James Gosling"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who designed the PHP programming language?",
+    "options": [
+      "Rasmus Lerdorf",
+      "Linus Torvalds",
+      "Larry Wall",
+      "Donald Knuth"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the shortcut key to full screen the active window (basically web browser) in your computer?",
+    "options": ["F11", "Alt + F11", "Ctrl + F11", "Shift + F11"],
+    "answer": 0
+  },
+  {
+    "question": "Who among the following invented the computer microprocessor?",
+    "options": [
+      "Marcian Hoff or Ted Hoff",
+      "Gordon Moore",
+      "Robert Noyce",
+      "Federico Faggin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the period of the first generation computer?",
+    "options": ["1942 to 1955", "1955 to 1965", "1965 to 1975", "1975 to 1985"],
+    "answer": 0
+  },
+  {
+    "question": "What is the storage capacity of digital computers?",
+    "options": ["Low", "Medium", "High", "Very high"],
+    "answer": 3
+  },
+  {
+    "question": "What is a USB storage device?",
+    "options": [
+      "A type of computer hardware used for input",
+      "A type of computer hardware used for output",
+      "A type of computer hardware used for storage",
+      "A type of computer hardware used for communication"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the term ALGOL stand for?",
+    "options": [
+      "Algorithmic Language",
+      "Automatic Language for Generalized Operations",
+      "Algorithmic Language for General Operations",
+      "Automatic Language for General Operations and Logic"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the term COMAL stand for?",
+    "options": [
+      "Common Algorithmic Language",
+      "Computer Algorithmic Language",
+      "Common Algorithmic Language for Microcomputers",
+      "Computer Algorithmic Language for Microcomputers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does the term SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Structured Query Logic",
+      "Simple Query Logic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the extension type of the excel 2007 files?",
+    "options": [".xls", ".xlsx", ".xsl", ".xlsm"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a web browser?",
+    "options": ["MOSAIC", "WWW", "Facebook", "Netscape navigator"],
+    "answer": 2
+  },
+  {
+    "question": "What is a Trojan in computer security?",
+    "options": [
+      "A type of computer virus that spreads through the internet",
+      "A type of computer program that is designed to damage or disrupt a computer system",
+      "A type of computer network that is used to connect multiple computers",
+      "A type of computer program that is designed to steal sensitive information from a computer system"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a programming language?",
+    "options": ["HTTP", "HTML", "HPML", "FTP"],
+    "answer": 1
+  },
+  {
+    "question": "Which protocol is used to send e-mail?",
+    "options": ["HTTP", "POP3", "SMTP", "SSH"],
+    "answer": 2
+  },
+  {
+    "question": "Which protocol is used to receive e-mail?",
+    "options": ["HTTP", "POP3", "SMTP", "SSH"],
+    "answer": 1
+  },
+  {
+    "question": "What is a compiler in computer programming?",
+    "options": [
+      "A computer program that converts assembly language to machine language",
+      "A computer program that converts high-level language to machine language",
+      "A computer program that converts machine language to high-level language",
+      "A computer program that converts machine language to assembly language"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a type of computer virus?",
+    "options": ["Worm", "Trojan", "Spyware", "Malware"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a type of computer network?",
+    "options": ["LAN", "WAN", "MAN", "PAN"],
+    "answer": 3
+  },
+  {
+    "question": "What is the full form of the CPU?",
+    "options": [
+      "Central Processing Unit",
+      "Control Processing Unit",
+      "Computing Processing Unit",
+      "Command Processing Unit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the brain of a computer?",
+    "options": ["CPU", "RAM", "ROM", "HDD"],
+    "answer": 0
+  },
+  {
+    "question": "What is the extension type of the word document files?",
+    "options": [".doc", ".docx", ".dot", ".dotx"],
+    "answer": 1
+  },
+  {
+    "question": "What is the extension type of the powerpoint presentation files?",
+    "options": [".ppt", ".pptx", ".pps", ".ppsx"],
+    "answer": 1
+  },
+  {
+    "question": "What is the extension type of the excel files?",
+    "options": [".xls", ".xlsx", ".xlsm", ".xltx"],
+    "answer": 1
+  },
+  {
+    "question": "What is the extension type of the text files?",
+    "options": [".txt", ".doc", ".docx", ".rtf"],
+    "answer": 0
+  },
+  {
+    "question": "What is the extension type of the PDF files?",
+    "options": [".pdf", ".doc", ".docx", ".rtf"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the first fully supported 64-bit operating system?",
+    "options": ["Windows Vista", "Mac", "Linux", "Windows XP"],
+    "answer": 0
+  },
+  {
+    "question": "Computer Hard Disk was first introduced in 1956 by?",
+    "options": ["Dell", "Apple", "Microsoft", "IBM"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a web browser?",
+    "options": ["MOSAIC", "WWW", "Facebook", "Netscape navigator"],
+    "answer": 1
+  },
+  {
+    "question": "In computer world, Trojan refer to?",
+    "options": ["Virus", "Malware", "Worm", "Spyware"],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is a programming language?",
+    "options": ["HTTP", "HTML", "HPML", "FTP"],
+    "answer": 1
+  },
+  {
+    "question": "Which protocol is used to received e-mail?",
+    "options": ["SMTP", "POP3", "HTTP", "FTP"],
+    "answer": 1
+  },
+  {
+    "question": "Which protocol is used to send e-mail?",
+    "options": ["HTTP", "POP3", "SMTP", "SSH"],
+    "answer": 2
+  },
+  {
+    "question": "Which computer program converts assembly language to machine language?",
+    "options": ["Interpreter", "Compiler", "Assembler", "Comparator"],
+    "answer": 2
+  },
+  {
+    "question": "In which year '@' sign was first chosen for its use in e-mail address?",
+    "options": ["1976", "1980", "1977", "1972"],
+    "answer": 2
+  },
+  {
+    "question": "Which one is the latest one from PARAM SuperSries computers?",
+    "options": ["PARAM Yuva II", "PARAM 10000", "PARAM Padma", "PARAMnet"],
+    "answer": 0
+  },
+  {
+    "question": "Who is also known as the father of Indian Supercomputing?",
+    "options": [
+      "Ragunath Mashelkar",
+      "Vijay Bhatkar",
+      "Jayant Narlikar",
+      "Nandan Nilekani"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A folder in windows computer can't be made with the name?",
+    "options": ["can", "con", "mak", "make"],
+    "answer": 1
+  },
+  {
+    "question": "A computer uses which type of number system to calculate and to store data?",
+    "options": ["Decimal", "Octal", "Binary", "Hexadecimal"],
+    "answer": 2
+  },
+  {
+    "question": "What is the extension type of the excel 2007 files?",
+    "options": [".xls", ".xlsx", ".xsl", "None of the above"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the full form of the CPU?",
+    "options": [
+      "Central Processing Unit",
+      "Control Processing Unit",
+      "Computing Processing Unit",
+      "Command Processing Unit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the full form of the RAM?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Random Access Machine",
+      "Read Access Machine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the full form of the ROM?",
+    "options": [
+      "Read Only Memory",
+      "Random Only Memory",
+      "Read Only Machine",
+      "Random Only Machine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the full form of the HDD?",
+    "options": [
+      "Hard Disk Drive",
+      "High Disk Drive",
+      "Hard Disk Decide",
+      "High Disk Decide"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the full form of the SSD?",
+    "options": [
+      "Solid State Drive",
+      "Solid State Decide",
+      "Solid Disk Drive",
+      "Solid Disk Decide"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the full form of the GPU?",
+    "options": [
+      "Graphics Processing Unit",
+      "Graphics Processing Decide",
+      "Graphics Disk Unit",
+      "Graphics Disk Decide"
+    ],
+    "answer": 0
+  }
+]

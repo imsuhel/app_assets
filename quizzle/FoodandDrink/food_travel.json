@@ -1,0 +1,422 @@
+[
+  {
+    "question": "What is the capital of France, a popular destination for food lovers?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is known for its sushi, tempura, and ramen?",
+    "options": ["China", "Japan", "Korea", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "What is the national dish of Italy?",
+    "options": ["Paella", "Tacos", "Pizza", "Spaghetti Bolognese"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Spain, a country known for its tapas and paella?",
+    "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Thailand, a country known for its street food and spicy dishes?",
+    "options": ["Bangkok", "Chiang Mai", "Phuket"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its curries and biryanis?",
+    "options": ["China", "Japan", "India", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Mexico, a country known for its tacos, enchiladas, and mole?",
+    "options": ["Mexico City", "Cancun", "Puerto Vallarta", "Acapulco"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its schnitzel and bratwurst?",
+    "options": ["France", "Italy", "Germany", "Spain"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Greece, a country known for its Mediterranean diet and moussaka?",
+    "options": ["Athens", "Santorini", "Mykonos", "Crete"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its pho and banh mi?",
+    "options": ["China", "Japan", "Vietnam", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Argentina, a country known for its steak and empanadas?",
+    "options": ["Buenos Aires", "Cordoba", "Mendoza", "Bariloche"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its fish and chips and afternoon tea?",
+    "options": ["France", "Italy", "Spain", "United Kingdom"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Canada, a country known for its poutine and maple syrup?",
+    "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its dim sum and wontons?",
+    "options": ["Japan", "Korea", "China", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Australia, a country known for its barbecue and seafood?",
+    "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+    "answer": 3
+  },
+  {
+    "question": "Which country is known for its ramen and sushi?",
+    "options": ["China", "Japan", "Korea", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Russia, a country known for its borscht and pelmeni?",
+    "options": ["Moscow", "St. Petersburg", "Sochi", "Yekaterinburg"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its tagine and couscous?",
+    "options": ["Spain", "France", "Italy", "Morocco"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Brazil, a country known for its feijoada and churrasco?",
+    "options": ["Brasilia", "Rio de Janeiro", "Sao Paulo", "Salvador"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its falafel and shawarma?",
+    "options": ["Spain", "France", "Italy", "Israel"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of South Africa, a country known for its braai and bobotie?",
+    "options": ["Pretoria", "Johannesburg", "Cape Town", "Durban"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its tacos and tamales?",
+    "options": ["Brazil", "Argentina", "Mexico", "Colombia"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Indonesia, a country known for its satay and nasi goreng?",
+    "options": ["Jakarta", "Bali", "Lombok", "Sumatra"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its kebabs and baklava?",
+    "options": ["Spain", "France", "Italy", "Turkey"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Egypt, a country known for its koshari and falafel?",
+    "options": ["Cairo", "Alexandria", "Luxor", "Aswan"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its sushi and tempura?",
+    "options": ["China", "Japan", "Korea", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Peru, a country known for its ceviche and lomo saltado?",
+    "options": ["Lima", "Cusco", "Arequipa", "Trujillo"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Colombia, a country known for its arepas and bandeja paisa?",
+    "options": ["Bogota", "Medellin", "Cali", "Cartagena"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its paella and tapas?",
+    "options": ["Spain", "France", "Italy", "Portugal"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Belgium, a country known for its waffles, chocolate, and beer?",
+    "options": ["Brussels", "Antwerp", "Ghent", "Bruges"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its currywurst and schnitzel?",
+    "options": ["France", "Italy", "Germany", "Spain"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Austria, a country known for its Wiener schnitzel and Sacher-Torte?",
+    "options": ["Vienna", "Salzburg", "Innsbruck", "Graz"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its fish and chips and Yorkshire pudding?",
+    "options": ["France", "Italy", "Spain", "United Kingdom"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Sweden, a country known for its meatballs and smorgasbord?",
+    "options": ["Stockholm", "Gothenburg", "Malmö", "Uppsala"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its goulash and chimney cake?",
+    "options": ["Spain", "France", "Germany", "Hungary"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Denmark, a country known for its smørrebrød and pastries?",
+    "options": ["Copenhagen", "Aarhus", "Odense", "Aalborg"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its pad thai and green curry?",
+    "options": ["China", "Japan", "Vietnam", "Thailand"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Norway, a country known for its salmon and lutefisk?",
+    "options": ["Oslo", "Bergen", "Trondheim", "Stavanger"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its bibimbap and kimchi?",
+    "options": ["China", "Japan", "Korea", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Finland, a country known for its salmiakki and korvapuusti?",
+    "options": ["Helsinki", "Tampere", "Turku", "Oulu"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its tapas and paella?",
+    "options": ["Spain", "France", "Italy", "Portugal"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Ireland, a country known for its Irish stew and soda bread?",
+    "options": ["Dublin", "Cork", "Galway", "Limerick"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Poland, a country known for its pierogi and bigos?",
+    "options": ["Warsaw", "Krakow", "Gdansk", "Wroclaw"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its tacos and enchiladas?",
+    "options": ["Brazil", "Argentina", "Mexico", "Colombia"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Czech Republic, a country known for its goulash and dumplings?",
+    "options": ["Prague", "Brno", "Ostrava", "Plzen"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Romania, a country known for its sarmale and mămăligă?",
+    "options": ["Bucharest", "Cluj-Napoca", "Timișoara", "Iași"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Greece, a country known for its moussaka and souvlaki?",
+    "options": ["Athens", "Thessaloniki", "Patras", "Heraklion"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Netherlands, a country known for its herring and stroopwafel?",
+    "options": ["Amsterdam", "Rotterdam", "The Hague", "Utrecht"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its baklava and kebabs?",
+    "options": ["Spain", "France", "Italy", "Turkey"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Portugal, a country known for its pastel de nata and bacalhau?",
+    "options": ["Lisbon", "Porto", "Faro", "Funchal"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its fish and chips and haggis?",
+    "options": ["France", "Italy", "Spain", "Scotland"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Switzerland, a country known for its fondue and raclette?",
+    "options": ["Bern", "Geneva", "Zurich", "Basel"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of New Zealand, a country known for its lamb and pavlova?",
+    "options": ["Wellington", "Auckland", "Christchurch", "Hamilton"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of South Korea, a country known for its kimchi and bibimbap?",
+    "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its empanadas and asado?",
+    "options": ["Brazil", "Argentina", "Chile", "Peru"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Hungary, a country known for its goulash and chimney cake?",
+    "options": ["Budapest", "Debrecen", "Szeged", "Pecs"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Croatia, a country known for its seafood and pasticada?",
+    "options": ["Zagreb", "Split", "Dubrovnik", "Rijeka"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its ceviche and lomo saltado?",
+    "options": ["Peru", "Chile", "Ecuador", "Bolivia"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Morocco, a country known for its tagine and couscous?",
+    "options": ["Rabat", "Marrakech", "Casablanca", "Fez"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its schnitzel and strudel?",
+    "options": ["France", "Italy", "Germany", "Spain"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of India, a country known for its curry and biryani?",
+    "options": ["Mumbai", "Delhi", "Bangalore", "Kolkata"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is known for its poutine and butter tarts?",
+    "options": ["Canada", "Australia", "New Zealand", "Ireland"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Lebanon, a country known for its hummus and falafel?",
+    "options": ["Beirut", "Tripoli", "Sidon", "Tyre"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its haggis and shortbread?",
+    "options": ["England", "Wales", "Scotland", "Northern Ireland"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Malaysia, a country known for its nasi lemak and satay?",
+    "options": ["Kuala Lumpur", "Penang", "Malacca", "Johor Bahru"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its moussaka and souvlaki?",
+    "options": ["Italy", "Greece", "Turkey", "Egypt"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Austria, a country known for its schnitzel and strudel?",
+    "options": ["Vienna", "Salzburg", "Innsbruck", "Graz"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its borscht and pierogi?",
+    "options": ["Russia", "Poland", "Ukraine", "Belarus"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Iceland, a country known for its skyr and lamb?",
+    "options": ["Reykjavik", "Akureyri", "Hafnarfjordur", "Keflavik"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its kibbeh and baklava?",
+    "options": ["Lebanon", "Jordan", "Syria", "Iraq"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Brazil, a country known for its feijoada and brigadeiro?",
+    "options": ["Brasilia", "Rio de Janeiro", "Sao Paulo", "Salvador"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its tajine and mint tea?",
+    "options": ["Egypt", "Tunisia", "Algeria", "Morocco"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of South Africa, a country known for its braai and boerewors?",
+    "options": ["Pretoria", "Johannesburg", "Cape Town", "Durban"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is known for its kofta and baklava?",
+    "options": ["Turkey", "Greece", "Cyprus", "Egypt"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Argentina, a country known for its asado and empanadas?",
+    "options": ["Buenos Aires", "Cordoba", "Mendoza", "Rosario"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its kibbeh and tabbouleh?",
+    "options": ["Lebanon", "Jordan", "Syria", "Iraq"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Thailand, a country known for its pad thai and green curry?",
+    "options": ["Bangkok", "Chiang Mai", "Phuket", "Pattaya"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its ceviche and causa?",
+    "options": ["Brazil", "Chile", "Peru", "Ecuador"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is known for its kibbeh and fattoush?",
+    "options": ["Lebanon", "Jordan", "Syria", "Iraq"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Vietnam, a country known for its pho and banh mi?",
+    "options": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Hue"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its empanadas and locro?",
+    "options": ["Brazil", "Argentina", "Chile", "Peru"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Spain, a country known for its paella and tapas?",
+    "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for its jerk chicken and ackee and saltfish?",
+    "options": ["Jamaica", "Barbados", "Trinidad and Tobago", "Bahamas"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of South Africa, a country known for its braai and biltong?",
+    "options": ["Pretoria", "Johannesburg", "Cape Town", "Durban"],
+    "answer": 2
+  }
+]

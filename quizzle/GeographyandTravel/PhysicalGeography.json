@@ -1,0 +1,312 @@
+[
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Gobi", "Kalahari", "Sahara", "Antarctic"],
+    "answer": 3
+  },
+  {
+    "question": "Which mountain range is the highest in the world?",
+    "options": ["Andes", "Himalayas", "Rockies", "Alps"],
+    "answer": 1
+  },
+  {
+    "question": "Which ocean is the largest in the world?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "answer": 1
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": 1
+  },
+  {
+    "question": "Which continent has the most islands?",
+    "options": ["Asia", "Europe", "North America", "Australia"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the largest lake in the world?",
+    "options": ["Caspian Sea", "Superior", "Victoria", "Baikal"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest waterfall in the world?",
+    "options": ["Niagara", "Iguazu", "Victoria", "Angel"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the highest waterfall in the world?",
+    "options": ["Niagara", "Iguazu", "Victoria", "Angel"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the longest mountain range in the world?",
+    "options": ["Andes", "Himalayas", "Rockies", "Mid-Atlantic Ridge"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the deepest lake in the world?",
+    "options": ["Baikal", "Tanganyika", "Superior", "Caspian Sea"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest gulf in the world?",
+    "options": [
+      "Persian Gulf",
+      "Gulf of Mexico",
+      "Gulf of Thailand",
+      "Gulf of Aden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest peninsula in the world?",
+    "options": ["Arabian", "Indian", "Iberian", "Scandinavian"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest plateau in the world?",
+    "options": ["Tibetan", "Deccan", "Mexican", "South American"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the world?",
+    "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest delta in the world?",
+    "options": ["Amazon", "Ganges", "Nile", "Mississippi"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the largest bay in the world?",
+    "options": ["Hudson Bay", "Bay of Bengal", "Gulf of Mexico", "Baffin Bay"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest strait in the world?",
+    "options": [
+      "Strait of Gibraltar",
+      "Strait of Hormuz",
+      "Strait of Malacca",
+      "Bering Strait"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which is the largest glacier in the world?",
+    "options": [
+      "Lambert Glacier",
+      "Vatnajokull Glacier",
+      "Perito Moreno Glacier",
+      "Hubbard Glacier"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is the highest mountain peak in the world?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the longest cave system in the world?",
+    "options": [
+      "Mammoth Cave",
+      "Optymistychna Cave",
+      "Son Doong Cave",
+      "Sarawak Chamber"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest desert in the world (excluding Antarctica)?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Arabian"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest rainforest in the world?",
+    "options": ["Amazon", "Congo", "Southeast Asian", "Daintree"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest coral reef in the world?",
+    "options": [
+      "Great Barrier Reef",
+      "Mesoamerican Barrier Reef",
+      "New Caledonia Barrier Reef",
+      "Red Sea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Olympus Mons", "Krakatoa", "Mount Everest"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the deepest part of the ocean?",
+    "options": [
+      "Mariana Trench",
+      "Tonga Trench",
+      "Java Trench",
+      "Puerto Rico Trench"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest archipelago in the world?",
+    "options": ["Indonesia", "Philippines", "Japan", "Malaysia"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest hot desert in the world?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Arabian"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest ice cap in the world (excluding Antarctica)?",
+    "options": [
+      "Greenland",
+      "Arctic",
+      "Patagonian",
+      "West Antarctic Ice Sheet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest saltwater lake in the world?",
+    "options": ["Caspian Sea", "Aral Sea", "Dead Sea", "Great Salt Lake"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest freshwater lake in the world (excluding the Caspian Sea)?",
+    "options": ["Superior", "Baikal", "Victoria", "Tanganyika"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island nation in the world?",
+    "options": ["Indonesia", "Philippines", "Japan", "United Kingdom"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest bay in Asia?",
+    "options": [
+      "Bay of Bengal",
+      "Gulf of Thailand",
+      "Yellow Sea",
+      "Sea of Japan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Mediterranean Sea?",
+    "options": ["Sicily", "Sardinia", "Cyprus", "Crete"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Caribbean Sea?",
+    "options": ["Cuba", "Hispaniola", "Jamaica", "Puerto Rico"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Atlantic Ocean?",
+    "options": ["Greenland", "Great Britain", "Newfoundland", "Iceland"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Pacific Ocean?",
+    "options": ["New Guinea", "Borneo", "Greenland", "Madagascar"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Indian Ocean?",
+    "options": ["Madagascar", "Sri Lanka", "Borneo", "Sumatra"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Arctic Ocean?",
+    "options": ["Greenland", "Ellesmere Island", "Spitsbergen", "Devon Island"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Baltic Sea?",
+    "options": ["Gotland", "Sjælland", "Öland", "Saaremaa"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the North Sea?",
+    "options": ["Great Britain", "Ireland", "Iceland", "Shetland Islands"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Gulf of Mexico?",
+    "options": ["Cuba", "Cozumel", "Isla Mujeres", "Isla de la Juventud"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Red Sea?",
+    "options": ["Sinai", "Tiran", "Sanafir", "Socotra"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Persian Gulf?",
+    "options": ["Qeshm", "Bahrain", "Kish", "Kharg"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Black Sea?",
+    "options": ["Crimea", "Sakhalin", "Cyprus", "Lesbos"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Mediterranean Sea (excluding Europe)?",
+    "options": ["Sicily", "Sardinia", "Cyprus", "Crete"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the South China Sea?",
+    "options": ["Borneo", "Palawan", "Luzon", "Mindanao"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Caribbean Sea (excluding Cuba)?",
+    "options": ["Hispaniola", "Jamaica", "Puerto Rico", "Haiti"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Gulf of California (excluding Tiburón)?",
+    "options": ["Ángel de la Guarda", "Carmen", "Cerralvo", "Danzante"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Sea of Japan (excluding Hokkaido)?",
+    "options": ["Jeju", "Honshu", "Kyushu", "Shikoku"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the largest island in the Bering Sea (excluding Wrangel)?",
+    "options": ["Nunivak", "St. Lawrence", "Bering", "Wrangel"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the largest island in the Sea of Okhotsk (excluding Sakhalin)?",
+    "options": ["Hokkaido", "Paramushir", "Iturup", "Kunashir"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the East China Sea (excluding Taiwan)?",
+    "options": ["Okinawa", "Jeju", "Tsushima", "Ishigaki"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest island in the Andaman Sea (excluding Sumatra)?",
+    "options": ["Phuket", "Penang", "Borneo", "Langkawi"],
+    "answer": 3
+  }
+]
